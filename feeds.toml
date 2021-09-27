@@ -1,13 +1,13 @@
-[funfacts]
-title = "Wikipedia — did you know?"
-url = "https://en.wikipedia.org/wiki/Main_Page"
-entrySelector = "#mp-dyk > ul li"
-titleSelector = "b"
-linkSelector = "b a"
+[Cirad Dataverse]
+title = "Newly published Datasets from Cirad Dataverse"
+url = "https://dataverse.cirad.fr/dataverse/CIRAD"
+entrySelector = "html body div#content‧container div#searchResults div#search-row-panel‧row‧row-offcanvas‧row-offcanvas-left div#dv-main‧col-sm-8.col-md-9 table#resultsTable tbody tr td div‧datasetResult‧clearfix"
+titleSelector = "div‧card-title-icon-block a span"
+linkSelector = "div‧card-title-icon-block a"
 
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
+[La Gazette de café du cycliste]
+title = "La Gazette de café du cycliste"
+url = "https://www.cafeducycliste.com/la-gazette/"
+entrySelector = "html body‧is-blog‧wordpress-homepage-view‧page-layout-1column div‧page-wrapper main#maincontent‧page-main div‧columns div‧column‧main div‧post-list-wrapper‧page-container div#gazette-container‧post-list div‧item-box"
+titleSelector = "p strong"
 linkSelector = "h2 a"
