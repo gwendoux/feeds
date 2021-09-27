@@ -1,11 +1,11 @@
-[Cirad Dataverse]
+[CiradDataverse]
 title = "Newly published Datasets from Cirad Dataverse"
 url = "https://dataverse.cirad.fr/dataverse/CIRAD"
 entrySelector = "html body div#content‧container div#searchResults div#search-row-panel‧row‧row-offcanvas‧row-offcanvas-left div#dv-main‧col-sm-8.col-md-9 table#resultsTable tbody tr td div‧datasetResult‧clearfix"
 titleSelector = "div‧card-title-icon-block a span"
 linkSelector = "div‧card-title-icon-block a"
 
-[La Gazette de café du cycliste]
+[LaGazetteCafeCycliste]
 title = "La Gazette de café du cycliste"
 url = "https://www.cafeducycliste.com/la-gazette/"
 entrySelector = "html body‧is-blog‧wordpress-homepage-view‧page-layout-1column div‧page-wrapper main#maincontent‧page-main div‧columns div‧column‧main div‧post-list-wrapper‧page-container div#gazette-container‧post-list div‧item-box"
