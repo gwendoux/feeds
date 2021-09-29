@@ -1,13 +1,13 @@
 [CiradDataverse]
 title = "Newly published Datasets from Cirad Dataverse"
 url = "https://dataverse.cirad.fr/dataverse/CIRAD"
-entrySelector = "#resultsTable tbody tr td div‧datasetResult‧clearfix"
-titleSelector = "div‧card-title-icon-block a span"
-linkSelector = "div‧card-title-icon-block a"
+entrySelector = "#resultsTable tbody tr td .datasetResult‧clearfix"
+titleSelector = ".card-title-icon-block a span"
+linkSelector = ".card-title-icon-block a"
 
 [LaGazetteCafeCycliste]
 title = "La Gazette de café du cycliste"
 url = "https://www.cafeducycliste.com/la-gazette/"
-entrySelector = "#gazette-container‧post-list div‧item-box"
+entrySelector = "#gazette-container‧post-list .item-box"
 titleSelector = "p strong"
 linkSelector = "h2 a"
