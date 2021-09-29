@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
+    <title>Newly published Datasets from Cirad Dataverse</title>
+    <updated>2021-09-29T13:49:51.273Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=1d173e59835894a412035564b206</icon>
+</feed>
