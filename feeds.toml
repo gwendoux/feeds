@@ -1,12 +1,13 @@
 [default]
 waitUntil = "load"
+timeout = 120
 
 [CiradDataverse]
 title = "Newly published Datasets from Cirad Dataverse"
 url = "https://dataverse.cirad.fr/dataverse/CIRAD"
-entrySelector = "#resultsTable tbody tr td .datasetResult‧clearfix"
-titleSelector = ".card-title-icon-block a span"
-linkSelector = ".card-title-icon-block a"
+entrySelector = "#resultsTable tbody tr td"
+titleSelector = ".datasetResult .card-title-icon-block a span"
+linkSelector = ".datasetResult .card-title-icon-block a"
 
 [LaGazetteCafeCycliste]
 title = "La Gazette de café du cycliste"
