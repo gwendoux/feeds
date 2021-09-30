@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-09-29T17:44:56.921Z</updated>
+    <updated>2021-09-30T05:40:18.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=2a8aecbcba19f6af00dab3c92c0e</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=53797bad579fd80d634488be496e</icon>
+    <entry>
+        <title type="html"><![CDATA[Tree species inventory in the Faidherbia albida parkland of Senegal]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/OAYDV3</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/OAYDV3"/>
+        <updated>2021-09-30T05:40:12.439Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/OAYDV3"><span style="padding:4px 0;">Tree species inventory in the Faidherbia albida parkland of Senegal</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/OAYDV3"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Sep 30, 2021</span><span class="text-muted"> - </span><a href="/dataverse/aida">AIDA</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ndao, Babacar; Leroux, Louise; Diouf, Abdoul Aziz, 2021, "Tree species inventory in the Faidherbia albida parkland of Senegal", <a href="https://doi.org/10.18167/DVN1/OAYDV3" target="_blank">https://doi.org/10.18167/DVN1/OAYDV3</a>, CIRAD Dataverse, V1
+                        </div>The tree inventory was conducted in the Faidherbia albida parkland in Senegal, in the region of Niakhar. A field campaign for tree species data collection was carried out in May 2018. It is a weighted stratified sampling of 213 observation sites distributed according to a landsca...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Databases of the publication entitled : "Estimation of red deer population and its impact on Tugay forest ecosystem in the Lower Amu Darya State Biosphere Reserve, Uzbekistan"]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/THSVXS</id>
@@ -166,23 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Deléglise, Hugo; Schaeffer, Camille; Maître d'Hôtel, Elodie; Bégué, Agnès; Roche, Mathieu; Interdonato, Roberto; Teisseire, Maguelonne, 2021, "Corpus de journaux burkinabés en français sur la sécurité alimentaire publiés entre 2009 et 2018", <a href="https://doi.org/10.18167/DVN1/IVVEQL" target="_blank">https://doi.org/10.18167/DVN1/IVVEQL</a>, CIRAD Dataverse, V1
                         </div>Ce corpus de journaux en français est constitué de 22856 articles issus des journaux burkinabés "Le Faso" et "Burkina 24", publiés entre 2009 et 2018. Plusieurs infos sur ces articles sont données: l'année (ANNEE); la similarité Word2vec avec un lexique de sécurité alimentaire (S...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lexiques en français sur la sécurité alimentaire et les crises]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/C5PU01</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/C5PU01"/>
-        <updated>2021-09-29T13:58:51.316Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/C5PU01"><span style="padding:4px 0;">Lexiques en français sur la sécurité alimentaire et les crises</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/C5PU01"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Sep 3, 2021</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Deléglise, Hugo; Schaeffer, Camille; Maître d'Hôtel, Elodie; Bégué, Agnès, 2021, "Lexiques en français sur la sécurité alimentaire et les crises", <a href="https://doi.org/10.18167/DVN1/C5PU01" target="_blank">https://doi.org/10.18167/DVN1/C5PU01</a>, CIRAD Dataverse, V1
-                        </div>Les données sont constituées de 3 lexiques en français sur la sécurité alimentaire et les crises adaptés au contexte du Burkina Faso sur la période 2009-2018 créés par plusieurs experts de la sécurité alimentaire: un lexique généraliste sur la sécurité alimentaire constitué de 21...</div>]]></content>
     </entry>
 </feed>
