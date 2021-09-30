@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-09-30T05:40:18.770Z</updated>
+    <updated>2021-09-30T17:44:14.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Database of wood properties from specimens of the French Guiana wood collection (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"/>
+        <updated>2021-09-30T17:44:07.955Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"><span style="padding:4px 0;">Database of wood properties from specimens of the French Guiana wood collection</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Sep 30, 2021</span><span class="text-muted"> - </span><a href="/dataverse/xylotheque">Xylothèque</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Beauchêne, Jacques; Thibaut, Bernard; Amusant, Nadine; Cigna,Jeremy, 2021, "Database of wood properties from specimens of the French Guiana wood collection", <a href="https://doi.org/10.18167/DVN1/R4G7BC" target="_blank">https://doi.org/10.18167/DVN1/R4G7BC</a>, CIRAD Dataverse, V1, UNF:6:aw4dA6oalWYwxzBh8LKSGA== [fileUNF]
+                        </div>The wood collection (Xylotheque or Xylarium) of Kourou (French Guiana) was created in 1976 by Jean Thiel and has since been augmented by many contributors. It is a child collection of the Xylotheque of Montpellier. A Xylarium, like the one in Kourou, is a unique collection of woo...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tree species inventory in the Faidherbia albida parkland of Senegal (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/OAYDV3</id>
@@ -165,23 +183,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ducastel, Antoine, 2021, "Proparco and EIB's ACP facility investments in agriculture from 2000 to 2020", <a href="https://doi.org/10.18167/DVN1/EGZ5TL" target="_blank">https://doi.org/10.18167/DVN1/EGZ5TL</a>, CIRAD Dataverse, V1
                         </div>Proparco and EIB's ACP facility investments in agriculture from 2000 to 2020</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corpus de journaux burkinabés en français sur la sécurité alimentaire publiés entre 2009 et 2018 (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IVVEQL</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IVVEQL"/>
-        <updated>2021-09-29T13:58:51.315Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IVVEQL"><span style="padding:4px 0;">Corpus de journaux burkinabés en français sur la sécurité alimentaire publiés entre 2009 et 2018</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IVVEQL"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Sep 3, 2021</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Deléglise, Hugo; Schaeffer, Camille; Maître d'Hôtel, Elodie; Bégué, Agnès; Roche, Mathieu; Interdonato, Roberto; Teisseire, Maguelonne, 2021, "Corpus de journaux burkinabés en français sur la sécurité alimentaire publiés entre 2009 et 2018", <a href="https://doi.org/10.18167/DVN1/IVVEQL" target="_blank">https://doi.org/10.18167/DVN1/IVVEQL</a>, CIRAD Dataverse, V1
-                        </div>Ce corpus de journaux en français est constitué de 22856 articles issus des journaux burkinabés "Le Faso" et "Burkina 24", publiés entre 2009 et 2018. Plusieurs infos sur ces articles sont données: l'année (ANNEE); la similarité Word2vec avec un lexique de sécurité alimentaire (S...</div>]]></content>
     </entry>
 </feed>
