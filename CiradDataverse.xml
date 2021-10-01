@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-09-30T17:44:14.455Z</updated>
+    <updated>2021-10-01T05:39:15.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=7ce5e43551dd7f5dd0fdcca2461e</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=a5d0431ec90cb3df1a99cf387213</icon>
     <entry>
         <title type="html"><![CDATA[Database of wood properties from specimens of the French Guiana wood collection]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC</id>
