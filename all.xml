@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-02T17:44:03.676Z</updated>
+    <updated>2021-10-03T05:39:37.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV"/>
+        <updated>2021-10-03T05:39:32.459Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV"><span style="padding:4px 0;">A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAMAAABDh1hgAAAAe1BMVEX////+/v77+/v8/Pz9/f36+vrd3d3g4ODl5eXn5+fj4+Ps7Ozx8fHh4eHX19fZ2dnf39/a2trb29vr6+v19fXu7u7p6env7+/q6urz8/Pi4uLk5OTt7e3m5ubo6Oj4+Pj09PTy8vL29vb39/f5+fne3t7w8PDc3Nzp6Oi6qs5fAAACmklEQVQ4y81Ui46kOAycDtB53zHjjhPyArohc///heueFcxqdTfSaqXVWSAjYUxVuZyXlz8YF9b1fd/1X5QMVy6k4vqrNv1HXH4TTG/sX3+PryN/e319g38tYTeH2gftIICe+o7gs66jxM4mEJVCLVNGLkt1VRVXsYZY61HTBQApgggyBB1cRvACQ5X0cAjR52docEHrXDXOl0v3QbE/peqX221a78ttmqZlWm6PxzzM20xpPoToioS4y1RQxipUEUkBFmljOrGwKAWXqfJYbCt7iXhVKjrBRemOAezFplTlSC9Gu1/fx93ycSxgr59duEUbheV1YIwNFM/EejYcWHrT2tS88W0aBlKMse6jhOJklAMiVikplZyxQkYMsgaoB5beN8w6a+c9hDWgA738NKIur2313rTbuvi1TUZ7v67t0ZbbgYXxFBV/s8Q97UWUtNvRprFyBad0WHMQklcMpYJBICmhIVoxnT8KNBjw2qB3mcaoMXgHvuUQDrhM2JJiiRLu9/ty/xgY5cdipnPSk1kpspl/y7uXmTiar/aItLPj+z58vQLkRyIDZDxAAF3RoawaPkVmbPVmNc2Q6cwTujc34/NkHmcPq5IdU5LkXTJ5rZJ2RVYF4hwj46KSuCJFmUSxWGJVKYqa0j8HhcGqmMhmVozvKinxbm3Zvu/ayXnb5pksT9d924Zt3rbt18+Ai5PomiNKT0LNt7Y0s/ppaub0Lnm7aAkags6hIuiAEjDoKj+NGSqplp1DyCSc9uQMOib0D2YAKUmDABJb9l5Xcietg/M6n6uGuooQApT7f8HtNOKaNUF5/oxS9mQ8B1j9IR0r/DWJyNUeIxdqpFuN1l7HvZxHEH0kjXdBYq7eEFz02YcC2nUv/6/4BrjRQRGfS1n9AAAAAElFTkSuQmCC" alt="A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system">
+                            </a>
+                        </div><span class="text-muted">Oct 2, 2021</span><span class="text-muted"> - </span><a href="/dataverse/geco">UPR GECO</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Rapetti Manon, 2021, "A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system", <a href="https://doi.org/10.18167/DVN1/2GVORV" target="_blank">https://doi.org/10.18167/DVN1/2GVORV</a>, CIRAD Dataverse, V1, UNF:6:LBM1TMK6zA+DmK35TFy6jQ== [fileUNF]
+                        </div>This dataset describes 12 Cavendish cultivars for their phenology, their morphology, their biomass and their bunch characteristics and their root system architecture. Except for the root traits, all measurements were performed on two crop cycles and 10 repetitions per cultivar an...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Database of wood properties from specimens of the French Guiana wood collection (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC</id>
@@ -165,23 +183,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Vieilledent, Ghislain; Tagliari, Mario M.; Danthu, Pascal; Leong Pock-Tsy, Jean-Michel; Cornu, Cyrille, 2021, "Code and data for: Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar", <a href="https://doi.org/10.18167/DVN1/LIALRR" target="_blank">https://doi.org/10.18167/DVN1/LIALRR</a>, CIRAD Dataverse, V2, UNF:6:lndJF8z2UN65DOVze0ompQ== [fileUNF]
                         </div>This repository includes code and data for the following article: TAGLIARI Mario M., Pascal DANTHU, Jean-Michel LEONG POCK TSY, Cyrille CORNU, Jonathan LENOIR, Vítor CARVALHO-ROCHA, Ghislain VIEILLEDENT. 2021. Not all species will migrate poleward as the climate warms: the case o...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proparco and EIB's ACP facility investments in agriculture from 2000 to 2020 (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/EGZ5TL</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/EGZ5TL"/>
-        <updated>2021-09-29T13:58:51.315Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/EGZ5TL"><span style="padding:4px 0;">Proparco and EIB's ACP facility investments in agriculture from 2000 to 2020</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/EGZ5TL"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Sep 3, 2021</span><span class="text-muted"> - </span><a href="/dataverse/artdev">ART-Dev</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ducastel, Antoine, 2021, "Proparco and EIB's ACP facility investments in agriculture from 2000 to 2020", <a href="https://doi.org/10.18167/DVN1/EGZ5TL" target="_blank">https://doi.org/10.18167/DVN1/EGZ5TL</a>, CIRAD Dataverse, V1
-                        </div>Proparco and EIB's ACP facility investments in agriculture from 2000 to 2020</div>]]></content>
     </entry>
 </feed>
