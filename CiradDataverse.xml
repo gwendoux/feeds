@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-10-03T05:39:37.578Z</updated>
+    <updated>2021-10-03T17:44:20.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=4a9ebba535908b9458eb4666d098</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=7403436e8bb3d4dbd9edb348a795</icon>
     <entry>
         <title type="html"><![CDATA[A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV</id>
