@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-06T05:39:46.281Z</updated>
+    <updated>2021-10-06T17:43:37.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Dataset of repellency of wild oregano to whiteflies (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT"/>
+        <updated>2021-10-06T17:43:31.375Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT"><span style="padding:4px 0;">Dataset of repellency of wild oregano to whiteflies</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Oct 6, 2021</span><span class="text-muted"> - </span><a href="/dataverse/hortsys">UPR HORTSYS</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">POUËT Cyrane; Rhino, Béatrice, 2021, "Dataset of repellency of wild oregano to whiteflies", <a href="https://doi.org/10.18167/DVN1/PGG1HT" target="_blank">https://doi.org/10.18167/DVN1/PGG1HT</a>, CIRAD Dataverse, V2, UNF:6:sBo+z/n7UxVhcMUU2Zjsrw== [fileUNF]
+                        </div>These data support the research article "Repellency of wild oregano plant volatiles, Plectranthus amboinicus, and their essential oils to the silverleaf whitefly , Bemisia tabaci, on tomato ”. We tested three origins of wild oregano, including northern (WO1), central (WO2) and so...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV</id>
@@ -165,23 +183,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Cornélis, Daniel; van Vliet, Nathalie; Nguinguiri, Jean-Claude; Gaidet, Nicolas; Ayaya, Idriss; Broussolle, Lucile; Fagot, Rémy; Granier, Etienne; Houngbegnon, Fructueux; Sandrin, François; Vanegas, Liliana; Yapi, Fabrice; Ampolo, Alain; Bivigou, Abdon; MbuyiBilonda, Brigitte; Le Bel, Sebastien, 2021, "Hunting offtake dataset of the project "Sustainable Management of the Wildlife and Bushmeat Sector in Central Africa"", <a href="https://doi.org/10.18167/DVN1/SGAKNY" target="_blank">https://doi.org/10.18167/DVN1/SGAKNY</a>, CIRAD Dataverse, V1
                         </div>These data were collected from April to August 2014 as part of a study to assess the feasibility of village hunting management in 6 pilot village communities in Central Africa (Congo, Democratic Republic of Congo, Gabon). This anonymized dataset lists and describes approximately...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code and data for: Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/LIALRR</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/LIALRR"/>
-        <updated>2021-09-29T13:58:51.315Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/LIALRR"><span style="padding:4px 0;">Code and data for: Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/LIALRR"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAwCAYAAACbm8NsAAAE6UlEQVR42sWY10osQRCG94V9A70UBTFcqeCFmBADmBUxiwnFnHPOOWfr8BXU0o7O6plddxqWnu3pqf77r6ruqopIHO3j4yPQO78W8Q68v79/Esj/k5MTOTs7k6urK9nf35fHx0d5enryFerKCAyGxS4vL3Xhu7s7eX19ldvbWzk+PpaXlxdZW1vTOff39wrm4uIiOo9mAAHLGJtxGbK5gLVvfMHAwO7urgoDEG1zc1POz8/1HQJ4hzAEA4zxh4cHWV1d1TE2s7Ozo4D5jo0A8vn5Wecz9/r6+ltVRvzoRcDR0ZG8vb3p/6WlJV2AMVgCpLE0NDSkc9jI4eGhfsMclzXaxsaGgkU248yJaTNexDzDEovwDAh2jvoQODc3pyAmJydlfX1dxw8ODpQpgKNK7Iz+9PRUVlZW9L0XiC8YtyGAnUDtzc2NtLe3K9Wjo6OqBnaPCkZGRqSjo0NmZ2cVEAAA39PTI8vLy1JYWKjzfmXAxgaqcp+xCRq7qamp0XdFRUU6BmMAZR59eXm5sgYLgK+vr9d5gDCDpqFGNuR6JDIi7h9+7J7JgDCdwwDvsJGsrCyZmJiQyspKaW1tlfHxcV2koaEhqjpUyjf0jGEnZl+oFK9kcwDHjpDNmlEwIEUAHzIZfTMR4ewAHWMfxcXFChIA/IeF6urqqAzedXd364/FWAR5W1tbKpMxNjA2NqZ2hRksLi7qtxFT0cLCQtTQDAg7Y0fmEfPz88oAC+DidXV10tjYKLm5uSpjcHBQv8e7ent7paurSwoKCiQ/P1+qqqr0WwDgmbi867lfbAZKQWgHH7SygOtd09PTys7U1JSkpaXpfJjBk/C05uZm3QCgkLe9va2s2mnu9VT3YPzkTSzOjqAOgXY4oT5rsAJDqAjDxKtaWlrUyzIzM+O56r56E70ddDxjsNCakZGh7gsrnZ2dqrqUlBT1mLy8PCkrKwt8J/36nPmuASY7O1uNEa9KT09XI4y3BQKD+kpLS9UuOHlTU1MlES0QGGwFV8WNMdCcnJzwwNjZY7d1SUlJeGBwVQszZmZmpKKiIjwwdhdxjtTW1kpbW1tywLgu7541AEJF2Mzw8HCgmDcQGPdnlxoHI2rCvQkR/hSMF4T7s4Acb+J2J4b5MzXFAmLsmCETchBSJAzMT/mP90KzW5YedeFRoXqTxS/YDfFJaGBc2+FqIMgODYwBQk3YDC6eVDDe7NDURNxDfJN0MF6bgRkCMuKc0G3G0lmiw1DBWO5DSErylpTrIBYYmCHiJ9AK9ZwxNRFkwUwoYOw6sLLI3t6eGnAoakI9hJ30xMAE4mQISQfjsmJqIp4h0QtFTRbPWEEANZHQWa6VdDUBhJ4zhpzcmwInFQzskHNzFZBj8xyKmjjoMGCuAtyaJM5KInGDYaffUeyXNwMGNdGjnr6+Ps2/EwLG4hL0T/2NyhIL2SlLb6U0nqmrUJOhpMbJS+mMHzGNzQ9qPxHbJQJIxqCfs2NgYOBT8dkKzYSZgCOGgRkSf4qHlEaQY2p0a3j/HQOjFkpfCLJyGmA4SzBQqllUtyh9NDU1afLGOBuggkXK4hYczdDdYqV7Rv1owDDAjgBkxUUr3RtLltYSUJEVwGJ/f78yRU88TPmNzCHWwj+CcfXtpiQ8uzV/QMMc3kQMDAuWRwGaOTafd35OkrAY+C/aPwyueWjlZy2uAAAAAElFTkSuQmCC" alt="Code and data for: Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar">
-                            </a>
-                        </div><span class="text-muted">Sep 14, 2021</span><span class="text-muted"> - </span><a href="/dataverse/amap">AMAP</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Vieilledent, Ghislain; Tagliari, Mario M.; Danthu, Pascal; Leong Pock-Tsy, Jean-Michel; Cornu, Cyrille, 2021, "Code and data for: Not all species will migrate poleward as the climate warms: the case of the seven baobab species in Madagascar", <a href="https://doi.org/10.18167/DVN1/LIALRR" target="_blank">https://doi.org/10.18167/DVN1/LIALRR</a>, CIRAD Dataverse, V2, UNF:6:lndJF8z2UN65DOVze0ompQ== [fileUNF]
-                        </div>This repository includes code and data for the following article: TAGLIARI Mario M., Pascal DANTHU, Jean-Michel LEONG POCK TSY, Cyrille CORNU, Jonathan LENOIR, Vítor CARVALHO-ROCHA, Ghislain VIEILLEDENT. 2021. Not all species will migrate poleward as the climate warms: the case o...</div>]]></content>
     </entry>
 </feed>
