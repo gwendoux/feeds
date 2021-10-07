@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-10-07T05:39:41.490Z</updated>
+    <updated>2021-10-07T17:41:39.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=94381ad9837e5312e35a9c2f52a0</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=bd87f313171d4ed4fcb9bbedb9f1</icon>
+    <entry>
+        <title type="html"><![CDATA[A Reference Weed Flora of the 30 tropical weed studies datasets]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG"/>
+        <updated>2021-10-07T17:41:32.058Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG"><span style="padding:4px 0;">A Reference Weed Flora of the 30 tropical weed studies datasets</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Oct 7, 2021</span><span class="text-muted"> - </span><a href="/dataverse/amatrop">Amatrop: Tropical Weed studies</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Le Bourgeois, Thomas; Marnotte, Pascal; Auzoux, Sandrine; Fayolle, Benjamin, 2020, "A Reference Weed Flora of the 30 tropical weed studies datasets", <a href="https://doi.org/10.18167/DVN1/KHAEBG" target="_blank">https://doi.org/10.18167/DVN1/KHAEBG</a>, CIRAD Dataverse, V5
+                        </div>Reference list of weed species used in the 30 datasets of the Tropical Weed Studies Dataverse. This list currently contains 1788 taxa. All species are listed with their EPPO code (used in the floristic data files of the datasets), Scientific name, Family name, and the most used s...</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database of wood properties from specimens of the French Guiana wood collection]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"/>
+        <updated>2021-09-30T17:44:07.955Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"><span style="padding:4px 0;">Database of wood properties from specimens of the French Guiana wood collection</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Oct 7, 2021</span><span class="text-muted"> - </span><a href="/dataverse/xylotheque">Xylothèque</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Beauchêne, Jacques; Thibaut, Bernard; Amusant, Nadine; Cigna,Jeremy, 2021, "Database of wood properties from specimens of the French Guiana wood collection", <a href="https://doi.org/10.18167/DVN1/R4G7BC" target="_blank">https://doi.org/10.18167/DVN1/R4G7BC</a>, CIRAD Dataverse, V2, UNF:6:8JCn3T9n1TCMtIvIvAx2Lg== [fileUNF]
+                        </div>The wood collection (Xylotheque or Xylarium) of Kourou (French Guiana) was created in 1976 by Jean Thiel and has since been augmented by many contributors. It is a child collection of the Xylotheque of Montpellier. A Xylarium, like the one in Kourou, is a unique collection of woo...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dataset of repellency of wild oregano to whiteflies]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT</id>
@@ -40,24 +76,6 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Rapetti Manon, 2021, "A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system", <a href="https://doi.org/10.18167/DVN1/2GVORV" target="_blank">https://doi.org/10.18167/DVN1/2GVORV</a>, CIRAD Dataverse, V1, UNF:6:LBM1TMK6zA+DmK35TFy6jQ== [fileUNF]
                         </div>This dataset describes 12 Cavendish cultivars for their phenology, their morphology, their biomass and their bunch characteristics and their root system architecture. Except for the root traits, all measurements were performed on two crop cycles and 10 repetitions per cultivar an...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database of wood properties from specimens of the French Guiana wood collection]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"/>
-        <updated>2021-09-30T17:44:07.955Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"><span style="padding:4px 0;">Database of wood properties from specimens of the French Guiana wood collection</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Sep 30, 2021</span><span class="text-muted"> - </span><a href="/dataverse/xylotheque">Xylothèque</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Beauchêne, Jacques; Thibaut, Bernard; Amusant, Nadine; Cigna,Jeremy, 2021, "Database of wood properties from specimens of the French Guiana wood collection", <a href="https://doi.org/10.18167/DVN1/R4G7BC" target="_blank">https://doi.org/10.18167/DVN1/R4G7BC</a>, CIRAD Dataverse, V1, UNF:6:aw4dA6oalWYwxzBh8LKSGA== [fileUNF]
-                        </div>The wood collection (Xylotheque or Xylarium) of Kourou (French Guiana) was created in 1976 by Jean Thiel and has since been augmented by many contributors. It is a child collection of the Xylotheque of Montpellier. A Xylarium, like the one in Kourou, is a unique collection of woo...</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tree species inventory in the Faidherbia albida parkland of Senegal]]></title>
@@ -166,23 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Cornélis, Daniel; Edderai, David; Houben, Patrick; Dame, Mireille; Tavendoc, Yves; Ntsame, Marielle; Chavernac, David; Lamic, Nathalie; Poccard-Chapuis, René, 2021, "Database of wild meat consumption surveys by households in Yaoundé and Libreville. Project "Development of Alternatives to Poaching in Central Africa" (Dabac - 2002-2004)", <a href="https://doi.org/10.18167/DVN1/Z1PUEK" target="_blank">https://doi.org/10.18167/DVN1/Z1PUEK</a>, CIRAD Dataverse, V1
                         </div>A survey of urban wild meat consumption was conducted by Cirad in Cameroon and Gabon in 2003-2004 as part as UE DABAC project. Surveys (questionnaire-interviews) with 93 questions were conducted among a representative sample of households in Libreville (n=500) and Yaoundé (n=500)...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hunting offtake dataset of the project "Sustainable Management of the Wildlife and Bushmeat Sector in Central Africa"]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/SGAKNY</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/SGAKNY"/>
-        <updated>2021-09-29T13:58:51.314Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/SGAKNY"><span style="padding:4px 0;">Hunting offtake dataset of the project "Sustainable Management of the Wildlife and Bushmeat Sector in Central Africa"</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/SGAKNY"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Sep 21, 2021</span><span class="text-muted"> - </span><a href="/dataverse/forets-societes">Forêts et Sociétés</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Cornélis, Daniel; van Vliet, Nathalie; Nguinguiri, Jean-Claude; Gaidet, Nicolas; Ayaya, Idriss; Broussolle, Lucile; Fagot, Rémy; Granier, Etienne; Houngbegnon, Fructueux; Sandrin, François; Vanegas, Liliana; Yapi, Fabrice; Ampolo, Alain; Bivigou, Abdon; MbuyiBilonda, Brigitte; Le Bel, Sebastien, 2021, "Hunting offtake dataset of the project "Sustainable Management of the Wildlife and Bushmeat Sector in Central Africa"", <a href="https://doi.org/10.18167/DVN1/SGAKNY" target="_blank">https://doi.org/10.18167/DVN1/SGAKNY</a>, CIRAD Dataverse, V1
-                        </div>These data were collected from April to August 2014 as part of a study to assess the feasibility of village hunting management in 6 pilot village communities in Central Africa (Congo, Democratic Republic of Congo, Gabon). This anonymized dataset lists and describes approximately...</div>]]></content>
     </entry>
 </feed>
