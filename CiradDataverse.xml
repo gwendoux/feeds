@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-10-12T05:39:44.840Z</updated>
+    <updated>2021-10-12T17:44:36.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=3034354704ad03d738cfdd0cc220</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=59ae399f8d7c992ae08f5b28c0d5</icon>
     <entry>
         <title type="html"><![CDATA[A Reference Weed Flora of the 30 tropical weed studies datasets]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG</id>
