@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-10-14T05:39:53.893Z</updated>
+    <updated>2021-10-14T17:46:31.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=d4ff4e29627a281fc17e0ca0651c</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=fe93255f9659c2a0dfda467ad877</icon>
+    <entry>
+        <title type="html"><![CDATA[Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8R3OT1</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8R3OT1"/>
+        <updated>2021-10-14T17:46:23.760Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/8R3OT1"><span style="padding:4px 0;">Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019)</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/8R3OT1"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAiCAAAAAA8dwXLAAAC7klEQVQ4y7WUa2+jRhSG9///hH7YqltVrbTpl+2qlapuYgMeLjMDBmxzGSBcYnMtYHCw08Rux2kNrJRKm0p9BCPQmYeBd4548+crefMfhKf7Mbumadpm2zTbbfNZYd8L2UzgKeAZnnn/zbvv3n717bu3X78H/ADQni7C5tcb5pqBCJ5BUJz99MP3Vx9+/Mjzn6aT31h+cjOdXM/gshfSCa8YXtv9vXLXs685UV8GMdI810q63bF/JajrfuBf0ESIVIFHGC5k2QoCsiBBQMt3vVBYnheEPY5pmLaxMi3T0m6DMDKmyD3X171Q+2HQHUec6HE+90bYHU+FvCB398fjw+kiVFnzIm3hnsdwCqKWXmz7FZruX/boITmPpWoVDU3o8fSFQm2tg+rxFUJluo7vdyOhXmePLwskPVBhQdxNeRoJ293T6WUhPhdqEkTb+vCKb1iSctf88UVC+iwsPP/WG39DGaRZmiZl9Q/1hXSVlVUdSipxSVJV/T6kUx6KABiOQ4hDBx0hhBUZawYjmIQseI42vUr8ofkkjDBCkghlOhVJ058//MICjoErHumWpUHTopje0HyYPl8EAiNJElKg6ITBXXFmzQK7KFxk52eKYQWGAwzDCQAsLduxbT+Koue+da8ZPYqWM9699cfdmnMYY1GWEIzyz1izMMxzTxL1hZNlwwrlktiWQWxS7A+HhxGt5u8OD78TM9rTStfHmokIYyQrSDZMA7IMxwrsJ4YB/PSKXRmGhmU6GoY7xDqhc+gkGsyNOoeiJGHIixLC4Op6RVMC3I1imeOUkAQhXspzjARd01YrL8urmm5gBpS4qkKsa0FVluUgzGVVm1u6oauyosiqbs7VdEd/IBXSi/suxrad0rt2iJUDEhTnUMESL9AfExYXhhnEmzhg4W0cW8wcu/FmkwyxzjiBF+YilgROlCG0nc0lVpHG6rJUyPNRrIc0juMkS2gDxkkaZ+2FbZzWbVsleVa1bXPfx/o6/n/hL8KY2jRb+Pg1AAAAAElFTkSuQmCC" alt="Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019)">
+                            </a>
+                        </div><span class="text-muted">Oct 14, 2021</span><span class="text-muted"> - </span><a href="/dataverse/green">UPR GREEN</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Nasuti, Stéphanie; Coudel, Emilie; Fechine, Valéria; Piva, Mariana; Abreu, Beatriz; Folhes, Ricardo, 2021, "Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019)", <a href="https://doi.org/10.18167/DVN1/8R3OT1" target="_blank">https://doi.org/10.18167/DVN1/8R3OT1</a>, CIRAD Dataverse, V1
+                        </div>This data was collected during the project Odyssea - Observatory of the Dinamics of Societies and Environments in the Amazon. Through a partnership with Family Farmer Unions (STTR), community researchers realized surveys with kobotoolbox application in 32 rural communities in the...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Reference Weed Flora of the 30 tropical weed studies datasets]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG</id>
@@ -166,23 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Le Mézo, Lionel; Dupuy, Stéphane; Gaetano, Raffaele, 2021, "La Réunion - occupation du sol - carte 2020 (Spot6/7) - 1.5m", <a href="https://doi.org/10.18167/DVN1/DQFHB5" target="_blank">https://doi.org/10.18167/DVN1/DQFHB5</a>, CIRAD Dataverse, V1
                         </div>L’UMR TETIS du CIRAD développe une méthode de cartographie d’occupation du sol automatisée fondée sur la chaîne Moringa dans le cadre du Centre d’Expertise Scientifique Occupation des Sols de THEIA. La méthodologie consiste en une segmentation d’une image à Très Haute Résolution...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database of wild meat consumption surveys by households in Yaoundé and Libreville. Project "Development of Alternatives to Poaching in Central Africa" (Dabac - 2002-2004)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1PUEK</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1PUEK"/>
-        <updated>2021-09-29T13:58:51.314Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1PUEK"><span style="padding:4px 0;">Database of wild meat consumption surveys by households in Yaoundé and Libreville. Project "Development of Alternatives to Poaching in Central Africa" (Dabac - 2002-2004)</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1PUEK"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAMAAABDh1hgAAABp1BMVEX////+/v75+fn39/f19fX29vb7+/v4+Pjv7+/09PTm5ubt7e39/f319PT39vbn5+fc3Nzj4uLo6Ojq6urr6urx8PDw8PDt7Oz//v76+vrU09PX1tfY19fQz8/c29vf3t/d3Nz8/Pzd3d3Qz9C+vb3BwMDHxsbLy8vIx8fPzs7NzM3GxcXPzs/Ozc3Y2Njg39+8u7u3tra0srO7urq2tbWzsbG3tbbCwcG5t7i9vLzk5OTl5eXf3t7b2trm5eXKycnDwsLLysrFxMTi4eLi4eHe3t7a2trn5ufs6+vy8fHn5ub29fXx8fHr6uvu7e308/Pr6+v19PXu7u7t7O349/fj4uPW1dXZ2NjT0tLg4ODa2dne3d3W1tbh4eHk4+Tk4+Pi4uLo5+fp6enOzs7JyMjS0dHPz8/V1NTLysvh4ODq6erY19jNzMzJyMnT0tPX1tbR0NDZ2dnV1dXX19ff39/W1dbU1NTe3d7q6ens6+zb29vz8vLy8vLs7Oza2drz8/Pz8vPv7u77+vr08/Tw7+/h4OHj4+PV1NXZ2Nnc29zl5OTp6Oj5+Pi6j8C+AAACY0lEQVQ4y62U/VfSUBjHd/d2x1iOMbgGijhTyzK19xpCWQRCiMtiA5FAitbKItPKakZvUmF/dB70nLBtVOb37Jz98Hz2fL/3nmcPhh2WAE6QFEkSNEVAgiGdERdBExCSrJvrqIDdNwe6GHDYvwgeoVwkhcMeSFIOCO8RvKLPj3oZ0e1gDECXRIeuHbP2c9ShznGBYF9/KDQQHgySEm0TjWOHjg2PjB4/MXZy5NT46Qlog0xODZ85e27q/IWLly5fGZZtfKTIdDR29drM6PWRG/GbiaRTXNTrm02lbzmUpcxclppXbsOFO34qI9pEwe7mVE2J5wvitGdRKC4hmxNBMVa6V+LLQswrV2L8csCK4NXB++MPlmoP9bz6KGQ8lqyIK/FkbOXpyvjMs/rYynM1ge8L2rblaDK2GnqxFlRrakkJ7N0uaDcDSvsDgl0PD2mrLyde5fMe4XVkdyJxBfxCYJbJbihKv8rz1TdIUegOZM8Ic7kXNtaNRH/0re5G/r0oYF/qnncmuVkfWNLeb5qNjN3VtUVmGdE3i2MHFcj6GDOTMl3zZMNlosYHaytgMv7MR9SQJE6SJFqSgA2CPv3JqNdY+GzutEFmCiHEfLH+k2BOTkf4XIWVS8JkclneYqxIOl5pGnHDEIpbpS0+ZvgtCBde1BJaX1TVv37T9Ghdq1q7TAf1xOJ3vbZWH9Dzq8X6rI1RoSw0y/GiUKjIlQKby1gRpeX1blfl5rbMp9lIJNKwImKymWyJrRbP5soyL9ogGA6JHxAndjYiJAichjaz+7/6m6XaueY4hGxW82+xDz5zXfUTadRsiDQx8zEAAAAASUVORK5CYII=" alt="Database of wild meat consumption surveys by households in Yaoundé and Libreville. Project &quot;Development of Alternatives to Poaching in Central Africa&quot; (Dabac - 2002-2004)">
-                            </a>
-                        </div><span class="text-muted">Sep 21, 2021</span><span class="text-muted"> - </span><a href="/dataverse/forets-societes">Forêts et Sociétés</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Cornélis, Daniel; Edderai, David; Houben, Patrick; Dame, Mireille; Tavendoc, Yves; Ntsame, Marielle; Chavernac, David; Lamic, Nathalie; Poccard-Chapuis, René, 2021, "Database of wild meat consumption surveys by households in Yaoundé and Libreville. Project "Development of Alternatives to Poaching in Central Africa" (Dabac - 2002-2004)", <a href="https://doi.org/10.18167/DVN1/Z1PUEK" target="_blank">https://doi.org/10.18167/DVN1/Z1PUEK</a>, CIRAD Dataverse, V1
-                        </div>A survey of urban wild meat consumption was conducted by Cirad in Cameroon and Gabon in 2003-2004 as part as UE DABAC project. Surveys (questionnaire-interviews) with 93 questions were conducted among a representative sample of households in Libreville (n=500) and Yaoundé (n=500)...</div>]]></content>
     </entry>
 </feed>
