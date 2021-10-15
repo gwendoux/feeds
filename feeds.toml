@@ -12,6 +12,6 @@ linkSelector = ".datasetResult .card-title-icon-block a"
 [LaGazetteCafeCycliste]
 title = "La Gazette de café du cycliste"
 url = "https://www.cafeducycliste.com/la-gazette/"
-entrySelector = "#gazette-container‧post-list .item-box"
+entrySelector = "#gazette-container .item-box"
 titleSelector = "p strong"
 linkSelector = "h2 a"
