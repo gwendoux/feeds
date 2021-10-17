@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-10-17T02:31:48.478Z</updated>
+    <updated>2021-10-17T03:21:25.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=c170c4e8374fdd0db6ba7a9b21c6</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=c446d1c8652b1707240d1559c806</icon>
     <entry>
         <title type="html"><![CDATA[Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8R3OT1</id>
