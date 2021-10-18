@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-18T16:33:59.299Z</updated>
+    <updated>2021-10-18T17:25:39.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019) (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -185,6 +185,13 @@
                         </div>L’UMR TETIS du CIRAD développe une méthode de cartographie d’occupation du sol automatisée fondée sur la chaîne Moringa dans le cadre du Centre d’Expertise Scientifique Occupation des Sols de THEIA. La méthodologie consiste en une segmentation d’une image à Très Haute Résolution...</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I am not number 06. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/"/>
+        <updated>2021-10-18T17:25:38.364Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/IANAN_Alexia_FeatureImage4-18-10-2021.jpg" alt="I am not a number – #06"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06">FILMS</a></h2><p><strong> I am not number 06. </strong> Alexia is the 10th woman in the world among nearly 100 skippers to have finished the Vendée Globe race without stopping and without assistance. Cycling is her other passion.</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Best Tortilla in the World (La Gazette de café du cycliste)]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/</id>
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/"/>
@@ -261,12 +268,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-sarah-bacher/"/>
         <updated>2021-10-18T14:19:32.965Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-sarah-bacher/" title="Caravan – Sarah Bacher"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/sarah-bacher-feature-image-29-09-2021.jpg" alt="Caravan – Sarah Bacher"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-sarah-bacher/" title="Caravan – Sarah Bacher">LA MAISON</a></h2><p><strong> Caravan: Sarah Bacher</strong> As a snowboarder hoping to make the Freeride World Tour, cycling for me is a great endurance training but also another exciting way to explore the mountains.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Santiago Pilgrims. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/lookbook-santiago-pilgrims/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-santiago-pilgrims/"/>
-        <updated>2021-10-18T14:19:32.968Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-santiago-pilgrims/" title="Lookbook Santiago Pilgrims"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/Pilgrims_FeatureImage2.jpg" alt="Lookbook Santiago Pilgrims"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-santiago-pilgrims/" title="Lookbook Santiago Pilgrims">LA VIE</a></h2><p><strong> The Santiago Pilgrims. </strong> Friends discovered along the route of the pilgrimage to Santiago de Compostela, the finish line for La Vuelta 2021.</p>]]></content>
     </entry>
 </feed>
