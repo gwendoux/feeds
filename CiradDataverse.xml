@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-10-25T14:19:46.205Z</updated>
+    <updated>2021-10-25T15:18:58.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=7d1f6eedf0fe775c477d319179d9</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=8082626f32382aba7e4db678496f</icon>
+    <entry>
+        <title type="html"><![CDATA[A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1"/>
+        <updated>2021-10-25T15:18:51.207Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1"><span style="padding:4px 0;">A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Oct 25, 2021</span><span class="text-muted"> - </span><a href="/dataverse/geco">UPR GECO</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Moisan, Léa, 2021, "A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems", <a href="https://doi.org/10.18167/DVN1/IOELH1" target="_blank">https://doi.org/10.18167/DVN1/IOELH1</a>, CIRAD Dataverse, V1
+                        </div>This dataset present the compilation of 72 scientific articles dealing with the use of covers in rubber tree plantations. These articles were selected following a review of litterature performed with the Web of Science, CAB abstract, Google Scholar, and some personnal communicati...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Food supply chains sustainability assessment of the mango sector in Burkina Faso]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NODG6E</id>
@@ -20,7 +38,7 @@
                             </a>
                         </div><span class="text-muted">Oct 25, 2021</span><span class="text-muted"> - </span><a href="/dataverse/hortsys">UPR HORTSYS</a>
 
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Parrot, Laurent; Klaver, Dieuwke; Kabré, Edit; Vannière, Henri, 2021, "Food supply chains sustainability assessment of the mango sector in Burkina Faso", <a href="https://doi.org/10.18167/DVN1/NODG6E" target="_blank">https://doi.org/10.18167/DVN1/NODG6E</a>, CIRAD Dataverse, V1, UNF:6:XLBaBP4ODftZuP/8pl7J5g== [fileUNF]
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Parrot, Laurent; Klaver, Dieuwke; Kabré, Edit; Vannière, Henri, 2021, "Food supply chains sustainability assessment of the mango sector in Burkina Faso", <a href="https://doi.org/10.18167/DVN1/NODG6E" target="_blank">https://doi.org/10.18167/DVN1/NODG6E</a>, CIRAD Dataverse, V2, UNF:6:XLBaBP4ODftZuP/8pl7J5g== [fileUNF]
                         </div>This dataset is joint with the scientific publication named "A Multiple food supply chains sustainability assessment of the mango sector in Burkina Faso" which details the challenges of the mango sub-sectors in Burkina Faso, the contribution of the Value Chain to economic growth...</div>]]></content>
     </entry>
     <entry>
@@ -166,23 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">CHAPUIS, Marie-Pierre; PELISSIE, Benjamin; PIOU, Cyril; JOURDAN-PINEAU, Hélène, 2021, "Original data for "Chapuis et al., 2021. Additive genetic variance for traits least related to fitness increases with environmental stress in the desert locust, Schistocerca gregaria. Ecology and Evolution, 00:1-18.", <a href="https://doi.org/10.18167/DVN1/S735JB" target="_blank">https://doi.org/10.18167/DVN1/S735JB</a>, CIRAD Dataverse, V1
                         </div>Phenotypic and pedigree data and R scripts for analyses (v. 4.0.4).</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Occupation du sol 2020 à La Réunion Base de Données de référence]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GEFNIF</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GEFNIF"/>
-        <updated>2021-09-29T13:58:51.314Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GEFNIF"><span style="padding:4px 0;">Occupation du sol 2020 à La Réunion Base de Données de référence</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GEFNIF"><img src="data:image/png;base64,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" alt="Occupation du sol 2020 à La Réunion Base de Données de référence">
-                            </a>
-                        </div><span class="text-muted">Sep 23, 2021</span><span class="text-muted"> - </span><a href="/dataverse/aida">AIDA</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Le Mezo, Lionel; Dupuy Stéphane, 2021, "Occupation du sol 2020 à La Réunion Base de Données de référence", <a href="https://doi.org/10.18167/DVN1/GEFNIF" target="_blank">https://doi.org/10.18167/DVN1/GEFNIF</a>, CIRAD Dataverse, V1
-                        </div>La base de données spatiales de référence 2020 permet la production d’une carte d'occupation du sol à partir d'images satellites. Elle est composée de 4902 polygones renseignés selon une nomenclature emboitée à 3 niveaux. De 4 classes pour le 1er niveau, l’occupation du sol est r...</div>]]></content>
     </entry>
 </feed>

@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-25T14:19:46.208Z</updated>
+    <updated>2021-10-25T15:18:58.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1"/>
+        <updated>2021-10-25T15:18:51.207Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1"><span style="padding:4px 0;">A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Oct 25, 2021</span><span class="text-muted"> - </span><a href="/dataverse/geco">UPR GECO</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Moisan, Léa, 2021, "A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems", <a href="https://doi.org/10.18167/DVN1/IOELH1" target="_blank">https://doi.org/10.18167/DVN1/IOELH1</a>, CIRAD Dataverse, V1
+                        </div>This dataset present the compilation of 72 scientific articles dealing with the use of covers in rubber tree plantations. These articles were selected following a review of litterature performed with the Web of Science, CAB abstract, Google Scholar, and some personnal communicati...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Food supply chains sustainability assessment of the mango sector in Burkina Faso (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NODG6E</id>
@@ -19,7 +37,7 @@
                             </a>
                         </div><span class="text-muted">Oct 25, 2021</span><span class="text-muted"> - </span><a href="/dataverse/hortsys">UPR HORTSYS</a>
 
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Parrot, Laurent; Klaver, Dieuwke; Kabré, Edit; Vannière, Henri, 2021, "Food supply chains sustainability assessment of the mango sector in Burkina Faso", <a href="https://doi.org/10.18167/DVN1/NODG6E" target="_blank">https://doi.org/10.18167/DVN1/NODG6E</a>, CIRAD Dataverse, V1, UNF:6:XLBaBP4ODftZuP/8pl7J5g== [fileUNF]
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Parrot, Laurent; Klaver, Dieuwke; Kabré, Edit; Vannière, Henri, 2021, "Food supply chains sustainability assessment of the mango sector in Burkina Faso", <a href="https://doi.org/10.18167/DVN1/NODG6E" target="_blank">https://doi.org/10.18167/DVN1/NODG6E</a>, CIRAD Dataverse, V2, UNF:6:XLBaBP4ODftZuP/8pl7J5g== [fileUNF]
                         </div>This dataset is joint with the scientific publication named "A Multiple food supply chains sustainability assessment of the mango sector in Burkina Faso" which details the challenges of the mango sub-sectors in Burkina Faso, the contribution of the Value Chain to economic growth...</div>]]></content>
     </entry>
     <entry>
@@ -167,105 +185,88 @@
                         </div>Phenotypic and pedigree data and R scripts for analyses (v. 4.0.4).</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Occupation du sol 2020 à La Réunion Base de Données de référence (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GEFNIF</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GEFNIF"/>
-        <updated>2021-09-29T13:58:51.314Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GEFNIF"><span style="padding:4px 0;">Occupation du sol 2020 à La Réunion Base de Données de référence</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GEFNIF"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAnCAYAAABJ0cukAAANI0lEQVR42rVZW6ilZRmei6gLbUQFh9DKTDMdxym7URqlK8GCorSEglAirW5KrEBv66IiKKqLwBAi6MpMipBAuklJPMzMPq291+H/1/rP5/Naa2/H4u153m+tNXvrBNXeMvystdfpfw/P+zzP+82xcZLJUVx54kudVeL7vrSZJ1VVSNu2kiRjiVJHmrSRoipllnV47so8CyTPXclLT9IslCzLpK5LcZLR/3QdO2zgr192tfQZXGZLk9cIKpfM2cJjKnUbaAKzqpPETzVBXrMsl7JKxXEcWVs7J17sSFEU0lW1TMtLJzGOBgceeVnBzuESyJ1GXrz8uNRFLAmqWmeNxIkn03kmVWQ6EiW2lHUlZZEhMVfappIpEnpzXqPitbjxSGazXXzPlywPpZvm+hoDzLtcBtHGKth3pAO8qqKUrEbl80gTqFHdKLMkiX39u0EiXepJmRdy6sa78NhoxYvK1ytHAfiel02QbCF5aq2S8NDZl84/eyBoO+wfbQJh5ivOo5TBozO+I3WJoKtcojATd2MgUR5LO59J1dRS+EO87kocTzArgFUbiZcg6GiiM8RZKOtMA53EwwMB7+8EXz+SBNqy0CS0+qw2qssE3J2+7Lx2XvzJWD52+kHMQ6IzUgBOeRFgyEOZAjJZwZloFGpra2t4nsiZL90vSRaLFZuA7eRiIi46dKQd4MXqxYDAclAbVLF2fH3sylgm4Ujuu/evBm5gHEIojmN9ZFfyLFHWijALTZtL3YCVmkTcYCRx6Won3rEZ+O7xy8WJhoACgqrGklWOVCUqm8Y6tA3YxU9cqepWujoC3tEdzEeQxKDQAjNSoNJgl6gPlhnJK0lfqjaTpmkkiMcKmwlm6lKDfOgEPnPlFfLy8SvF8YDpcnLgKlD5EgPadYl24uuPPKyVJSPx79m0RtdciWIXn60lTXMkBebpbUjvq0/Il284icpbWv39sDnSBNwok1fee6WMnYlEtbUK/vRNH0EFQZ8Y7rrJ5cQDj0gYB9oNDcr3MDOOdqME9/MiFUfpWPzUlgCdSAA3NzG4L1AEQqqZRdptstQg6h0NhF64+nKxLEvGtqd4LQpPWogah/Urnz2Bm9kQK1fZpQDbmBnIlIGm+HyJ6jPZGupdlYkMIYRBBvUe2qDnTmGlSeA7fM55S0HZVZke3RB74VhvEEKBw+2RrD1/n7JJGVnAfaKBseIUL6o0B3g5zK6PuckMzChopGRCKygtVfKiLaW3YCMr7WNuAv0NFuDoWAjBTadTpcm9di5pcE6DYhLEvRNOVCfYCQaepql+tgoNjPheEntgo2ihKY4OcNk64sNbBW2MBGxNIo4RfOMr7I4kARuX8jNMWZkEYgcWWowqpoGqcgPs0tylBUxbWkG0Ak1gKXYcdMKLXQyTySoBP50olJIyAhUPdD7Gw3W918jfVl90qAS2AZkX3nNcKj9X4xbjNQs3vuHaqyXObcwD/A0cqJ+GajPcwNbASLGsPnl/PuvUA5H7Www7O7HqQOas4JQXFpJzVdD2m7rDJXDNtUqhfdtRiMwAh3tvvU7OjbckTIcSzkqxLVeD4tBFCz+kw9vCVgR9nQEjXLnCjXPAoDn47Bg7wsBT6IAmE1XGdqAbTnKIDkD3Nfg/nLheql0yT2XYAhb5i7fdKg/fc6v0Nl6EWQO3I/AgG2sgJapflZ3kwVCxT2Vm8EZ5M0CDIpZo9bknEIJJHsiIBi/3NCE/TjSZLPcP14FqCGqrUmWE0htLH1CYvRHL5+85Jf8IXodAeYpbWoze9rreNIx443oBo1Q6MEzbFaq6bQNG8oxg0V/5KEiYTww74Xci7cJFiDGZQyUQBhOZdo3sglWcCPBoUsnaVGkxKckU+YGbOT5pMZI24fdKpdUw9LXynBkGmk938ZjLOB0AWoWKYoJO8D3qyxJKLEyC5/93AnUda/s7VH2C1ZDMEqeJ4ptDZzuDxdBC3OBU27qRxDoHTYCN6GIN6Kr3XaUwaPDaevKUMhdfX17jdKTUyQ5yJvhaEJl54N8/fe65tycwDHwZx4Vswxr8p+Ajb4C2Ywgd8LKLqnqoflLpjzuefaDNfjBWhZ3CHpBOObCcA+JeHSvpFZTqJsZx0mosX69qKu/OviXG6MAw3JEBLhpATWAUxm/ndojF/r8nMFr2GKzRRfLjx78PgxYBn7ZZVOBL8rAnNU0XEjDC5Oim1ZbGFtPYMaAcmO4Au7KByZtWWv2miRbsYxb8pAbuixT3HB/YiUcImKaOztQrXE3ikhBKnE0pQIMRsBxEobSootU7K/LPPcV7R5pzdySDqRqMhzKytg3FAdMdVkAP35vv7QKzMG+YiS8//h1JuxbEFSjeGSyxr/TJ7mAeKkBSTRoCDOqxpI2j+GdXLHD/jt9bOdJtbwuvWTLAe29LoIH/KOe2uFWoNri/15df/+znMse/C2j7rDRLyNKMMRAOFBMYDHawErqyee7V1UJCsSJcWtiCpjEJKOsQJvwMVlAqMldIBsgdeFn13mhwSQvdD7ZBqY7sIJFVAn4QyaxG2yKzlPzo0Sfl2w99DeveBN4FmK5gkzE4UQWsQrjW19dlc3NTW52QnzFw9DE0a4bXEz06KZUiOzlzxyfxnlFcOk8yTQYYUCcatRGW/jYDDEsHmB8q5o3i2lhmLh6r9IEQWnJ+5tjSy/RGI3iSRN7I/yVf+NxDsuGvyWi8aRaTDu4PjwGw6TfcuFpdxInhvIoN09DM8QALgfGkgUmkaawYn+82MHqpJrQUrbZb8D+o8prbj2lA+p3CXVWar+23DZNovBpk/XtJoz2rp+sfK0EHSUg888yzgJFZUApgN61dufuOO+WeK+5Sj1OURg3J63k1UnfIlZIVTuJQhYkQaxfdqBtPrv/E6ZXiVug26ZYmj9392/nz8vyLv4cDdRRKfrmBOUhWlV9efO83jwXy6bu/oXR6LPECiYJQqiQ5wMG+GxkqqyLx7B2FEZNxUfl3n36/OkTqAE3ZdbfdAkz6srt3QSpYhltuuVmZRSuaQ+ScbYVWkZsi7c6nOkfm9wtJsEPH9VBet/6OrY2DPETHs0XwtmyM11bBj+GfRtE2NGfTJDAc9FTWnbErp24+KR//wBnFOO1tjiq7BYavC9V7R2hhgOGmavIG5Gwu7UlqBpmVDQNnNahcPIj7FF1iN8j3eoTYdasEzDDnehDAAnGxt4vz4pWh4f/U3qcFQ3NONFk3YgbKPbY1HIIyza76qx8+verA3ptT5flmiiWjMBsTg9G1kP4n2IIz9AC9EJXvdEkhfDrFf6Kswt/hAs9tjInqd4tidY84Mved1oUWhdqgXUYxuPNSbf/87F8W8LFX+E9yCJ6/6MDGdk821ta1ikMk09vcVv4mZ9uRbwbUGsJRhuKHng4mK5mA7gifX/zul7qbEvNN4aslVgHrMvVJrDI9P5+zIwwwKwOjA/sgO29ZhMJ0WtlooOrLXeLiDNgKo83kZQndvkmAQ9wfQ92sTa1iAp5vL/DQaaT+hmsdD2jVo+PLpEDCoYHolG2zWtAjLOLEc5d3Kwix2nSYJ0/dpjCcT2e69BMu+WxHnvI+Kil0gNZimQh/ewRG7Nr6khpACHFTu+zMpyQsQKMefLwVGLprp5T0GT4QiwumcQAtBv7SH/+kKhmV5vRY91J/B7yP2agi/e40czURQ5WZmjQOMDvIm5IECKM8zZQqqTX7z5BoOWJ0fVYZqPGonRDiceRbE1BfFFkXO0DzluYJvlSqcjII4nl3rzWQ2OlrIISJtrgMtWoX3pxJ6KAT4HjSIm+m1SSc9lU0isFGSGD5GhmJmxmpmB1hAkyKs8bnAZ6HgPESMlESLjRhoIFrMm9NoAY+bZunxY3uuIQAd1VWMx8M9KiPwZ89e9ac4dAmQMS4PRHvNUzah26/Tt8jrHZnc9nd3dWCpLGhSwbOodU5qHbkrvs/bDqw6AaDpQrHtbdyn5O4D6dgLxb5Lcmxc0znjS479z/2zYsJ0IDpmQ0wm4YDOX3juxQaZAbj340AuY4lbyDIyB/q33SZOQ1aF6xUlt2YzWbqjSo9rDIYd52xwiPMAvP/ACjAB286sYLR0kpo1fHcnIXaWrgGZtADjaaAEC0Nq5+CYo2dBh0WEA2ubL994mmtyFUnr5HC88V6bV2CIazs+pqySAlL28G3xEjyW997VAOq+d9ICFiDbzO1zVESy50PPGheA0sRLk/+4Cfm/84KVDAzyq3WIRqujkou9Z8YvAaBeY+BZ7ovE0KL/x/YHvWUJintLaBgb75sbC/mgNJeu45uR1Renj7kLaCDKlRtZD6HH1OThosnbjzgsqyhQkmXl4qsFOgiQo7PoRW0zy1cKLvDwVxW/7+5lrba8xdnow08f2SPxV8/L9kErtKaamA8q68W0NFT5co4THbCeJ1dONJ13QH4OT0WoccHFGfA6fK7ZK6icpVWeeN6MdwZ9IJmjp+hyvJ0Twd1ZeTsA+aNVwarkmZDvba2XpV/A9e5rw+qsQkUAAAAAElFTkSuQmCC" alt="Occupation du sol 2020 à La Réunion Base de Données de référence">
-                            </a>
-                        </div><span class="text-muted">Sep 23, 2021</span><span class="text-muted"> - </span><a href="/dataverse/aida">AIDA</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Le Mezo, Lionel; Dupuy Stéphane, 2021, "Occupation du sol 2020 à La Réunion Base de Données de référence", <a href="https://doi.org/10.18167/DVN1/GEFNIF" target="_blank">https://doi.org/10.18167/DVN1/GEFNIF</a>, CIRAD Dataverse, V1
-                        </div>La base de données spatiales de référence 2020 permet la production d’une carte d'occupation du sol à partir d'images satellites. Elle est composée de 4902 polygones renseignés selon une nomenclature emboitée à 3 niveaux. De 4 classes pour le 1er niveau, l’occupation du sol est r...</div>]]></content>
+        <title type="html"><![CDATA[Roc d'Azur: The CDC Gravel Team. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/roc-dazur-2021/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/roc-dazur-2021/"/>
+        <updated>2021-10-25T15:18:57.633Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/roc-dazur-2021/" title="Roc d’Azur 2021"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/RocdAzur-21-10-21.jpg" alt="Roc d’Azur 2021"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/roc-dazur-2021/" title="Roc d’Azur 2021">ROULER</a></h2><p><strong>Roc d'Azur: The CDC Gravel Team.</strong> At Café du Cycliste we really like gravel and so we have formed the ‘True Grit’ Café du Cycliste team. Three fierce female riders, Holly, Charlotte and Maria, take on one of the greatest gravel events in the world.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roc d'Azur: La Team Gravel CDC. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/roc-dazur-2021/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/roc-dazur-2021/"/>
-        <updated>2021-10-25T07:20:06.824Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/roc-dazur-2021/" title="Roc d’Azur 2021"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/RocdAzur-21-10-21.jpg" alt="Roc d’Azur 2021"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/roc-dazur-2021/" title="Roc d’Azur 2021">ROULER</a></h2><p><strong> Roc d'Azur: La Team Gravel CDC.</strong> Café du Cycliste a toujours démontré son amour pour le gravel, et c’est de là qu’est née l’équipe ‘True Grit’ Café du Cycliste. Holly, Charlotte et Maria, trois coureuses à l’âme de guerrière, s’attaquent à l’une des plus grandes courses gravel au monde.</p>]]></content>
+        <title type="html"><![CDATA[I am not number 06. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/"/>
+        <updated>2021-10-25T15:18:57.638Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/IANAN_Alexia_FeatureImage4-18-10-2021.jpg" alt="I am not a number – #06"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06">FILMS</a></h2><p><strong> I am not number 06. </strong> Alexia is the 10th woman in the world among nearly 100 skippers to have finished the Vendée Globe race without stopping and without assistance. Cycling is her other passion.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Je ne suis pas un numéro 06. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/i-am-not-a-number-06/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/i-am-not-a-number-06/"/>
-        <updated>2021-10-25T07:20:06.825Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/IANAN_Alexia_FeatureImage4-18-10-2021.jpg" alt="I am not a number – #06"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06">FILMS</a></h2><p><strong>Je ne suis pas un numéro 06. </strong> Alexia est la dixième femme du monde parmi près de 100 marins à avoir bouclé le tour du monde sans escale et sans assistance. Le cyclisme est son autre espace de liberté.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Meilleure Tortilla du Monde (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/best-tortilla-in-the-world/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/best-tortilla-in-the-world/"/>
-        <updated>2021-10-25T07:20:06.833Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/Best_Tortilla-FeatureImage2-15-09-2021.jpg" alt="BEST TORTILLA IN THE WORLD"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD">LA VIE</a></h2><p><strong>La Meilleure Tortilla du Monde</strong> se déguste à la fin d'une longue journée entre amis sur les chemins de Galice.</p>]]></content>
+        <title type="html"><![CDATA[The Best Tortilla in the World (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/"/>
+        <updated>2021-10-25T15:18:57.647Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/Best_Tortilla-FeatureImage2-15-09-2021.jpg" alt="BEST TORTILLA IN THE WORLD"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD">LA VIE</a></h2><p><strong>The Best Tortilla in the World</strong> is found at the end of a hard day spent riding with friends on ancient Galician roads.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Café du Cycliste x 66°North Lookbook (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/cafe-du-cycliste-x-66north-lookbook/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/cafe-du-cycliste-x-66north-lookbook/"/>
-        <updated>2021-10-25T07:20:06.834Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/cafe-du-cycliste-x-66north-lookbook/" title="Café du Cycliste x 66North Lookbook"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/LOOKBOOK-feature-image-05-10-21.jpg" alt="Café du Cycliste x 66North Lookbook"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/cafe-du-cycliste-x-66north-lookbook/" title="Café du Cycliste x 66North Lookbook">COLLECTIONS</a></h2><p><strong> Café du Cycliste x 66°North Lookbook</strong> Café du Cycliste s'est associé à l'une des plus anciennes entreprises d'Islande, 66°North, pour présenter une collection spéciale d'équipements techniques.</p>]]></content>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/cafe-du-cycliste-x-66north-lookbook/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/cafe-du-cycliste-x-66north-lookbook/"/>
+        <updated>2021-10-25T15:18:57.648Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/cafe-du-cycliste-x-66north-lookbook/" title="Café du Cycliste x 66North Lookbook"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/LOOKBOOK-feature-image-05-10-21.jpg" alt="Café du Cycliste x 66North Lookbook"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/cafe-du-cycliste-x-66north-lookbook/" title="Café du Cycliste x 66North Lookbook">COLLECTIONS</a></h2><p><strong> Café du Cycliste x 66°North Lookbook </strong> Café du Cycliste has joined forces with one of Iceland’s oldest manufacturing companies, 66°North to present a special collection of technical gear.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Café du Cycliste x 66°North (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/66-north-x-cafe-du-cycliste/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/66-north-x-cafe-du-cycliste/"/>
-        <updated>2021-10-25T07:20:06.839Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/66-north-x-cafe-du-cycliste/" title="66 North x Café du Cycliste"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/66North-Benjamin-Hardman-DJI_0092-topbanner-04-10-2021-bis.jpg" alt="66 North x Café du Cycliste"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/66-north-x-cafe-du-cycliste/" title="66 North x Café du Cycliste">COLLECTIONS</a></h2><p><strong> Café du Cycliste x 66°North </strong> Une collaboration entre marques pour créer des vêtements de cyclisme dessiner pour l’Islande permettant aux cyclistes de se confronter au froid hivernal partout dans le monde.</p>]]></content>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/66-north-x-cafe-du-cycliste/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/66-north-x-cafe-du-cycliste/"/>
+        <updated>2021-10-25T15:18:57.650Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/66-north-x-cafe-du-cycliste/" title="66 North x Café du Cycliste"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/66North-Benjamin-Hardman-DJI_0092-topbanner-04-10-2021-bis.jpg" alt="66 North x Café du Cycliste"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/66-north-x-cafe-du-cycliste/" title="66 North x Café du Cycliste">COLLECTIONS</a></h2><p><strong> Café du Cycliste x 66°North </strong> A collaboration of brands to create cycling apparel designed for Iceland, allowing cyclists to tackle the winter weather anywhere in the world.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caravan. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/caravan/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan/"/>
-        <updated>2021-10-25T07:20:06.842Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan/" title="Caravan"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/caravan-feature-image-29-09-2021.jpg" alt="Caravan"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan/" title="Caravan">LA MAISON</a></h2><p><strong> Caravan.</strong> Un collectif de sportifs partageant les mêmes valeurs, liés par un amour commun pour le cyclisme. Leurs raisons de rouler sont variées mais ils ont tous une passion commune pour l'exploration à deux roues.</p>]]></content>
+        <title type="html"><![CDATA[Caravan (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/caravan/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/caravan/"/>
+        <updated>2021-10-25T15:18:57.651Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan/" title="Caravan"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/caravan-feature-image-29-09-2021.jpg" alt="Caravan"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan/" title="Caravan">LA MAISON</a></h2><p><strong> Caravan</strong> A collective of like minded sports people bonded by a shared love of cycling. Their reasons for riding are varied but they all have a common passion for exploring on two wheels.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rindu Alam Puncak: une ascension en Indonésie. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/"/>
-        <updated>2021-10-25T07:20:06.850Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/grace_FeatureImage2.jpg" alt="Rindu Alam Puncak: a Ride in Indonesia"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia">ROULER</a></h2><p><strong> Rindu Alam Puncak: une ascension en Indonésie. </strong>Grace Adoe monte à Puncak, l’une des routes les plus iconiques de Jakarta, qui s’élève à plus de 1000m, traversant les marchés traditionnels et les plantations de Tea.</p>]]></content>
+        <title type="html"><![CDATA[Rindu Alam Puncak: a Ride in Indonesia. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/"/>
+        <updated>2021-10-25T15:18:57.651Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/grace_FeatureImage2.jpg" alt="Rindu Alam Puncak: a Ride in Indonesia"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia">ROULER</a></h2><p><strong> Rindu Alam Puncak: a Ride in Indonesia. </strong>Grace Adoe rides up to Puncak, one of two iconic cycling routes in Jakarta, climbing over 1,000m through traditional markets and tea plantations for some poffertjes at Rindu Alam.
+</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La Sortie du Mois : Septembre. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/ride-of-the-month-september/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/ride-of-the-month-september/"/>
-        <updated>2021-10-25T07:20:06.851Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/ride-of-the-month-september/" title="Ride of the Month: September"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/rotm-sept-feature-image-03-28-09-2021.jpg" alt="Ride of the Month: September"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/ride-of-the-month-september/" title="Ride of the Month: September">LA MAISON</a></h2><p><strong> La Sortie du Mois : Septembre. </strong> Une sortie sur les Monts d’Azur. A son point culminant, une réserve animalière sauvage, à son retour, une route vertigineuse jonchée de tunnels taillés dans la roche.</p>]]></content>
+        <title type="html"><![CDATA[Ride of the Month: September. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-september/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-september/"/>
+        <updated>2021-10-25T15:18:57.652Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-september/" title="Ride of the Month: September"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/rotm-sept-feature-image-03-28-09-2021.jpg" alt="Ride of the Month: September"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-september/" title="Ride of the Month: September">LA MAISON</a></h2><p><strong>Ride of the Month: September.</strong> A 1300m climb to explore the wild animal reserve of the Monts d’Azur and ride the thrilling descent down the other side, through tunnels cut in the rock.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Un tour des volcans d'Auvergne. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/"/>
-        <updated>2021-10-25T07:20:06.852Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/" title="Sophie Gateau: A Tour of the Volcanoes of Auvergne"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2010/09/TOURDESPUYS_GATEAU_bottomsliderimage.jpg" alt="Sophie Gateau: A Tour of the Volcanoes of Auvergne"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/" title="Sophie Gateau: A Tour of the Volcanoes of Auvergne">ROULER</a></h2><p><strong> Un tour des volcans d'Auvergne. </strong> Sophie Gateau explore l'Auvergne, une région aux vastes étendues. La tente sur le vélo, l'appareil photo à portée de main, découverte de paysages insolites et grandioses.</p>]]></content>
+        <title type="html"><![CDATA[A Tour of the Volcanoes of Auvergne. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/"/>
+        <updated>2021-10-25T15:18:57.655Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/" title="Sophie Gateau: A Tour of the Volcanoes of Auvergne"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/09/TOURDESPUYS_GATEAU_bottomsliderimage.jpg" alt="Sophie Gateau: A Tour of the Volcanoes of Auvergne"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/" title="Sophie Gateau: A Tour of the Volcanoes of Auvergne">ROULER</a></h2><p><strong> A Tour of the Volcanoes of Auvergne. </strong> Sophie Gateau explores the Auvergne region, where there are probably more cows than humans per m2, armed with our camera, a tent and a knife.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Caravan: Guillaume Néry (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/caravan-guillaume-nery/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan-guillaume-nery/"/>
-        <updated>2021-10-25T07:20:06.852Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/guillaume-nery-feature-image-29-09-2021.jpg" alt="Caravan – Guillaume Nery"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery">LA MAISON</a></h2><p><strong> Caravan: Guillaume Néry</strong> Le cyclisme a fait de moi l'athlète que je suis aujourd'hui, mais c'est bien plus qu'un simple moyen de m'entraîner car il englobe le voyage, l'exploration et la découverte, certaines de mes grandes passions dans la vie .</p>]]></content>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/"/>
+        <updated>2021-10-25T15:18:57.656Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/guillaume-nery-feature-image-29-09-2021.jpg" alt="Caravan – Guillaume Nery"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery">LA MAISON</a></h2><p><strong> Caravan: Guillaume Néry</strong> Cycling has forged me into the athlete I am today, but it is so much more than just a way to train as it encompasses travel, exploration and discovery, some of my great passions in life.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coins Cachés Cambridge (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/coins-caches-cambridge/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/coins-caches-cambridge/"/>
-        <updated>2021-10-25T07:20:06.852Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/coins-caches-cambridge/" title="Coins Cachés Cambridge"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/08/coinscachésUK_FeatureImage2-31-08-2021.jpg" alt="Coins Cachés Cambridge"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/coins-caches-cambridge/" title="Coins Cachés Cambridge">ROULER</a></h2><p><strong> Coins Cachés Cambridge </strong> Une ville d'histoire, de culture et de découvertes qui changent le monde. Explorez des routes moins fréquentées le long des Fenlands plats et exposés, sur des montées en forme de berg belge et à travers les ruelles emblématiques de Cambridge.</p>]]></content>
+        <title type="html"><![CDATA[Coins Cachés Cambridge. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-cambridge/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-cambridge/"/>
+        <updated>2021-10-25T15:18:57.656Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-cambridge/" title="Coins Cachés Cambridge"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/08/coinscachésUK_FeatureImage2-31-08-2021.jpg" alt="Coins Cachés Cambridge"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-cambridge/" title="Coins Cachés Cambridge">ROULER</a></h2><p><strong>Coins Cachés Cambridge.</strong> A city of history, culture and world-changing discoveries. Explore roads less ridden along the flat, exposed Fenlands, over Belgian berg-like climbs and through the iconic backstreets of Cambridge. </p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les Moustachus en Vadrouille (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/les-moustachus-en-vadrouille/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/les-moustachus-en-vadrouille/"/>
-        <updated>2021-10-25T07:20:06.852Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/les-moustachus-en-vadrouille/" title="Les Moustachus en Vadrouille"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/Moustachus_FeatureImage3-15-09-2021.jpg" alt="Les Moustachus en Vadrouille"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/les-moustachus-en-vadrouille/" title="Les Moustachus en Vadrouille">LA VIE</a></h2><p><strong>Les Moustachus en Vadrouille </strong> Trois hommes moustachus se sont lancés dans un périple à vélo reliant 20 des plus beaux villages de France. Une célébration du patrimoine et de l’amitié.</p>]]></content>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/les-moustachus-en-vadrouille/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/les-moustachus-en-vadrouille/"/>
+        <updated>2021-10-25T15:18:57.665Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/les-moustachus-en-vadrouille/" title="Les Moustachus en Vadrouille"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/Moustachus_FeatureImage3-15-09-2021.jpg" alt="Les Moustachus en Vadrouille"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/les-moustachus-en-vadrouille/" title="Les Moustachus en Vadrouille">LA VIE</a></h2><p><strong>Les Moustachus en Vadrouille </strong> Three moustachioed friends set out on a cycling journey linking together 20 of the most beautiful villages in France. A celebration of heritage, style, and friendship.</p>]]></content>
     </entry>
 </feed>
