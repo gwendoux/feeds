@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-10-26T06:25:14.802Z</updated>
+    <updated>2021-10-26T07:20:17.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=b45dd366a635cad5cb7c63fff8d8</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=b783fde759c31033e507403e6c5f</icon>
     <entry>
         <title type="html"><![CDATA[A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1</id>
