@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-28T16:31:47.558Z</updated>
+    <updated>2021-10-28T17:23:53.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -185,6 +185,13 @@
                         </div>Phenotypic and pedigree data and R scripts for analyses (v. 4.0.4).</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tracks and Trails in the Ariège. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/"/>
+        <updated>2021-10-28T17:23:53.017Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/" title="Tracks and Trails"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/Track-and-trails-bottom-slider-image.jpg" alt="Tracks and Trails"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/" title="Tracks and Trails">ROULER</a></h2><p><strong> Tracks and Trails in the Ariège.</strong> Five friends explore routes shared with the incredibly diverse range of four legged and airborne residents of the Ariège by bike.</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Guillaume Néry: A Traverse Across the Pyrenees (La Gazette de café du cycliste)]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/</id>
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/"/>
@@ -261,12 +268,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/"/>
         <updated>2021-10-28T11:17:38.339Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/guillaume-nery-feature-image-29-09-2021.jpg" alt="Caravan – Guillaume Nery"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery">LA MAISON</a></h2><p><strong> Caravan: Guillaume Néry</strong> Cycling has forged me into the athlete I am today, but it is so much more than just a way to train as it encompasses travel, exploration and discovery, some of my great passions in life.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coins Cachés Cambridge. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-cambridge/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-cambridge/"/>
-        <updated>2021-10-28T11:17:38.340Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-cambridge/" title="Coins Cachés Cambridge"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/08/coinscachésUK_FeatureImage2-31-08-2021.jpg" alt="Coins Cachés Cambridge"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-cambridge/" title="Coins Cachés Cambridge">ROULER</a></h2><p><strong>Coins Cachés Cambridge.</strong> A city of history, culture and world-changing discoveries. Explore roads less ridden along the flat, exposed Fenlands, over Belgian berg-like climbs and through the iconic backstreets of Cambridge. </p>]]></content>
     </entry>
 </feed>
