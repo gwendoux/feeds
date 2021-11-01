@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-01T08:25:28.615Z</updated>
+    <updated>2021-11-01T09:21:42.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Guyafor Data Dictionary (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -185,87 +185,88 @@
                         </div>In 2011, the Government of Uzbekistan established the Lower Amu Darya State Biosphere Reserve (LABR). This reserve aims to conserve the Tugay, an endangered riparian forest ecosystem straddling the main rivers of Central Asia’s drylands, which is under extreme anthropogenic press...</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[À Travers Chemins et Sentiers dans l'Ariège. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/tracks-and-trails/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/tracks-and-trails/"/>
-        <updated>2021-10-30T17:24:31.147Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/tracks-and-trails/" title="Tracks and Trails"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/Track-and-trails-bottom-slider-image.jpg" alt="Tracks and Trails"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/tracks-and-trails/" title="Tracks and Trails">ROULER</a></h2><p><strong>À Travers Chemins et Sentiers dans l'Ariège.</strong> Cinq amis partent à l’aventure à deux roues sur les routes d’Ariège où cohabitent une diversité incroyable d’êtres à quatre pattes et volants.</p>]]></content>
+        <title type="html"><![CDATA[Tracks and Trails in the Ariège. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/"/>
+        <updated>2021-11-01T09:21:42.175Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/" title="Tracks and Trails"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/Track-and-trails-bottom-slider-image.jpg" alt="Tracks and Trails"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/" title="Tracks and Trails">ROULER</a></h2><p><strong> Tracks and Trails in the Ariège.</strong> Five friends explore routes shared with the incredibly diverse range of four legged and airborne residents of the Ariège by bike.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guillaume Néry: Une Traversée des Pyrénées (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/guillaume-nery-the-pyrenees/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/guillaume-nery-the-pyrenees/"/>
-        <updated>2021-10-30T17:24:31.148Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/guillaume-nery-the-pyrenees/" title="Guillaume Néry – The Pyrenees"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/NeryPyrenees_FeatureImage3.jpg" alt="Guillaume Néry – The Pyrenees"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/guillaume-nery-the-pyrenees/" title="Guillaume Néry – The Pyrenees">LA MAISON</a></h2><p><strong> Guillaume Néry: Une Traversée des Pyrénées </strong> Chaque été, j’ai pour habitude de me lancer dans une aventure avec mes amis qui sont partant pour se challenger. L’année dernière, les Alpes ont été le théâtre de notre excursion à vélo, cette année, nous nous sommes attaqués aux Pyrénées.</p>]]></content>
+        <title type="html"><![CDATA[Guillaume Néry: A Traverse Across the Pyrenees (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/"/>
+        <updated>2021-11-01T09:21:42.175Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/" title="Guillaume Néry – The Pyrenees"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/NeryPyrenees_FeatureImage3.jpg" alt="Guillaume Néry – The Pyrenees"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/" title="Guillaume Néry – The Pyrenees">LA MAISON</a></h2><p><strong> Guillaume Néry: A Traverse Across the Pyrenees </strong> Each summer, I set off on an adventurous trip with good friends who are up for a challenge. Last year, we bikepacked through the Alps and this year we tackled the Pyrenees.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roc d'Azur: La Team Gravel CDC. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/roc-dazur-2021/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/roc-dazur-2021/"/>
-        <updated>2021-10-30T17:24:31.149Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/roc-dazur-2021/" title="Roc d’Azur 2021"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/RocdAzur-21-10-21.jpg" alt="Roc d’Azur 2021"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/roc-dazur-2021/" title="Roc d’Azur 2021">ROULER</a></h2><p><strong> Roc d'Azur: La Team Gravel CDC.</strong> Café du Cycliste a toujours démontré son amour pour le gravel, et c’est de là qu’est née l’équipe ‘True Grit’ Café du Cycliste. Holly, Charlotte et Maria, trois coureuses à l’âme de guerrière, s’attaquent à l’une des plus grandes courses gravel au monde.</p>]]></content>
+        <title type="html"><![CDATA[Roc d'Azur: The CDC Gravel Team. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/roc-dazur-2021/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/roc-dazur-2021/"/>
+        <updated>2021-11-01T09:21:42.196Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/roc-dazur-2021/" title="Roc d’Azur 2021"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/RocdAzur-21-10-21.jpg" alt="Roc d’Azur 2021"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/roc-dazur-2021/" title="Roc d’Azur 2021">ROULER</a></h2><p><strong>Roc d'Azur: The CDC Gravel Team.</strong> At Café du Cycliste we really like gravel and so we have formed the ‘True Grit’ Café du Cycliste team. Three fierce female riders, Holly, Charlotte and Maria, take on one of the greatest gravel events in the world.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Je ne suis pas un numéro 06. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/i-am-not-a-number-06/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/i-am-not-a-number-06/"/>
-        <updated>2021-10-30T17:24:31.150Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/IANAN_Alexia_FeatureImage4-18-10-2021.jpg" alt="I am not a number – #06"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06">FILMS</a></h2><p><strong>Je ne suis pas un numéro 06. </strong> Alexia est la dixième femme du monde parmi près de 100 marins à avoir bouclé le tour du monde sans escale et sans assistance. Le cyclisme est son autre espace de liberté.</p>]]></content>
+        <title type="html"><![CDATA[I am not number 06. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/"/>
+        <updated>2021-11-01T09:21:42.197Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/IANAN_Alexia_FeatureImage4-18-10-2021.jpg" alt="I am not a number – #06"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06">FILMS</a></h2><p><strong> I am not number 06. </strong> Alexia is the 10th woman in the world among nearly 100 skippers to have finished the Vendée Globe race without stopping and without assistance. Cycling is her other passion.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La Meilleure Tortilla du Monde (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/best-tortilla-in-the-world/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/best-tortilla-in-the-world/"/>
-        <updated>2021-10-30T17:24:31.151Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/Best_Tortilla-FeatureImage2-15-09-2021.jpg" alt="BEST TORTILLA IN THE WORLD"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD">LA VIE</a></h2><p><strong>La Meilleure Tortilla du Monde</strong> se déguste à la fin d'une longue journée entre amis sur les chemins de Galice.</p>]]></content>
+        <title type="html"><![CDATA[The Best Tortilla in the World (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/"/>
+        <updated>2021-11-01T09:21:42.198Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/Best_Tortilla-FeatureImage2-15-09-2021.jpg" alt="BEST TORTILLA IN THE WORLD"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD">LA VIE</a></h2><p><strong>The Best Tortilla in the World</strong> is found at the end of a hard day spent riding with friends on ancient Galician roads.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Café du Cycliste x 66°North Lookbook (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/cafe-du-cycliste-x-66north-lookbook/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/cafe-du-cycliste-x-66north-lookbook/"/>
-        <updated>2021-10-30T17:24:31.176Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/cafe-du-cycliste-x-66north-lookbook/" title="Café du Cycliste x 66North Lookbook"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/LOOKBOOK-feature-image-05-10-21.jpg" alt="Café du Cycliste x 66North Lookbook"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/cafe-du-cycliste-x-66north-lookbook/" title="Café du Cycliste x 66North Lookbook">COLLECTIONS</a></h2><p><strong> Café du Cycliste x 66°North Lookbook</strong> Café du Cycliste s'est associé à l'une des plus anciennes entreprises d'Islande, 66°North, pour présenter une collection spéciale d'équipements techniques.</p>]]></content>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/cafe-du-cycliste-x-66north-lookbook/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/cafe-du-cycliste-x-66north-lookbook/"/>
+        <updated>2021-11-01T09:21:42.202Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/cafe-du-cycliste-x-66north-lookbook/" title="Café du Cycliste x 66North Lookbook"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/LOOKBOOK-feature-image-05-10-21.jpg" alt="Café du Cycliste x 66North Lookbook"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/cafe-du-cycliste-x-66north-lookbook/" title="Café du Cycliste x 66North Lookbook">COLLECTIONS</a></h2><p><strong> Café du Cycliste x 66°North Lookbook </strong> Café du Cycliste has joined forces with one of Iceland’s oldest manufacturing companies, 66°North to present a special collection of technical gear.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Café du Cycliste x 66°North (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/66-north-x-cafe-du-cycliste/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/66-north-x-cafe-du-cycliste/"/>
-        <updated>2021-10-30T17:24:31.178Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/66-north-x-cafe-du-cycliste/" title="66 North x Café du Cycliste"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/10/66North-Benjamin-Hardman-DJI_0092-topbanner-04-10-2021-bis.jpg" alt="66 North x Café du Cycliste"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/66-north-x-cafe-du-cycliste/" title="66 North x Café du Cycliste">COLLECTIONS</a></h2><p><strong> Café du Cycliste x 66°North </strong> Une collaboration entre marques pour créer des vêtements de cyclisme dessiner pour l’Islande permettant aux cyclistes de se confronter au froid hivernal partout dans le monde.</p>]]></content>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/66-north-x-cafe-du-cycliste/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/66-north-x-cafe-du-cycliste/"/>
+        <updated>2021-11-01T09:21:42.204Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/66-north-x-cafe-du-cycliste/" title="66 North x Café du Cycliste"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/66North-Benjamin-Hardman-DJI_0092-topbanner-04-10-2021-bis.jpg" alt="66 North x Café du Cycliste"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/66-north-x-cafe-du-cycliste/" title="66 North x Café du Cycliste">COLLECTIONS</a></h2><p><strong> Café du Cycliste x 66°North </strong> A collaboration of brands to create cycling apparel designed for Iceland, allowing cyclists to tackle the winter weather anywhere in the world.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Caravan. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/caravan/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan/"/>
-        <updated>2021-10-30T17:24:31.179Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan/" title="Caravan"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/caravan-feature-image-29-09-2021.jpg" alt="Caravan"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan/" title="Caravan">LA MAISON</a></h2><p><strong> Caravan.</strong> Un collectif de sportifs partageant les mêmes valeurs, liés par un amour commun pour le cyclisme. Leurs raisons de rouler sont variées mais ils ont tous une passion commune pour l'exploration à deux roues.</p>]]></content>
+        <title type="html"><![CDATA[Caravan (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/caravan/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/caravan/"/>
+        <updated>2021-11-01T09:21:42.206Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan/" title="Caravan"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/caravan-feature-image-29-09-2021.jpg" alt="Caravan"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan/" title="Caravan">LA MAISON</a></h2><p><strong> Caravan</strong> A collective of like minded sports people bonded by a shared love of cycling. Their reasons for riding are varied but they all have a common passion for exploring on two wheels.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rindu Alam Puncak: une ascension en Indonésie. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/"/>
-        <updated>2021-10-30T17:24:31.181Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/grace_FeatureImage2.jpg" alt="Rindu Alam Puncak: a Ride in Indonesia"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia">ROULER</a></h2><p><strong> Rindu Alam Puncak: une ascension en Indonésie. </strong>Grace Adoe monte à Puncak, l’une des routes les plus iconiques de Jakarta, qui s’élève à plus de 1000m, traversant les marchés traditionnels et les plantations de Tea.</p>]]></content>
+        <title type="html"><![CDATA[Rindu Alam Puncak: a Ride in Indonesia. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/"/>
+        <updated>2021-11-01T09:21:42.207Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/grace_FeatureImage2.jpg" alt="Rindu Alam Puncak: a Ride in Indonesia"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia">ROULER</a></h2><p><strong> Rindu Alam Puncak: a Ride in Indonesia. </strong>Grace Adoe rides up to Puncak, one of two iconic cycling routes in Jakarta, climbing over 1,000m through traditional markets and tea plantations for some poffertjes at Rindu Alam.
+</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[La Sortie du Mois : Septembre. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/ride-of-the-month-september/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/ride-of-the-month-september/"/>
-        <updated>2021-10-30T17:24:31.181Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/ride-of-the-month-september/" title="Ride of the Month: September"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/rotm-sept-feature-image-03-28-09-2021.jpg" alt="Ride of the Month: September"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/ride-of-the-month-september/" title="Ride of the Month: September">LA MAISON</a></h2><p><strong> La Sortie du Mois : Septembre. </strong> Une sortie sur les Monts d’Azur. A son point culminant, une réserve animalière sauvage, à son retour, une route vertigineuse jonchée de tunnels taillés dans la roche.</p>]]></content>
+        <title type="html"><![CDATA[Ride of the Month: September. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-september/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-september/"/>
+        <updated>2021-11-01T09:21:42.222Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-september/" title="Ride of the Month: September"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/rotm-sept-feature-image-03-28-09-2021.jpg" alt="Ride of the Month: September"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-september/" title="Ride of the Month: September">LA MAISON</a></h2><p><strong>Ride of the Month: September.</strong> A 1300m climb to explore the wild animal reserve of the Monts d’Azur and ride the thrilling descent down the other side, through tunnels cut in the rock.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Un tour des volcans d'Auvergne. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/"/>
-        <updated>2021-10-30T17:24:31.183Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/" title="Sophie Gateau: A Tour of the Volcanoes of Auvergne"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2010/09/TOURDESPUYS_GATEAU_bottomsliderimage.jpg" alt="Sophie Gateau: A Tour of the Volcanoes of Auvergne"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/" title="Sophie Gateau: A Tour of the Volcanoes of Auvergne">ROULER</a></h2><p><strong> Un tour des volcans d'Auvergne. </strong> Sophie Gateau explore l'Auvergne, une région aux vastes étendues. La tente sur le vélo, l'appareil photo à portée de main, découverte de paysages insolites et grandioses.</p>]]></content>
+        <title type="html"><![CDATA[A Tour of the Volcanoes of Auvergne. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/"/>
+        <updated>2021-11-01T09:21:42.224Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/" title="Sophie Gateau: A Tour of the Volcanoes of Auvergne"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/09/TOURDESPUYS_GATEAU_bottomsliderimage.jpg" alt="Sophie Gateau: A Tour of the Volcanoes of Auvergne"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-a-tour-of-the-volcanoes-of-auvergne/" title="Sophie Gateau: A Tour of the Volcanoes of Auvergne">ROULER</a></h2><p><strong> A Tour of the Volcanoes of Auvergne. </strong> Sophie Gateau explores the Auvergne region, where there are probably more cows than humans per m2, armed with our camera, a tent and a knife.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Caravan: Guillaume Néry (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/caravan-guillaume-nery/</id>
-        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan-guillaume-nery/"/>
-        <updated>2021-10-30T17:24:31.185Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery"><img src="https://www.cafeducycliste.com/wp/wp-content/uploads/2021/09/guillaume-nery-feature-image-29-09-2021.jpg" alt="Caravan – Guillaume Nery"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery">LA MAISON</a></h2><p><strong> Caravan: Guillaume Néry</strong> Le cyclisme a fait de moi l'athlète que je suis aujourd'hui, mais c'est bien plus qu'un simple moyen de m'entraîner car il englobe le voyage, l'exploration et la découverte, certaines de mes grandes passions dans la vie .</p>]]></content>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/"/>
+        <updated>2021-11-01T09:21:42.225Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/guillaume-nery-feature-image-29-09-2021.jpg" alt="Caravan – Guillaume Nery"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-guillaume-nery/" title="Caravan – Guillaume Nery">LA MAISON</a></h2><p><strong> Caravan: Guillaume Néry</strong> Cycling has forged me into the athlete I am today, but it is so much more than just a way to train as it encompasses travel, exploration and discovery, some of my great passions in life.</p>]]></content>
     </entry>
 </feed>
