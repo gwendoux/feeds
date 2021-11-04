@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-11-04T05:19:21.120Z</updated>
+    <updated>2021-11-04T06:25:18.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=962b2de26bfe807b2863a05c1f4b</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=99f0e71883696f1ba9aec8125833</icon>
     <entry>
         <title type="html"><![CDATA[Tree species inventory in the Cordyla pinnata parkland of Senegal]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/RKZ5DN</id>
@@ -38,7 +38,7 @@
                             </a>
                         </div><span class="text-muted">Nov 4, 2021</span><span class="text-muted"> - </span><a href="/dataverse/aida">AIDA</a>
 
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ripoche Aude; Ranaivoson Lalaina; Autfray Patrice; Muller Bertrand; Randriamamdimbisoa Christian; Auzoux Sandrine, 2021, "Dataset for modelling agronomic and environmental performances of rainfed rice based cropping systems with or without legume in Magadascar", <a href="https://doi.org/10.18167/DVN1/IVKCBS" target="_blank">https://doi.org/10.18167/DVN1/IVKCBS</a>, CIRAD Dataverse, V1, UNF:6:RDZm4yNOTo334TuxCYrgZA== [fileUNF]
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ripoche Aude; Ranaivoson Lalaina; Autfray Patrice; Muller Bertrand; Randriamandimbisoa Christian; Auzoux Sandrine, 2021, "Dataset for modelling agronomic and environmental performances of rainfed rice based cropping systems with or without legume in Magadascar", <a href="https://doi.org/10.18167/DVN1/IVKCBS" target="_blank">https://doi.org/10.18167/DVN1/IVKCBS</a>, CIRAD Dataverse, V1, UNF:6:RDZm4yNOTo334TuxCYrgZA== [fileUNF]
                         </div>This dataset provide data for calibration and evaluation of the model Stics in the specific context of malagasy higlands with rice cultivar Nerica 4. Data include soil moisture and N initialization, fertilization applied (quality and quantity), cropping practices, data on rice bi...</div>]]></content>
     </entry>
     <entry>
