@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-11-04T18:25:11.523Z</updated>
+    <updated>2021-11-04T19:16:41.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=c321ca7693bfc5caa5e0bb107eb5</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=c61403dae0ab3041d410d23621ca</icon>
     <entry>
         <title type="html"><![CDATA[Tree species inventory in the Cordyla pinnata parkland of Senegal]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/RKZ5DN</id>
