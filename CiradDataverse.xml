@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-11-04T04:27:36.430Z</updated>
+    <updated>2021-11-04T05:19:21.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=9334e78771f2082a0c78e05b1b52</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=962b2de26bfe807b2863a05c1f4b</icon>
+    <entry>
+        <title type="html"><![CDATA[Tree species inventory in the Cordyla pinnata parkland of Senegal]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/RKZ5DN</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/RKZ5DN"/>
+        <updated>2021-11-04T05:19:15.802Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/RKZ5DN"><span style="padding:4px 0;">Tree species inventory in the Cordyla pinnata parkland of Senegal</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/RKZ5DN"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Nov 4, 2021</span><span class="text-muted"> - </span><a href="/dataverse/aida">AIDA</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ndao, Babacar; Leroux, Louise; Diouf, Abdoul Aziz, 2021, "Tree species inventory in the Cordyla pinnata parkland of Senegal", <a href="https://doi.org/10.18167/DVN1/RKZ5DN" target="_blank">https://doi.org/10.18167/DVN1/RKZ5DN</a>, CIRAD Dataverse, V1
+                        </div>The tree inventory was conducted in the Cordyla pinnata parkland in Senegal, in the region of Nioro du Rip. A field campaign for tree species data collection was carried out in February 2019. It is a weighted stratified sampling of 213 observation sites distributed according to a...</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dataset for modelling agronomic and environmental performances of rainfed rice based cropping systems with or without legume in Magadascar]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IVKCBS</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IVKCBS"/>
+        <updated>2021-11-04T05:19:15.803Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IVKCBS"><span style="padding:4px 0;">Dataset for modelling agronomic and environmental performances of rainfed rice based cropping systems with or without legume in Magadascar</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IVKCBS"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Nov 4, 2021</span><span class="text-muted"> - </span><a href="/dataverse/aida">AIDA</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ripoche Aude; Ranaivoson Lalaina; Autfray Patrice; Muller Bertrand; Randriamamdimbisoa Christian; Auzoux Sandrine, 2021, "Dataset for modelling agronomic and environmental performances of rainfed rice based cropping systems with or without legume in Magadascar", <a href="https://doi.org/10.18167/DVN1/IVKCBS" target="_blank">https://doi.org/10.18167/DVN1/IVKCBS</a>, CIRAD Dataverse, V1, UNF:6:RDZm4yNOTo334TuxCYrgZA== [fileUNF]
+                        </div>This dataset provide data for calibration and evaluation of the model Stics in the specific context of malagasy higlands with rice cultivar Nerica 4. Data include soil moisture and N initialization, fertilization applied (quality and quantity), cropping practices, data on rice bi...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guyafor Data Dictionary]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA</id>
@@ -148,41 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Rapetti Manon, 2021, "A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system", <a href="https://doi.org/10.18167/DVN1/2GVORV" target="_blank">https://doi.org/10.18167/DVN1/2GVORV</a>, CIRAD Dataverse, V1, UNF:6:LBM1TMK6zA+DmK35TFy6jQ== [fileUNF]
                         </div>This dataset describes 12 Cavendish cultivars for their phenology, their morphology, their biomass and their bunch characteristics and their root system architecture. Except for the root traits, all measurements were performed on two crop cycles and 10 repetitions per cultivar an...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tree species inventory in the Faidherbia albida parkland of Senegal]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/OAYDV3</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/OAYDV3"/>
-        <updated>2021-09-30T05:40:12.439Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/OAYDV3"><span style="padding:4px 0;">Tree species inventory in the Faidherbia albida parkland of Senegal</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/OAYDV3"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Sep 30, 2021</span><span class="text-muted"> - </span><a href="/dataverse/aida">AIDA</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ndao, Babacar; Leroux, Louise; Diouf, Abdoul Aziz, 2021, "Tree species inventory in the Faidherbia albida parkland of Senegal", <a href="https://doi.org/10.18167/DVN1/OAYDV3" target="_blank">https://doi.org/10.18167/DVN1/OAYDV3</a>, CIRAD Dataverse, V1
-                        </div>The tree inventory was conducted in the Faidherbia albida parkland in Senegal, in the region of Niakhar. A field campaign for tree species data collection was carried out in May 2018. It is a weighted stratified sampling of 213 observation sites distributed according to a landsca...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Databases of the publication entitled : "Estimation of red deer population and its impact on Tugay forest ecosystem in the Lower Amu Darya State Biosphere Reserve, Uzbekistan"]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/THSVXS</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/THSVXS"/>
-        <updated>2021-09-29T13:58:51.300Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/THSVXS"><span style="padding:4px 0;">Databases of the publication entitled : "Estimation of red deer population and its impact on Tugay forest ecosystem in the Lower Amu Darya State Biosphere Reserve, Uzbekistan"</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/THSVXS"><img src="data:image/png;base64,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" alt="Databases of the publication entitled : &quot;Estimation of red deer population and its impact on Tugay forest ecosystem in the Lower Amu Darya State Biosphere Reserve, Uzbekistan&quot;">
-                            </a>
-                        </div><span class="text-muted">Sep 27, 2021</span><span class="text-muted"> - </span><a href="/dataverse/forets-societes">Forêts et Sociétés</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Cornelis Daniel; Gond Valery; Cesaro Jean-Daniel; Peltier Régis, 2021, "Databases of the publication entitled : "Estimation of red deer population and its impact on Tugay forest ecosystem in the Lower Amu Darya State Biosphere Reserve, Uzbekistan"", <a href="https://doi.org/10.18167/DVN1/THSVXS" target="_blank">https://doi.org/10.18167/DVN1/THSVXS</a>, CIRAD Dataverse, V2
-                        </div>In 2011, the Government of Uzbekistan established the Lower Amu Darya State Biosphere Reserve (LABR). This reserve aims to conserve the Tugay, an endangered riparian forest ecosystem straddling the main rivers of Central Asia’s drylands, which is under extreme anthropogenic press...</div>]]></content>
     </entry>
 </feed>
