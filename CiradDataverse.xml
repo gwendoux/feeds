@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-11-09T10:23:31.078Z</updated>
+    <updated>2021-11-09T11:17:59.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=438e02bb39a17f193d52a1917f9b</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=46abfb63e55286a31eb9f4991f9c</icon>
+    <entry>
+        <title type="html"><![CDATA[Risque de ruissellement selon des pentes à 7% sur l'île de La Réunion]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/FSSY6B</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/FSSY6B"/>
+        <updated>2021-11-09T11:17:51.560Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/FSSY6B"><span style="padding:4px 0;">Risque de ruissellement selon des pentes à 7% sur l'île de La Réunion</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/FSSY6B"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Nov 9, 2021</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Degenne, Pascal, 2021, "Risque de ruissellement selon des pentes à 7% sur l'île de La Réunion", <a href="https://doi.org/10.18167/DVN1/FSSY6B" target="_blank">https://doi.org/10.18167/DVN1/FSSY6B</a>, CIRAD Dataverse, V1
+                        </div>Estimation d'un risque de ruissellement vers les cours d'eau du Domaine Public Fluvial de l'île de La Réunion selon des pentes supérieures ou égales à 7%. Le calcul de risque de ruissellement est effectué de manière itérative, en partant des cours d'eau et en progressant le long...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tree species inventory in the Cordyla pinnata parkland of Senegal]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/RKZ5DN</id>
@@ -166,23 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">POUËT Cyrane; Rhino, Béatrice, 2021, "Dataset of repellency of wild oregano to whiteflies", <a href="https://doi.org/10.18167/DVN1/PGG1HT" target="_blank">https://doi.org/10.18167/DVN1/PGG1HT</a>, CIRAD Dataverse, V2, UNF:6:sBo+z/n7UxVhcMUU2Zjsrw== [fileUNF]
                         </div>These data support the research article "Repellency of wild oregano plant volatiles, Plectranthus amboinicus, and their essential oils to the silverleaf whitefly , Bemisia tabaci, on tomato ”. We tested three origins of wild oregano, including northern (WO1), central (WO2) and so...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV"/>
-        <updated>2021-10-03T05:39:32.459Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV"><span style="padding:4px 0;">A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/2GVORV"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAMAAABDh1hgAAAAe1BMVEX////+/v77+/v8/Pz9/f36+vrd3d3g4ODl5eXn5+fj4+Ps7Ozx8fHh4eHX19fZ2dnf39/a2trb29vr6+v19fXu7u7p6env7+/q6urz8/Pi4uLk5OTt7e3m5ubo6Oj4+Pj09PTy8vL29vb39/f5+fne3t7w8PDc3Nzp6Oi6qs5fAAACmklEQVQ4y81Ui46kOAycDtB53zHjjhPyArohc///heueFcxqdTfSaqXVWSAjYUxVuZyXlz8YF9b1fd/1X5QMVy6k4vqrNv1HXH4TTG/sX3+PryN/e319g38tYTeH2gftIICe+o7gs66jxM4mEJVCLVNGLkt1VRVXsYZY61HTBQApgggyBB1cRvACQ5X0cAjR52docEHrXDXOl0v3QbE/peqX221a78ttmqZlWm6PxzzM20xpPoToioS4y1RQxipUEUkBFmljOrGwKAWXqfJYbCt7iXhVKjrBRemOAezFplTlSC9Gu1/fx93ycSxgr59duEUbheV1YIwNFM/EejYcWHrT2tS88W0aBlKMse6jhOJklAMiVikplZyxQkYMsgaoB5beN8w6a+c9hDWgA738NKIur2313rTbuvi1TUZ7v67t0ZbbgYXxFBV/s8Q97UWUtNvRprFyBad0WHMQklcMpYJBICmhIVoxnT8KNBjw2qB3mcaoMXgHvuUQDrhM2JJiiRLu9/ty/xgY5cdipnPSk1kpspl/y7uXmTiar/aItLPj+z58vQLkRyIDZDxAAF3RoawaPkVmbPVmNc2Q6cwTujc34/NkHmcPq5IdU5LkXTJ5rZJ2RVYF4hwj46KSuCJFmUSxWGJVKYqa0j8HhcGqmMhmVozvKinxbm3Zvu/ayXnb5pksT9d924Zt3rbt18+Ai5PomiNKT0LNt7Y0s/ppaub0Lnm7aAkags6hIuiAEjDoKj+NGSqplp1DyCSc9uQMOib0D2YAKUmDABJb9l5Xcietg/M6n6uGuooQApT7f8HtNOKaNUF5/oxS9mQ8B1j9IR0r/DWJyNUeIxdqpFuN1l7HvZxHEH0kjXdBYq7eEFz02YcC2nUv/6/4BrjRQRGfS1n9AAAAAElFTkSuQmCC" alt="A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system">
-                            </a>
-                        </div><span class="text-muted">Oct 2, 2021</span><span class="text-muted"> - </span><a href="/dataverse/geco">UPR GECO</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Rapetti Manon, 2021, "A dataset on traits of 12 Cavendish cultivars in Guadeloupe: morphology, biomass, growth, bunch characteristics and root system", <a href="https://doi.org/10.18167/DVN1/2GVORV" target="_blank">https://doi.org/10.18167/DVN1/2GVORV</a>, CIRAD Dataverse, V1, UNF:6:LBM1TMK6zA+DmK35TFy6jQ== [fileUNF]
-                        </div>This dataset describes 12 Cavendish cultivars for their phenology, their morphology, their biomass and their bunch characteristics and their root system architecture. Except for the root traits, all measurements were performed on two crop cycles and 10 repetitions per cultivar an...</div>]]></content>
     </entry>
 </feed>
