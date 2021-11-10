@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-11-10T08:25:49.649Z</updated>
+    <updated>2021-11-10T09:21:43.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=8f384747ea7c09f84aeac1efa94d</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=9269eb514599f2e6e5b17e2c1f1d</icon>
     <entry>
         <title type="html"><![CDATA[Risque de ruissellement selon des pentes à 7% sur l'île de La Réunion]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/FSSY6B</id>
