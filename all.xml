@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-10T12:33:15.839Z</updated>
+    <updated>2021-11-10T13:26:17.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TRANSMAT tables data (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9"/>
+        <updated>2021-11-10T13:26:08.608Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9"><span style="padding:4px 0;">TRANSMAT tables data</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAAAAABRMveOAAAAfklEQVQ4y+3RQQuDMAyGYf//TxOEOoZ4EpGdNlbHZmPml9YhiDtU7WnMQ99b4DkkJBmDJZFE4hF6dfx8EJjJmB5s4JH7KaszlTdlUeRn1VbpxSMOsJApQOAE9qcXSc/MboXYpbfWrR6+80Jks/88IJJI9shwu0qAWCJ3lHXnPh6lVT+DQxHBAAAAAElFTkSuQmCC" alt="TRANSMAT tables data">
+                            </a>
+                        </div><span class="text-muted">Nov 10, 2021</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Lentschat, Martin; Buche, Patrice; Menut, Luc; Guari, Romane, 2021, "TRANSMAT tables data", <a href="https://doi.org/10.18167/DVN1/GCZBC9" target="_blank">https://doi.org/10.18167/DVN1/GCZBC9</a>, CIRAD Dataverse, V2
+                        </div>This dataset presents data obtained from manual and automatic extraction of partial n-Ary relations encountered in table forms. The tables were obtained from on documents available on the Science Direct website. The data are related to permeability n-Ary relations, as defined in...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Risque de ruissellement selon des pentes à 7% sur l'île de La Réunion (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/FSSY6B</id>
@@ -167,22 +185,11 @@
                         </div>The wood collection (Xylotheque or Xylarium) of Kourou (French Guiana) was created in 1976 by Jean Thiel and has since been augmented by many contributors. It is a child collection of the Xylotheque of Montpellier. A Xylarium, like the one in Kourou, is a unique collection of woo...</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dataset of repellency of wild oregano to whiteflies (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT"/>
-        <updated>2021-10-06T17:43:31.375Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT"><span style="padding:4px 0;">Dataset of repellency of wild oregano to whiteflies</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Oct 6, 2021</span><span class="text-muted"> - </span><a href="/dataverse/hortsys">UPR HORTSYS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">POUËT Cyrane; Rhino, Béatrice, 2021, "Dataset of repellency of wild oregano to whiteflies", <a href="https://doi.org/10.18167/DVN1/PGG1HT" target="_blank">https://doi.org/10.18167/DVN1/PGG1HT</a>, CIRAD Dataverse, V2, UNF:6:sBo+z/n7UxVhcMUU2Zjsrw== [fileUNF]
-                        </div>These data support the research article "Repellency of wild oregano plant volatiles, Plectranthus amboinicus, and their essential oils to the silverleaf whitefly , Bemisia tabaci, on tomato ”. We tested three origins of wild oregano, including northern (WO1), central (WO2) and so...</div>]]></content>
+        <title type="html"><![CDATA[I am not a number 38. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/"/>
+        <updated>2021-11-10T13:26:16.441Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/" title="I Am Not A Number – #38"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/IANAN_Haffi_FeatureImage3-08-11-21.jpg" alt="I Am Not A Number – #38"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/" title="I Am Not A Number – #38">FILMS</a></h2><p><strong> I am not a number 38.</strong> As an Olympic sailor, Haffi understands the pressure that comes with competing at the highest level but for him, nothing compares to the intensity of racing on two wheels.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AW21: Serre Chevalier Lookbook (La Gazette de café du cycliste)]]></title>
@@ -260,13 +267,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/caravan/"/>
         <updated>2021-11-10T09:21:41.114Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan/" title="Caravan"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/caravan-feature-image-29-09-2021.jpg" alt="Caravan"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan/" title="Caravan">LA MAISON</a></h2><p><strong> Caravan</strong> A collective of like minded sports people bonded by a shared love of cycling. Their reasons for riding are varied but they all have a common passion for exploring on two wheels.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rindu Alam Puncak: a Ride in Indonesia. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/"/>
-        <updated>2021-11-10T09:21:41.115Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/grace_FeatureImage2.jpg" alt="Rindu Alam Puncak: a Ride in Indonesia"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/rindu-alam-puncak-a-ride-in-indonesia/" title="Rindu Alam Puncak: a Ride in Indonesia">ROULER</a></h2><p><strong> Rindu Alam Puncak: a Ride in Indonesia. </strong>Grace Adoe rides up to Puncak, one of two iconic cycling routes in Jakarta, climbing over 1,000m through traditional markets and tea plantations for some poffertjes at Rindu Alam.
-</p>]]></content>
     </entry>
 </feed>

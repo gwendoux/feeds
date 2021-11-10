@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-11-10T12:33:15.837Z</updated>
+    <updated>2021-11-10T13:26:17.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=9d600ae0ffea8ee4763d559c17f4</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=a068a23e35220b0cd2d936ae7e34</icon>
+    <entry>
+        <title type="html"><![CDATA[TRANSMAT tables data]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9"/>
+        <updated>2021-11-10T13:26:08.608Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9"><span style="padding:4px 0;">TRANSMAT tables data</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAAAAABRMveOAAAAfklEQVQ4y+3RQQuDMAyGYf//TxOEOoZ4EpGdNlbHZmPml9YhiDtU7WnMQ99b4DkkJBmDJZFE4hF6dfx8EJjJmB5s4JH7KaszlTdlUeRn1VbpxSMOsJApQOAE9qcXSc/MboXYpbfWrR6+80Jks/88IJJI9shwu0qAWCJ3lHXnPh6lVT+DQxHBAAAAAElFTkSuQmCC" alt="TRANSMAT tables data">
+                            </a>
+                        </div><span class="text-muted">Nov 10, 2021</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Lentschat, Martin; Buche, Patrice; Menut, Luc; Guari, Romane, 2021, "TRANSMAT tables data", <a href="https://doi.org/10.18167/DVN1/GCZBC9" target="_blank">https://doi.org/10.18167/DVN1/GCZBC9</a>, CIRAD Dataverse, V2
+                        </div>This dataset presents data obtained from manual and automatic extraction of partial n-Ary relations encountered in table forms. The tables were obtained from on documents available on the Science Direct website. The data are related to permeability n-Ary relations, as defined in...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Risque de ruissellement selon des pentes à 7% sur l'île de La Réunion]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/FSSY6B</id>
@@ -166,23 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Beauchêne, Jacques; Thibaut, Bernard; Amusant, Nadine; Cigna,Jeremy, 2021, "Database of wood properties from specimens of the French Guiana wood collection", <a href="https://doi.org/10.18167/DVN1/R4G7BC" target="_blank">https://doi.org/10.18167/DVN1/R4G7BC</a>, CIRAD Dataverse, V2, UNF:6:8JCn3T9n1TCMtIvIvAx2Lg== [fileUNF]
                         </div>The wood collection (Xylotheque or Xylarium) of Kourou (French Guiana) was created in 1976 by Jean Thiel and has since been augmented by many contributors. It is a child collection of the Xylotheque of Montpellier. A Xylarium, like the one in Kourou, is a unique collection of woo...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dataset of repellency of wild oregano to whiteflies]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT"/>
-        <updated>2021-10-06T17:43:31.375Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT"><span style="padding:4px 0;">Dataset of repellency of wild oregano to whiteflies</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/PGG1HT"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Oct 6, 2021</span><span class="text-muted"> - </span><a href="/dataverse/hortsys">UPR HORTSYS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">POUËT Cyrane; Rhino, Béatrice, 2021, "Dataset of repellency of wild oregano to whiteflies", <a href="https://doi.org/10.18167/DVN1/PGG1HT" target="_blank">https://doi.org/10.18167/DVN1/PGG1HT</a>, CIRAD Dataverse, V2, UNF:6:sBo+z/n7UxVhcMUU2Zjsrw== [fileUNF]
-                        </div>These data support the research article "Repellency of wild oregano plant volatiles, Plectranthus amboinicus, and their essential oils to the silverleaf whitefly , Bemisia tabaci, on tomato ”. We tested three origins of wild oregano, including northern (WO1), central (WO2) and so...</div>]]></content>
     </entry>
 </feed>
