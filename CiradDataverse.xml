@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-11-12T08:25:07.370Z</updated>
+    <updated>2021-11-12T09:21:12.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=33f823b63849e23a3f0866d8e44e</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=372db5e105a575111d9473d1be05</icon>
+    <entry>
+        <title type="html"><![CDATA[Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI"/>
+        <updated>2021-11-12T09:21:03.160Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI"><span style="padding:4px 0;">Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Nov 12, 2021</span><span class="text-muted"> - </span><a href="/dataverse/eco-sols">UMR Eco&amp;Sols</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Robin, Agnès; Brancalion, Pedro, 2021, "Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining", <a href="https://doi.org/10.18167/DVN1/KLZJPI" target="_blank">https://doi.org/10.18167/DVN1/KLZJPI</a>, CIRAD Dataverse, V1, UNF:6:0U4y2n9ETtBHstPh1d6rVA== [fileUNF]
+                        </div>This data displays soil physical and chemical properties and microbial parameters including NGS data describing the diversity of bacterial communities. The study was conducted in 2013 in the private reserve of Retiro Branco and Córrego do Meio farm, in the municipality of Poços d...</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
+        <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
+        <updated>2021-11-12T09:21:03.085Z</updated>
+        <content type="html"><![CDATA[<div class="dataverseResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
+                        </div>
+                        <div class="card-preview-icon-block text-center"><a href="/dataverse/eco-sols"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAXCAYAAABNq8wJAAADG0lEQVR42u1Wz2sTQRTO31C6u02yqR7aaMGLHjwIooInmzYbqKAXBU+CeKgX8diDgkaxt1LwZBOM8eCPgwiKB3G3RvFgWtSrRfxxqNRiQenujvve7OzO7M5uoqaHgAPD7sy+efN93/tmkgzp85b5T6Bnzen/CriuSxasQXz2tYXqltI7At82lrfELskqO6Rmab0h0GwVifuX3kxr91/tSbURtPbK5X8jcOflSKpKfPu5uU6WPlzpSnn0uLCeVuPt5zlhTmajX/b3bghAQiBQTDhQm4JSlOyOrg7f3de7/bVMbRuftUUlJgqd4yrTbQUgKYCB9nXdJO8/zXNKr5HVH0tCuWvWUDDuVPZ6xNtAhAHFJ4eSCmL7xLxzYQ50ayEnIADtJqfEgjUgqPzs3QmslMttmtRumZpcZZdV3SaPl6fCbxzZZms0+QxMKnnCd0jWqF7H9wlVxw0m1Sw+69WrYqw3N6HmSVnd5q/1YhWdGJGcLC8/D+scyM3GyjCKw8bAC2IYhtKQHssJ32MEYGFF9YO1AoKCQJcQCShGgMYDgJK3pqwW4rGAlges5gXAoQBibkaUSPaHnpGBCje1yYP5GwgQGgMakJUAaFSvhXFe5eg3HTvm1vSAYJQQP+YJsLUgTkcCQJaWephsrK3iHADCkg7m4hby5hhgPKiczWYOjJGZ/TuFeLASEtJ0ATCMXUkFeFyyKmTktqCAxrUwOfO3zEKMGLQLxpSvaJbcO70X3ysKVc5gFfbyoeJEJEBSCBiRiqUSaD18JNgl8GukhMxWfAUYmPbFQ2iVippD4kCopOQC28UIJJyBpO+JBGBTCqwgqDN7dtovv5hw+uDhgAS/wdHCdgR9ft9ocEtRlR0KDN6d8AwZnjhpFopZLokA2IZej1lS1uKeN7iqHB/ZhSDGtSzGJ90ULB5yL5nPhXzHimP4funkKTJ75pzgeeHS8PI/adzuTMAIyuvgfxbZIWdKQRwAgB8hsMYRNZdIgII3g3Vs/svKR9K2XpA35qIwD/vbnCBPG83YLSglsFUdNo96+k/Xd/U70G+97wn8Bp/0Tav8Lq7RAAAAAElFTkSuQmCC" alt="UMR Eco&amp;Sols logo"></a>
+                        </div><span class="text-muted" style="margin-right:.5em;">Nov 12, 2021</span>
+
+                        <hr style="margin:.5em;border:0;">Eco&amp;Sols est une unité mixte de recherche de 70 permanents associant l’INRA, l’IRD, Montpellier SupAgro et le Cirad. Les travaux conduits à Eco&amp;Sols ont pour objectif d’améliorer la compréhension du rôle des organismes du sol et des plantes, ainsi que des interactions entre eux e...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRANSMAT tables data]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9</id>
@@ -148,41 +180,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Nasuti, Stéphanie; Coudel, Emilie; Fechine, Valéria; Piva, Mariana; Abreu, Beatriz; Folhes, Ricardo, 2021, "Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019)", <a href="https://doi.org/10.18167/DVN1/8R3OT1" target="_blank">https://doi.org/10.18167/DVN1/8R3OT1</a>, CIRAD Dataverse, V1
                         </div>This data was collected during the project Odyssea - Observatory of the Dinamics of Societies and Environments in the Amazon. Through a partnership with Family Farmer Unions (STTR), community researchers realized surveys with kobotoolbox application in 32 rural communities in the...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Reference Weed Flora of the 30 tropical weed studies datasets]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG"/>
-        <updated>2021-10-07T17:41:32.058Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG"><span style="padding:4px 0;">A Reference Weed Flora of the 30 tropical weed studies datasets</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KHAEBG"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Oct 7, 2021</span><span class="text-muted"> - </span><a href="/dataverse/amatrop">Amatrop: Tropical Weed studies</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Le Bourgeois, Thomas; Marnotte, Pascal; Auzoux, Sandrine; Fayolle, Benjamin, 2020, "A Reference Weed Flora of the 30 tropical weed studies datasets", <a href="https://doi.org/10.18167/DVN1/KHAEBG" target="_blank">https://doi.org/10.18167/DVN1/KHAEBG</a>, CIRAD Dataverse, V5
-                        </div>Reference list of weed species used in the 30 datasets of the Tropical Weed Studies Dataverse. This list currently contains 1788 taxa. All species are listed with their EPPO code (used in the floristic data files of the datasets), Scientific name, Family name, and the most used s...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Database of wood properties from specimens of the French Guiana wood collection]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"/>
-        <updated>2021-09-30T17:44:07.955Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"><span style="padding:4px 0;">Database of wood properties from specimens of the French Guiana wood collection</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/R4G7BC"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Oct 7, 2021</span><span class="text-muted"> - </span><a href="/dataverse/xylotheque">Xylothèque</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Beauchêne, Jacques; Thibaut, Bernard; Amusant, Nadine; Cigna,Jeremy, 2021, "Database of wood properties from specimens of the French Guiana wood collection", <a href="https://doi.org/10.18167/DVN1/R4G7BC" target="_blank">https://doi.org/10.18167/DVN1/R4G7BC</a>, CIRAD Dataverse, V2, UNF:6:8JCn3T9n1TCMtIvIvAx2Lg== [fileUNF]
-                        </div>The wood collection (Xylotheque or Xylarium) of Kourou (French Guiana) was created in 1976 by Jean Thiel and has since been augmented by many contributors. It is a child collection of the Xylotheque of Montpellier. A Xylarium, like the one in Kourou, is a unique collection of woo...</div>]]></content>
     </entry>
 </feed>
