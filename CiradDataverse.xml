@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-11-13T14:19:12.713Z</updated>
+    <updated>2021-11-13T15:21:32.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=9aa0c619d6e3076eaa87e5c23a88</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=9e30d762e767fe8ba9610c0da7a8</icon>
     <entry>
         <title type="html"><![CDATA[Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI</id>
@@ -27,7 +27,7 @@
         <title type="html"><![CDATA[1]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2021-11-13T14:19:06.038Z</updated>
+        <updated>2021-11-13T15:21:25.575Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
