@@ -15,3 +15,10 @@ url = "https://www.cafeducycliste.com/la-gazette/"
 entrySelector = "#gazette-container .item-box"
 titleSelector = "p strong"
 linkSelector = "h2 a"
+
+[gravelstoke]
+title = "Gravel Cycling Gear Blog — Gravelstoke"
+url = "https://www.gravelstoke.com/gravel-cycling-gear-blog"
+entrySelector = ".BlogList .BlogList-item"
+titleSelector = ".BlogList-item-title"
+linkSelector = ".BlogList-item-excerpt a.BlogList-item-readmore"
