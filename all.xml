@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-25T05:20:06.278Z</updated>
+    <updated>2021-11-25T06:26:10.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -26,7 +26,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2021-11-25T05:19:53.653Z</updated>
+        <updated>2021-11-25T06:25:56.020Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
