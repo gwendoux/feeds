@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-25T13:26:53.941Z</updated>
+    <updated>2021-11-25T14:20:09.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Data and code for the publication entitled: tree growth and mortality of 42 timber species in Central Africa (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/EBN15Y</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/EBN15Y"/>
+        <updated>2021-11-25T14:19:55.104Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/EBN15Y"><span style="padding:4px 0;">Data and code for the publication entitled: tree growth and mortality of 42 timber species in Central Africa</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/EBN15Y"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Nov 25, 2021</span><span class="text-muted"> - </span><a href="/dataverse/forets-societes">Forêts et Sociétés</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ligot, Gauthier; Gourlet-Fleury, Sylvie; Dainou, Kasso; Gillet, Jean-François; Forni, Eric; Rossi, Vivien; Doucet, Jean-Louis, 2021, "Data and code for the publication entitled: tree growth and mortality of 42 timber species in Central Africa", <a href="https://doi.org/10.18167/DVN1/EBN15Y" target="_blank">https://doi.org/10.18167/DVN1/EBN15Y</a>, CIRAD Dataverse, V1
+                        </div>Introduction This archive contains all the necessary data and R script to reproduce the results of the manuscript entitled "tree growth and mortality of 42 timber species in Central Africa" submitted to Forest Ecology and Management journal. It includes cleansed data (text files...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI</id>
@@ -26,7 +44,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2021-11-25T13:26:39.399Z</updated>
+        <updated>2021-11-25T14:19:55.056Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
@@ -161,24 +179,6 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Parrot, Laurent; Klaver, Dieuwke; Kabré, Edit; Vannière, Henri, 2021, "Food supply chains sustainability assessment of the mango sector in Burkina Faso", <a href="https://doi.org/10.18167/DVN1/NODG6E" target="_blank">https://doi.org/10.18167/DVN1/NODG6E</a>, CIRAD Dataverse, V2, UNF:6:XLBaBP4ODftZuP/8pl7J5g== [fileUNF]
                         </div>This dataset is joint with the scientific publication named "A Multiple food supply chains sustainability assessment of the mango sector in Burkina Faso" which details the challenges of the mango sub-sectors in Burkina Faso, the contribution of the Value Chain to economic growth...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019) (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8R3OT1</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8R3OT1"/>
-        <updated>2021-10-14T17:46:23.760Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/8R3OT1"><span style="padding:4px 0;">Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019)</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/8R3OT1"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAiCAAAAAA8dwXLAAAC7klEQVQ4y7WUa2+jRhSG9///hH7YqltVrbTpl+2qlapuYgMeLjMDBmxzGSBcYnMtYHCw08Rux2kNrJRKm0p9BCPQmYeBd4548+crefMfhKf7Mbumadpm2zTbbfNZYd8L2UzgKeAZnnn/zbvv3n717bu3X78H/ADQni7C5tcb5pqBCJ5BUJz99MP3Vx9+/Mjzn6aT31h+cjOdXM/gshfSCa8YXtv9vXLXs685UV8GMdI810q63bF/JajrfuBf0ESIVIFHGC5k2QoCsiBBQMt3vVBYnheEPY5pmLaxMi3T0m6DMDKmyD3X171Q+2HQHUec6HE+90bYHU+FvCB398fjw+kiVFnzIm3hnsdwCqKWXmz7FZruX/boITmPpWoVDU3o8fSFQm2tg+rxFUJluo7vdyOhXmePLwskPVBhQdxNeRoJ293T6WUhPhdqEkTb+vCKb1iSctf88UVC+iwsPP/WG39DGaRZmiZl9Q/1hXSVlVUdSipxSVJV/T6kUx6KABiOQ4hDBx0hhBUZawYjmIQseI42vUr8ofkkjDBCkghlOhVJ058//MICjoErHumWpUHTopje0HyYPl8EAiNJElKg6ITBXXFmzQK7KFxk52eKYQWGAwzDCQAsLduxbT+Koue+da8ZPYqWM9699cfdmnMYY1GWEIzyz1izMMxzTxL1hZNlwwrlktiWQWxS7A+HhxGt5u8OD78TM9rTStfHmokIYyQrSDZMA7IMxwrsJ4YB/PSKXRmGhmU6GoY7xDqhc+gkGsyNOoeiJGHIixLC4Op6RVMC3I1imeOUkAQhXspzjARd01YrL8urmm5gBpS4qkKsa0FVluUgzGVVm1u6oauyosiqbs7VdEd/IBXSi/suxrad0rt2iJUDEhTnUMESL9AfExYXhhnEmzhg4W0cW8wcu/FmkwyxzjiBF+YilgROlCG0nc0lVpHG6rJUyPNRrIc0juMkS2gDxkkaZ+2FbZzWbVsleVa1bXPfx/o6/n/hL8KY2jRb+Pg1AAAAAElFTkSuQmCC" alt="Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019)">
-                            </a>
-                        </div><span class="text-muted">Oct 14, 2021</span><span class="text-muted"> - </span><a href="/dataverse/green">UPR GREEN</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Nasuti, Stéphanie; Coudel, Emilie; Fechine, Valéria; Piva, Mariana; Abreu, Beatriz; Folhes, Ricardo, 2021, "Family farming in Santarém region, Brazilian Amazon: survey with rural community representatives (Odyssea project, 2019)", <a href="https://doi.org/10.18167/DVN1/8R3OT1" target="_blank">https://doi.org/10.18167/DVN1/8R3OT1</a>, CIRAD Dataverse, V1
-                        </div>This data was collected during the project Odyssea - Observatory of the Dinamics of Societies and Environments in the Amazon. Through a partnership with Family Farmer Unions (STTR), community researchers realized surveys with kobotoolbox application in 32 rural communities in the...</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Norway on Film AW21 (La Gazette de café du cycliste)]]></title>
