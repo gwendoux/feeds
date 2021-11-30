@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-11-30T13:18:09.007Z</updated>
+    <updated>2021-11-30T14:22:14.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Data and code for the publication entitled: tree growth and mortality of 42 timber species in Central Africa (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2021-11-30T13:17:54.037Z</updated>
+        <updated>2021-11-30T14:22:01.813Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
@@ -181,6 +181,13 @@
                         </div>This dataset is joint with the scientific publication named "A Multiple food supply chains sustainability assessment of the mango sector in Burkina Faso" which details the challenges of the mango sub-sectors in Burkina Faso, the contribution of the Value Chain to economic growth...</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ride of the Month: November. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/rotm-november/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-november/"/>
+        <updated>2021-11-30T14:22:08.666Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-november/" title="ROTM November"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/ROTM_Nov2021_FeatureImage1-26-11-21.jpg" alt="ROTM November"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-november/" title="ROTM November">LA MAISON</a></h2><p><strong>Ride of the Month: November.</strong> A ride that goes further than the normal nourishing experience, climbing the iconic Col d’Eze en route to Monaco in search of a model turned urban gardener. The principality isn’t classicly urban and certainly not suburban but it is on the rooftops of Monaco that Jessica grows her organic produce.</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Norway on Film AW21 (La Gazette de café du cycliste)]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/norway-film-lookbook/</id>
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/norway-film-lookbook/"/>
@@ -256,13 +263,6 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/"/>
         <updated>2021-11-29T10:24:00.509Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/IANAN_Alexia_FeatureImage4-18-10-2021.jpg" alt="I am not a number – #06"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-06/" title="I am not a number – #06">FILMS</a></h2><p><strong> I am not a number 06. </strong> Alexia is the 10th woman in the world among nearly 100 skippers to have finished the Vendée Globe race without stopping and without assistance. Cycling is her other passion.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Tortilla in the World (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/"/>
-        <updated>2021-11-29T10:24:00.510Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/09/Best_Tortilla-FeatureImage2-15-09-2021.jpg" alt="BEST TORTILLA IN THE WORLD"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/best-tortilla-in-the-world/" title="BEST TORTILLA IN THE WORLD">LA VIE</a></h2><p><strong>The Best Tortilla in the World</strong> is found at the end of a hard day spent riding with friends on ancient Galician roads.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Los Padres Traverse Route and Long Traverse Film (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
