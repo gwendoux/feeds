@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-08T19:20:06.442Z</updated>
+    <updated>2021-12-08T20:26:38.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Guyafor Data Dictionary (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA"/>
+        <updated>2021-10-29T22:20:37.772Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA"><span style="padding:4px 0;">Guyafor Data Dictionary</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA"><img src="data:image/png;base64,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" alt="Guyafor Data Dictionary">
+                            </a>
+                        </div><span class="text-muted">Dec 8, 2021</span><span class="text-muted"> - </span><a href="/dataverse/guyafor">Guyafor</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Jaouen, Gaëlle; Derroire, Géraldine; Dourdain, Aurélie, 2021, "Guyafor Data Dictionary", <a href="https://doi.org/10.18167/DVN1/B8FHHA" target="_blank">https://doi.org/10.18167/DVN1/B8FHHA</a>, CIRAD Dataverse, V3
+                        </div>This dictionary contains all the information needed to understand and use the forest censuses data from the Guyafor network.</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data and code for the publication entitled: tree growth and mortality of 42 timber species in Central Africa (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/EBN15Y</id>
@@ -44,7 +62,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2021-12-08T19:19:52.645Z</updated>
+        <updated>2021-12-08T20:26:25.160Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
@@ -125,24 +143,6 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ripoche Aude; Ranaivoson Lalaina; Autfray Patrice; Muller Bertrand; Randriamandimbisoa Christian; Auzoux Sandrine, 2021, "Dataset for modelling agronomic and environmental performances of rainfed rice based cropping systems with or without legume in Magadascar", <a href="https://doi.org/10.18167/DVN1/IVKCBS" target="_blank">https://doi.org/10.18167/DVN1/IVKCBS</a>, CIRAD Dataverse, V1, UNF:6:RDZm4yNOTo334TuxCYrgZA== [fileUNF]
                         </div>This dataset provide data for calibration and evaluation of the model Stics in the specific context of malagasy higlands with rice cultivar Nerica 4. Data include soil moisture and N initialization, fertilization applied (quality and quantity), cropping practices, data on rice bi...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guyafor Data Dictionary (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA"/>
-        <updated>2021-10-29T22:20:37.772Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA"><span style="padding:4px 0;">Guyafor Data Dictionary</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA"><img src="data:image/png;base64,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" alt="Guyafor Data Dictionary">
-                            </a>
-                        </div><span class="text-muted">Oct 29, 2021</span><span class="text-muted"> - </span><a href="/dataverse/guyafor">Guyafor</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Jaouen, Gaëlle; Derroire, Géraldine; Dourdain, Aurélie, 2021, "Guyafor Data Dictionary", <a href="https://doi.org/10.18167/DVN1/B8FHHA" target="_blank">https://doi.org/10.18167/DVN1/B8FHHA</a>, CIRAD Dataverse, V2
-                        </div>This dictionary contains all the information needed to understand and use the forest censuses data from the Guyafor network.</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -359,7 +359,7 @@
 
 
         --><span class="Blog-meta-item Blog-meta-item--comments">
-  <a href="https://www.gravelstoke.com/gravel-cycling-gear-blog/2021-dev-team-raffle-winners#disqus_thread" class="sqs-comment-link sqs-disqus-comment-link" data-id="61a84485303ae90453bb9c2e">0 Comments</a>
+  <a href="https://www.gravelstoke.com/gravel-cycling-gear-blog/2021-dev-team-raffle-winners#disqus_thread" class="sqs-comment-link sqs-disqus-comment-link" data-id="61a84485303ae90453bb9c2e">1 Comment</a>
 </span>
       </div>]]></content>
     </entry>
