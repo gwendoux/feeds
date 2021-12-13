@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-12-13T12:34:20.107Z</updated>
+    <updated>2021-12-13T13:27:40.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=3c92405236c1e6e4feb23f6070ca</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=3f9f4a6491fa5f0dbc6a61bf3cb9</icon>
+    <entry>
+        <title type="html"><![CDATA[Monitoring of vegetation after directed fires in the savannas of the leeward coast of la Réunion, Réunion island, 2018-2021]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/1LB8VY</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/1LB8VY"/>
+        <updated>2021-12-13T13:27:28.446Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/1LB8VY"><span style="padding:4px 0;">Monitoring of vegetation after directed fires in the savannas of the leeward coast of la Réunion, Réunion island, 2018-2021</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/1LB8VY"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Dec 13, 2021</span><span class="text-muted"> - </span><a href="/dataverse/pvbmt">UMR PVBMT</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ah-Peng, Claudine, 2021, "Monitoring of vegetation after directed fires in the savannas of the leeward coast of la Réunion, Réunion island, 2018-2021", <a href="https://doi.org/10.18167/DVN1/1LB8VY" target="_blank">https://doi.org/10.18167/DVN1/1LB8VY</a>, CIRAD Dataverse, V1, UNF:6:1p0ykECkn3WdnsPRYtMIrg== [fileUNF]
+                        </div>As part of the establishment of controlled fires in the savannas of Cap La Houssaye on Réunion Island, to fight against the shrub invasion of two exotic species Leucaena leucocaphala and Vachellia farnesiana, 40 permanent plots of 2 X 50 m have been installed, named SAV1 to SAV40...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guyafor Data Dictionary]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/B8FHHA</id>
@@ -60,10 +78,10 @@
                         </div>This data displays soil physical and chemical properties and microbial parameters including NGS data describing the diversity of bacterial communities. The study was conducted in 2013 in the private reserve of Retiro Branco and Córrego do Meio farm, in the municipality of Poços d...</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2021-12-13T12:34:08.158Z</updated>
+        <updated>2021-12-13T13:27:28.387Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
@@ -162,23 +180,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Moisan, Léa, 2021, "A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems", <a href="https://doi.org/10.18167/DVN1/IOELH1" target="_blank">https://doi.org/10.18167/DVN1/IOELH1</a>, CIRAD Dataverse, V1
                         </div>This dataset present the compilation of 72 scientific articles dealing with the use of covers in rubber tree plantations. These articles were selected following a review of litterature performed with the Web of Science, CAB abstract, Google Scholar, and some personnal communicati...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Food supply chains sustainability assessment of the mango sector in Burkina Faso]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NODG6E</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NODG6E"/>
-        <updated>2021-10-25T14:19:39.978Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/NODG6E"><span style="padding:4px 0;">Food supply chains sustainability assessment of the mango sector in Burkina Faso</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/NODG6E"><img src="data:image/png;base64,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" alt="Food supply chains sustainability assessment of the mango sector in Burkina Faso">
-                            </a>
-                        </div><span class="text-muted">Oct 25, 2021</span><span class="text-muted"> - </span><a href="/dataverse/hortsys">UPR HORTSYS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Parrot, Laurent; Klaver, Dieuwke; Kabré, Edit; Vannière, Henri, 2021, "Food supply chains sustainability assessment of the mango sector in Burkina Faso", <a href="https://doi.org/10.18167/DVN1/NODG6E" target="_blank">https://doi.org/10.18167/DVN1/NODG6E</a>, CIRAD Dataverse, V2, UNF:6:XLBaBP4ODftZuP/8pl7J5g== [fileUNF]
-                        </div>This dataset is joint with the scientific publication named "A Multiple food supply chains sustainability assessment of the mango sector in Burkina Faso" which details the challenges of the mango sub-sectors in Burkina Faso, the contribution of the Value Chain to economic growth...</div>]]></content>
     </entry>
 </feed>
