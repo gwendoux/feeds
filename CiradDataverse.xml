@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-12-15T13:27:10.228Z</updated>
+    <updated>2021-12-15T14:20:11.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=e46323603f55b9f73b86a6db566e</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=e76bb6d0770df2cda5920c912961</icon>
+    <entry>
+        <title type="html"><![CDATA[OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA"/>
+        <updated>2021-12-15T14:19:55.431Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA"><span style="padding:4px 0;">OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Dec 15, 2021</span><span class="text-muted"> - </span><a href="/dataverse/hortsys">UPR HORTSYS</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Kalboussi, Nesrine, 2021, "OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results", <a href="https://doi.org/10.18167/DVN1/YLP1BA" target="_blank">https://doi.org/10.18167/DVN1/YLP1BA</a>, CIRAD Dataverse, V1
+                        </div>This decision support tool was designed to evaluate the environment efficiency of wastewater reuse for agriculture irrigation among other options. The aim of this decision support tool is to guide the interpretation of LCA results by reducing, gradually, the non-discriminant impa...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monitoring of vegetation after directed fires in the savannas of the leeward coast of la Réunion, Réunion island, 2018-2021]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/1LB8VY</id>
@@ -78,10 +96,10 @@
                         </div>This data displays soil physical and chemical properties and microbial parameters including NGS data describing the diversity of bacterial communities. The study was conducted in 2013 in the private reserve of Retiro Branco and Córrego do Meio farm, in the municipality of Poços d...</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[5]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2021-12-15T13:26:54.448Z</updated>
+        <updated>2021-12-15T14:19:55.375Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
@@ -162,23 +180,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ripoche Aude; Ranaivoson Lalaina; Autfray Patrice; Muller Bertrand; Randriamandimbisoa Christian; Auzoux Sandrine, 2021, "Dataset for modelling agronomic and environmental performances of rainfed rice based cropping systems with or without legume in Magadascar", <a href="https://doi.org/10.18167/DVN1/IVKCBS" target="_blank">https://doi.org/10.18167/DVN1/IVKCBS</a>, CIRAD Dataverse, V1, UNF:6:RDZm4yNOTo334TuxCYrgZA== [fileUNF]
                         </div>This dataset provide data for calibration and evaluation of the model Stics in the specific context of malagasy higlands with rice cultivar Nerica 4. Data include soil moisture and N initialization, fertilization applied (quality and quantity), cropping practices, data on rice bi...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1"/>
-        <updated>2021-10-25T15:18:51.207Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1"><span style="padding:4px 0;">A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/IOELH1"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Oct 25, 2021</span><span class="text-muted"> - </span><a href="/dataverse/geco">UPR GECO</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Moisan, Léa, 2021, "A dataset on scientific articles dealing with plant cover in rubber (Hevea Brasiliensis) cropping systems", <a href="https://doi.org/10.18167/DVN1/IOELH1" target="_blank">https://doi.org/10.18167/DVN1/IOELH1</a>, CIRAD Dataverse, V1
-                        </div>This dataset present the compilation of 72 scientific articles dealing with the use of covers in rubber tree plantations. These articles were selected following a review of litterature performed with the Web of Science, CAB abstract, Google Scholar, and some personnal communicati...</div>]]></content>
     </entry>
 </feed>
