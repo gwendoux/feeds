@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-12-15T12:34:18.657Z</updated>
+    <updated>2021-12-15T13:27:10.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=e15ccbbb11730685c5e8e847a547</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=e46323603f55b9f73b86a6db566e</icon>
     <entry>
         <title type="html"><![CDATA[Monitoring of vegetation after directed fires in the savannas of the leeward coast of la Réunion, Réunion island, 2018-2021]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/1LB8VY</id>
@@ -81,7 +81,7 @@
         <title type="html"><![CDATA[4]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2021-12-15T12:34:02.664Z</updated>
+        <updated>2021-12-15T13:26:54.448Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
