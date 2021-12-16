@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-16T15:22:46.372Z</updated>
+    <updated>2021-12-16T16:34:47.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Raw data for Andriamihaja et al (in review). Integrative taxonomy and phylogeny of leafless Vanilla orchids from the South West Indian ocean region reveal two new Malagasy species (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/3OFMLH</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/3OFMLH"/>
+        <updated>2021-12-16T16:34:33.764Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/3OFMLH"><span style="padding:4px 0;">Raw data for Andriamihaja et al (in review). Integrative taxonomy and phylogeny of leafless Vanilla orchids from the South West Indian ocean region reveal two new Malagasy species</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/3OFMLH"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Dec 16, 2021</span><span class="text-muted"> - </span><a href="/dataverse/pvbmt">UMR PVBMT</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Andriamihaja, F. Cathucia; Botomanga, Alemao; Misandeau, Chantal; Ramarosandratana, Aro V.; Grisoni, Michel; Da Silva, Denis; Pailler, Thierry; Jeannoda, Vololoniaina H.; Besse, Pascale, 2021, "Raw data for Andriamihaja et al (in review). Integrative taxonomy and phylogeny of leafless Vanilla orchids from the South West Indian ocean region reveal two new Malagasy species", <a href="https://doi.org/10.18167/DVN1/3OFMLH" target="_blank">https://doi.org/10.18167/DVN1/3OFMLH</a>, CIRAD Dataverse, V1, UNF:6:RbhkaYeCRisqJ5oOXysPxg== [fileUNF]
+                        </div>Genotyping data from 7 microsatellite loci of 49 samples of leafless Vanilla species used in the paper "Integrative taxonomy and phylogeny of leafless Vanilla orchids from the South West Indian ocean region reveal two new Malagasy species" (in review).</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data for: "The Dark side of shade: How microclimates drive the epidemiological mechanisms of coffee berry disease" (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KP76RE</id>
@@ -152,7 +170,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2021-12-16T15:22:29.520Z</updated>
+        <updated>2021-12-16T16:34:33.702Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
@@ -161,24 +179,6 @@
                         </div><span class="text-muted" style="margin-right:.5em;">Nov 12, 2021</span>
 
                         <hr style="margin:.5em;border:0;">Eco&amp;Sols est une unité mixte de recherche de 70 permanents associant l’INRA, l’IRD, Montpellier SupAgro et le Cirad. Les travaux conduits à Eco&amp;Sols ont pour objectif d’améliorer la compréhension du rôle des organismes du sol et des plantes, ainsi que des interactions entre eux e...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRANSMAT tables data (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9"/>
-        <updated>2021-11-10T13:26:08.608Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9"><span style="padding:4px 0;">TRANSMAT tables data</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/GCZBC9"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAwCAAAAABRMveOAAAAfklEQVQ4y+3RQQuDMAyGYf//TxOEOoZ4EpGdNlbHZmPml9YhiDtU7WnMQ99b4DkkJBmDJZFE4hF6dfx8EJjJmB5s4JH7KaszlTdlUeRn1VbpxSMOsJApQOAE9qcXSc/MboXYpbfWrR6+80Jks/88IJJI9shwu0qAWCJ3lHXnPh6lVT+DQxHBAAAAAElFTkSuQmCC" alt="TRANSMAT tables data">
-                            </a>
-                        </div><span class="text-muted">Nov 10, 2021</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Lentschat, Martin; Buche, Patrice; Menut, Luc; Guari, Romane, 2021, "TRANSMAT tables data", <a href="https://doi.org/10.18167/DVN1/GCZBC9" target="_blank">https://doi.org/10.18167/DVN1/GCZBC9</a>, CIRAD Dataverse, V2
-                        </div>This dataset presents data obtained from manual and automatic extraction of partial n-Ary relations encountered in table forms. The tables were obtained from on documents available on the Science Direct website. The data are related to permeability n-Ary relations, as defined in...</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sarah Bacher: Tackling Kühtai, a Tyrolian wonder. (La Gazette de café du cycliste)]]></title>
