@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2021-12-20T08:27:27.156Z</updated>
+    <updated>2021-12-20T09:22:39.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=6f393a7b84480cc2b2235bbce43f</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=72624774de4c5d154e2ed14284c3</icon>
     <entry>
         <title type="html"><![CDATA[Raw data for Andriamihaja et al (in review). Integrative taxonomy and phylogeny of leafless Vanilla orchids from the South West Indian ocean region reveal two new Malagasy species]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/3OFMLH</id>
@@ -171,7 +171,7 @@
         <title type="html"><![CDATA[9]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2021-12-20T08:27:11.382Z</updated>
+        <updated>2021-12-20T09:22:24.261Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
