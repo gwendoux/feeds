@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2021-12-21T16:34:39.008Z</updated>
+    <updated>2021-12-21T17:29:14.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Morvan with Sophie Gateau.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/"/>
+        <updated>2021-12-21T17:29:07.494Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/" title="Sophie Gateau: Exploring the Morvan"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2020/12/CDC_MORVAN_GATEAU_slider4-21-12-21.jpg" alt="Sophie Gateau: Exploring the Morvan"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/" title="Sophie Gateau: Exploring the Morvan">ROULER</a></h2><p><strong>Exploring the Morvan with Sophie Gateau.</strong> The Morvan isn’t easily explained. A mountainous massif lying in the centre of the undulating Burgandy region. Travelling here is like taking a step back in time, and for those who love cycling, it’s a rich treasure trove waiting to be discovered. </p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sarah Bacher: Tackling Kühtai, a Tyrolian wonder.]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/</id>
@@ -81,12 +88,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/"/>
         <updated>2021-12-16T05:19:48.407Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/" title="Tracks and Trails"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/Track-and-trails-bottom-slider-image.jpg" alt="Tracks and Trails"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/tracks-and-trails/" title="Tracks and Trails">ROULER</a></h2><p><strong> Tracks and Trails in the Ariège.</strong> Five friends explore routes shared with the incredibly diverse range of four legged and airborne residents of the Ariège by bike.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guillaume Néry: A Traverse Across the Pyrenees]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/"/>
-        <updated>2021-12-16T05:19:48.407Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/" title="Guillaume Néry – The Pyrenees"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/NeryPyrenees_FeatureImage3.jpg" alt="Guillaume Néry – The Pyrenees"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-the-pyrenees/" title="Guillaume Néry – The Pyrenees">LA MAISON</a></h2><p><strong> Guillaume Néry: A Traverse Across the Pyrenees </strong> Each summer, I set off on an adventurous trip with good friends who are up for a challenge. Last year, we bikepacked through the Alps and this year we tackled the Pyrenees.</p>]]></content>
     </entry>
 </feed>
