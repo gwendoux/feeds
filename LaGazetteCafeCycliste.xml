@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2021-12-23T10:24:03.478Z</updated>
+    <updated>2021-12-23T11:18:15.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
     <entry>
@@ -10,7 +10,14 @@
         <id>https://www.cafeducycliste.com/en_us/la-gazette/rotm-december/</id>
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-december/"/>
         <updated>2021-12-22T17:29:07.552Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-december/" title="ROTM December"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/ROTM_Luceram_FeatureImage3-22-12-21.jpg" alt="ROTM December"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-december/" title="ROTM December">COLLECTIONS</a></h2><p><strong>Ride of the Month: December. </strong> In Provence, Christmas lasts 40 days. Starting on the day of Sainte-Barbe, on the 4th of December, and lasting until Candlemas day on February the 3rd. In the small village of Luceram, nativity scenes have become a sacred tradition for its inhabitants. </p>]]></content>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-december/" title="ROTM December"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/ROTM_Luceram_FeatureImage3-22-12-21.jpg" alt="ROTM December"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-december/" title="ROTM December">LA MAISON</a></h2><p><strong>Ride of the Month: December. </strong> In Provence, Christmas lasts 40 days. Starting on the day of Sainte-Barbe, on the 4th of December, and lasting until Candlemas day on February the 3rd. In the small village of Luceram, nativity scenes have become a sacred tradition for its inhabitants. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caravan: Alba de Silvestro]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/caravan-alba-de-silvestro/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-alba-de-silvestro/"/>
+        <updated>2021-12-23T11:18:09.089Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-alba-de-silvestro/" title="Caravan Alba de Silvestro"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/alba-de-silvestro-athlete-page-22-12-21.jpg" alt="Caravan Alba de Silvestro"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-alba-de-silvestro/" title="Caravan Alba de Silvestro">LA MAISON</a></h2><p><strong> Caravan: Alba de Silvestro</strong> For me there’s only one difference between cycling and skimo, it’s just the season. One is for winter and the other is for summer. </p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Exploring the Morvan with Sophie Gateau.]]></title>
@@ -81,12 +88,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/badlands-the-ultra-distance-gravel-race/"/>
         <updated>2021-12-16T05:19:48.402Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/badlands-the-ultra-distance-gravel-race/" title="Badlands: The Ultra Distance Gravel Race"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/10/BADLANDS_GATEAU_slider4-B-01-11-21.jpg" alt="Badlands: The Ultra Distance Gravel Race"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/badlands-the-ultra-distance-gravel-race/" title="Badlands: The Ultra Distance Gravel Race">ROULER</a></h2><p><strong> Badlands: The Ultra Distance Gravel Race.</strong> Sophie Gateau tackles Badlands, an unsupported off-road race through Andalusia, made up of around 725km and 15,000m of altitude gain. </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ride of the Month: October.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-october-2021/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-october-2021/"/>
-        <updated>2021-12-16T05:19:48.403Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-october-2021/" title="Ride of the Month October 2021"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/ROTM_Roya_FeatureImage2-01-11-21.jpg" alt="Ride of the Month October 2021"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-october-2021/" title="Ride of the Month October 2021">LA MAISON</a></h2><p><strong> Ride of the Month: October.</strong> In October 2020, Storm Alex hit the valleys in the hinterland around Nice and the whole landscape was permanently altered. Chris returns one year later.</p>]]></content>
     </entry>
 </feed>
