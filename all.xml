@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-03T10:25:32.032Z</updated>
+    <updated>2022-01-03T11:18:32.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[TRANSMAT n-Ary relations (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/1BBJBQ</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/1BBJBQ"/>
+        <updated>2022-01-03T11:18:15.888Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/1BBJBQ"><span style="padding:4px 0;">TRANSMAT n-Ary relations</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/1BBJBQ"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Jan 3, 2022</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">LENTSCHAT, Martin, 2022, "TRANSMAT n-Ary relations", <a href="https://doi.org/10.18167/DVN1/1BBJBQ" target="_blank">https://doi.org/10.18167/DVN1/1BBJBQ</a>, CIRAD Dataverse, V1, UNF:6:xTM1cMCmnS2wfmB5Fr5slg== [fileUNF]
+                        </div>This dataset presents a Gold Standard of data annotated on documents from the Science Direct website. The relations are related to permeability n-Ary relations, as defined in the TRANSMAT Ontology (https://ico.iate.inra.fr/atWeb/, https://doi.org/10.15454/NK24ID, http://agroporta...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raw data for Andriamihaja et al (in review). Integrative taxonomy and phylogeny of leafless Vanilla orchids from the South West Indian ocean region reveal two new Malagasy species (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/3OFMLH</id>
@@ -165,20 +183,6 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Robin, Agnès; Brancalion, Pedro, 2021, "Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining", <a href="https://doi.org/10.18167/DVN1/KLZJPI" target="_blank">https://doi.org/10.18167/DVN1/KLZJPI</a>, CIRAD Dataverse, V1, UNF:6:0U4y2n9ETtBHstPh1d6rVA== [fileUNF]
                         </div>This data displays soil physical and chemical properties and microbial parameters including NGS data describing the diversity of bacterial communities. The study was conducted in 2013 in the private reserve of Retiro Branco and Córrego do Meio farm, in the municipality of Poços d...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://gwendoux.github.io/feeds/all.xml</id>
-        <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-01-03T10:25:15.470Z</updated>
-        <content type="html"><![CDATA[<div class="dataverseResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/eco-sols"><span style="padding:4px 0;">UMR Eco&amp;Sols</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD-Centre de coopération internationale en recherche agronomique pour le développement)</span>
-                        </div>
-                        <div class="card-preview-icon-block text-center"><a href="/dataverse/eco-sols"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAXCAYAAABNq8wJAAADG0lEQVR42u1Wz2sTQRTO31C6u02yqR7aaMGLHjwIooInmzYbqKAXBU+CeKgX8diDgkaxt1LwZBOM8eCPgwiKB3G3RvFgWtSrRfxxqNRiQenujvve7OzO7M5uoqaHgAPD7sy+efN93/tmkgzp85b5T6Bnzen/CriuSxasQXz2tYXqltI7At82lrfELskqO6Rmab0h0GwVifuX3kxr91/tSbURtPbK5X8jcOflSKpKfPu5uU6WPlzpSnn0uLCeVuPt5zlhTmajX/b3bghAQiBQTDhQm4JSlOyOrg7f3de7/bVMbRuftUUlJgqd4yrTbQUgKYCB9nXdJO8/zXNKr5HVH0tCuWvWUDDuVPZ6xNtAhAHFJ4eSCmL7xLxzYQ50ayEnIADtJqfEgjUgqPzs3QmslMttmtRumZpcZZdV3SaPl6fCbxzZZms0+QxMKnnCd0jWqF7H9wlVxw0m1Sw+69WrYqw3N6HmSVnd5q/1YhWdGJGcLC8/D+scyM3GyjCKw8bAC2IYhtKQHssJ32MEYGFF9YO1AoKCQJcQCShGgMYDgJK3pqwW4rGAlges5gXAoQBibkaUSPaHnpGBCje1yYP5GwgQGgMakJUAaFSvhXFe5eg3HTvm1vSAYJQQP+YJsLUgTkcCQJaWephsrK3iHADCkg7m4hby5hhgPKiczWYOjJGZ/TuFeLASEtJ0ATCMXUkFeFyyKmTktqCAxrUwOfO3zEKMGLQLxpSvaJbcO70X3ysKVc5gFfbyoeJEJEBSCBiRiqUSaD18JNgl8GukhMxWfAUYmPbFQ2iVippD4kCopOQC28UIJJyBpO+JBGBTCqwgqDN7dtovv5hw+uDhgAS/wdHCdgR9ft9ocEtRlR0KDN6d8AwZnjhpFopZLokA2IZej1lS1uKeN7iqHB/ZhSDGtSzGJ90ULB5yL5nPhXzHimP4funkKTJ75pzgeeHS8PI/adzuTMAIyuvgfxbZIWdKQRwAgB8hsMYRNZdIgII3g3Vs/svKR9K2XpA35qIwD/vbnCBPG83YLSglsFUdNo96+k/Xd/U70G+97wn8Bp/0Tav8Lq7RAAAAAElFTkSuQmCC" alt="UMR Eco&amp;Sols logo"></a>
-                        </div><span class="text-muted" style="margin-right:.5em;">Nov 12, 2021</span>
-
-                        <hr style="margin:.5em;border:0;">Eco&amp;Sols est une unité mixte de recherche de 70 permanents associant l’INRA, l’IRD, Montpellier SupAgro et le Cirad. Les travaux conduits à Eco&amp;Sols ont pour objectif d’améliorer la compréhension du rôle des organismes du sol et des plantes, ainsi que des interactions entre eux e...</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ride of the Month: December. (La Gazette de café du cycliste)]]></title>
