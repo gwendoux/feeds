@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-01-06T22:22:07.638Z</updated>
+    <updated>2022-01-06T23:22:43.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=17bd9a27e833c65266e52de9bb96</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=1b3580560b4ed7f1ea4d9dabf6b8</icon>
     <entry>
         <title type="html"><![CDATA[Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/HLBVJG</id>
