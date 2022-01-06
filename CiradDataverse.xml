@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-01-06T16:35:46.401Z</updated>
+    <updated>2022-01-06T17:30:37.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=03ebcbf56d5ba163adbddb83c165</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=070f3a1b58a97e31363cb9f7a724</icon>
+    <entry>
+        <title type="html"><![CDATA[Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/HLBVJG</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/HLBVJG"/>
+        <updated>2022-01-06T17:30:19.204Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/HLBVJG"><span style="padding:4px 0;">Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/HLBVJG"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Jan 6, 2022</span><span class="text-muted"> - </span><a href="/dataverse/eco-sols">UMR Eco&amp;Sols</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Joannès Guillemot, 2022, "Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology", <a href="https://doi.org/10.18167/DVN1/HLBVJG" target="_blank">https://doi.org/10.18167/DVN1/HLBVJG</a>, CIRAD Dataverse, V1
+                        </div>This dataset contains measurements of ten functional traits describing drought resistance, the fast-slow and stature-recruitment trade-off axes in 601 tropical woody species. Data were obtained from a screening of the literature, conducted in March 2021. The functional traits des...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRANSMAT n-Ary relations]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/1BBJBQ</id>
@@ -166,23 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Ligot, Gauthier; Gourlet-Fleury, Sylvie; Dainou, Kasso; Gillet, Jean-François; Forni, Eric; Rossi, Vivien; Doucet, Jean-Louis, 2021, "Data and code for the publication entitled: tree growth and mortality of 42 timber species in Central Africa", <a href="https://doi.org/10.18167/DVN1/EBN15Y" target="_blank">https://doi.org/10.18167/DVN1/EBN15Y</a>, CIRAD Dataverse, V1
                         </div>Introduction This archive contains all the necessary data and R script to reproduce the results of the manuscript entitled "tree growth and mortality of 42 timber species in Central Africa" submitted to Forest Ecology and Management journal. It includes cleansed data (text files...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI"/>
-        <updated>2021-11-12T09:21:03.160Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI"><span style="padding:4px 0;">Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KLZJPI"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Nov 12, 2021</span><span class="text-muted"> - </span><a href="/dataverse/eco-sols">UMR Eco&amp;Sols</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Robin, Agnès; Brancalion, Pedro, 2021, "Data from: Multifunctional soil recovery in the restoration of Brazil’s Atlantic Forest after bauxite mining", <a href="https://doi.org/10.18167/DVN1/KLZJPI" target="_blank">https://doi.org/10.18167/DVN1/KLZJPI</a>, CIRAD Dataverse, V1, UNF:6:0U4y2n9ETtBHstPh1d6rVA== [fileUNF]
-                        </div>This data displays soil physical and chemical properties and microbial parameters including NGS data describing the diversity of bacterial communities. The study was conducted in 2013 in the private reserve of Retiro Branco and Córrego do Meio farm, in the municipality of Poços d...</div>]]></content>
     </entry>
 </feed>
