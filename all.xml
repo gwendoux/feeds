@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T19:15:40.535Z</updated>
+    <updated>2022-01-07T20:23:46.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -267,6 +267,52 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-aw21-arriere-pays/"/>
         <updated>2022-01-06T04:31:37.780Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-aw21-arriere-pays/" title="Lookbook AW21 Arrière-Pays"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/feature-image-01-30-09-2021.jpg" alt="Lookbook AW21 Arrière-Pays"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-aw21-arriere-pays/" title="Lookbook AW21 Arrière-Pays">COLLECTIONS</a></h2><p><strong> AW21: Serre Chevalier Lookbook</strong> Outdoors is out there. Before and after the bike, between and among the hills.  New Arrière-Pays pieces for AW21 inspired by the back country around Nice.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ENVE Grodeo Ride Photo Gallery and Recap (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
+        <id>https://www.gravelstoke.com/gravel-cycling-gear-blog/2021-enve-grodeo-gravel-ride-recap-photo-gallery</id>
+        <link href="https://www.gravelstoke.com/gravel-cycling-gear-blog/2021-enve-grodeo-gravel-ride-recap-photo-gallery"/>
+        <updated>2022-01-07T20:23:46.078Z</updated>
+        <content type="html"><![CDATA[<div class="BlogList-item-image">
+          <a href="/gravel-cycling-gear-blog/2021-enve-grodeo-gravel-ride-recap-photo-gallery" class="BlogList-item-image-link" style="overflow: hidden;">
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1641585334139-NUXNFFX871XNVWTE6XZ9/dmalwitz_gravelstoke_2021-enve-grodeo_92.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1641585334139-NUXNFFX871XNVWTE6XZ9/dmalwitz_gravelstoke_2021-enve-grodeo_92.jpg" data-image-dimensions="2000x1125" data-image-focal-point="0.5,0.5" data-load="false" data-parent-ratio="1.5" style="font-size: 0px; left: -22.5px; top: 0px; width: 288px; height: 162px; position: relative;" alt="ENVE Grodeo Ride Photo Gallery and Recap" class="" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1641585334139-NUXNFFX871XNVWTE6XZ9/dmalwitz_gravelstoke_2021-enve-grodeo_92.jpg?format=300w">
+          </a>
+        </div>
+      
+
+
+      <a href="/gravel-cycling-gear-blog/2021-enve-grodeo-gravel-ride-recap-photo-gallery" class="BlogList-item-title" data-content-field="title">ENVE Grodeo Ride Photo Gallery and Recap</a>
+
+      
+        
+          <div class="BlogList-item-excerpt">
+            <p class="">A collection of photos never-before-seen from the 100-mile 2021 ENVE Grodeo gravel ride in the Wasatch Mountain Range of Utah and details on how to register for the 2022 Grodeo and ENVE Builder Round-Up.</p>
+            <a href="/gravel-cycling-gear-blog/2021-enve-grodeo-gravel-ride-recap-photo-gallery" class="BlogList-item-readmore">
+              <span>Read More</span>
+            </a>
+          </div>
+        
+      
+
+      <div class="Blog-meta BlogList-item-meta">
+        <!--
+
+        Categories
+
+        --><span class="Blog-meta-item Blog-meta-item--categories"><a href="/gravel-cycling-gear-blog/category/Reports" class="Blog-meta-item-category">Reports</a></span><!--
+
+        Author
+
+        --><a href="/gravel-cycling-gear-blog?author=52bef4e3e4b052e013556378" class="Blog-meta-item Blog-meta-item--author">Dave Malwitz</a><!--
+
+        Date
+
+        --><time class="Blog-meta-item Blog-meta-item--date" datetime="2022-01-07">January 7, 2022</time><!--
+
+        Tags
+
+        --><span class="Blog-meta-item Blog-meta-item--tags"><a href="/gravel-cycling-gear-blog/tag/grodeo" class="Blog-meta-item-tag">grodeo</a>, <a href="/gravel-cycling-gear-blog/tag/enve+composites" class="Blog-meta-item-tag">enve composites</a>, <a href="/gravel-cycling-gear-blog/tag/grodeo+gravel+ride" class="Blog-meta-item-tag">grodeo gravel ride</a>, <a href="/gravel-cycling-gear-blog/tag/ogden+utah" class="Blog-meta-item-tag">ogden utah</a>, <a href="/gravel-cycling-gear-blog/tag/ogden" class="Blog-meta-item-tag">ogden</a>, <a href="/gravel-cycling-gear-blog/tag/enve" class="Blog-meta-item-tag">enve</a></span>
+      </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mt Laguna Gravel with Safa Brian (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
@@ -1258,59 +1304,6 @@
 
         --><span class="Blog-meta-item Blog-meta-item--comments">
   <a href="https://www.gravelstoke.com/gravel-cycling-gear-blog/the-great-escape-film-bikepacking-uk#disqus_thread" class="sqs-comment-link sqs-disqus-comment-link" data-id="6165f79294cf8c6f58e2b126">1 Comment</a>
-</span>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DirtChurch Season 3 - Episode 4 Photo Gallery (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
-        <id>https://www.gravelstoke.com/gravel-cycling-gear-blog/dirtchurch-season-3-episode-4-photo-gallery</id>
-        <link href="https://www.gravelstoke.com/gravel-cycling-gear-blog/dirtchurch-season-3-episode-4-photo-gallery"/>
-        <updated>2021-11-16T11:56:29.638Z</updated>
-        <content type="html"><![CDATA[<div class="BlogList-item-image">
-          <a href="/gravel-cycling-gear-blog/dirtchurch-season-3-episode-4-photo-gallery" class="BlogList-item-image-link" style="overflow: hidden;">
-            <img data-src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1633994771307-7ZQIAMSR8MGPFIP5ECDH/davemalwitz_03oct21_gravelstoke_dirtchurch_795.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1633994771307-7ZQIAMSR8MGPFIP5ECDH/davemalwitz_03oct21_gravelstoke_dirtchurch_795.jpg" data-image-dimensions="1800x1200" data-image-focal-point="0.5,0.5" data-load="false" data-parent-ratio="1.5" style="font-size: 0px; left: -1.42109e-14px; top: 0px; width: 243px; height: 162px; position: relative;" alt="DirtChurch Season 3 - Episode 4 Photo Gallery" class="" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1633994771307-7ZQIAMSR8MGPFIP5ECDH/davemalwitz_03oct21_gravelstoke_dirtchurch_795.jpg?format=300w">
-          </a>
-        </div>
-      
-
-
-      <a href="/gravel-cycling-gear-blog/dirtchurch-season-3-episode-4-photo-gallery" class="BlogList-item-title" data-content-field="title">DirtChurch Season 3 - Episode 4 Photo Gallery</a>
-
-      
-        
-          <div class="BlogList-item-excerpt">
-            <p class="">Photo Gallery from the Gravelstoke DirtChurch ride on Sunday, October 3, 2021.</p>
-            <a href="/gravel-cycling-gear-blog/dirtchurch-season-3-episode-4-photo-gallery" class="BlogList-item-readmore">
-              <span>Read More</span>
-            </a>
-          </div>
-        
-      
-
-      <div class="Blog-meta BlogList-item-meta">
-        <!--
-
-        Categories
-
-        --><span class="Blog-meta-item Blog-meta-item--categories"><a href="/gravel-cycling-gear-blog/category/Reports" class="Blog-meta-item-category">Reports</a></span><!--
-
-        Author
-
-        --><a href="/gravel-cycling-gear-blog?author=52bef4e3e4b052e013556378" class="Blog-meta-item Blog-meta-item--author">Dave Malwitz</a><!--
-
-        Date
-
-        --><time class="Blog-meta-item Blog-meta-item--date" datetime="2021-10-11">October 11, 2021</time><!--
-
-        Tags
-
-        --><span class="Blog-meta-item Blog-meta-item--tags"><a href="/gravel-cycling-gear-blog/tag/gravel+ride" class="Blog-meta-item-tag">gravel ride</a>, <a href="/gravel-cycling-gear-blog/tag/photo+gallery" class="Blog-meta-item-tag">photo gallery</a>, <a href="/gravel-cycling-gear-blog/tag/dirt+church" class="Blog-meta-item-tag">dirt church</a>, <a href="/gravel-cycling-gear-blog/tag/dirtchurch" class="Blog-meta-item-tag">dirtchurch</a>, <a href="/gravel-cycling-gear-blog/tag/velotown" class="Blog-meta-item-tag">velotown</a></span><!--
-
-        Comments
-
-
-        --><span class="Blog-meta-item Blog-meta-item--comments">
-  <a href="https://www.gravelstoke.com/gravel-cycling-gear-blog/dirtchurch-season-3-episode-4-photo-gallery#disqus_thread" class="sqs-comment-link sqs-disqus-comment-link" data-id="6164c5da27d3a0332c6a0c82">0 Comments</a>
 </span>
       </div>]]></content>
     </entry>
