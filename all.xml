@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-10T15:25:32.225Z</updated>
+    <updated>2022-01-10T16:35:51.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -185,6 +185,13 @@
                         </div>Introduction This archive contains all the necessary data and R script to reproduce the results of the manuscript entitled "tree growth and mortality of 42 timber species in Central Africa" submitted to Forest Ecology and Management journal. It includes cleansed data (text files...</div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Audax Lookbook: Light and Long. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/audax-lookbook-light-long/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/audax-lookbook-light-long/"/>
+        <updated>2022-01-10T16:35:45.421Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/audax-lookbook-light-long/" title="Audax-Lookbook AW"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/Lookbook-Audax-2022-feature-image-08-01-2022.jpg" alt="Audax-Lookbook AW"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/audax-lookbook-light-long/" title="Audax-Lookbook AW">COLLECTIONS</a></h2><p><strong>Audax Lookbook: Light and Long.</strong> The devil is always in the detail, especially when the ride is long.There are no half measures on full days, no short cuts to big distances.</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Autumn Colours of Seoul. (La Gazette de café du cycliste)]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/autumn-colours-of-seoul/</id>
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/autumn-colours-of-seoul/"/>
@@ -260,13 +267,6 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/"/>
         <updated>2022-01-06T04:31:37.724Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/" title="Atelier Collection Lookbook"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/Lookbook-Atelier-Caussol-feature-image.jpg" alt="Atelier Collection Lookbook"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/" title="Atelier Collection Lookbook">COLLECTIONS</a></h2><p><strong>Atelier Lookbook AW21. </strong> Uniquely styled, the collection mirrors the freedom of the road within the design and development process itself. Fewer rules, less restriction, more freedom. </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I am not a number 38. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/"/>
-        <updated>2022-01-06T04:31:37.775Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/" title="I Am Not A Number – #38"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/IANAN_Haffi_FeatureImage3-08-11-21.jpg" alt="I Am Not A Number – #38"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/" title="I Am Not A Number – #38">FILMS</a></h2><p><strong> I am not a number 38.</strong> As an Olympic sailor, Haffi understands the pressure that comes with competing at the highest level but for him, nothing compares to the intensity of racing on two wheels.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ENVE Grodeo Ride Photo Gallery and Recap (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
