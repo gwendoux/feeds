@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2022-01-10T09:23:21.391Z</updated>
+    <updated>2022-01-10T10:25:03.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Autumn Colours of Seoul.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/autumn-colours-of-seoul/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/autumn-colours-of-seoul/"/>
+        <updated>2022-01-10T10:24:57.810Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/autumn-colours-of-seoul/" title="Autumn colours of Seoul"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/Seoul_ImageFeature1-08-01-22.jpg" alt="Autumn colours of Seoul"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/autumn-colours-of-seoul/" title="Autumn colours of Seoul">COLLECTIONS</a></h2><p><strong>Autumn Colours of Seoul. </strong>Seoul is quite a unique city. It also contains no less than five UNESCO World Heritage sites and, with the popularity of road cycling in Asia on the rise, numerous pro-cycling events take place here. But on the menu today is a scenic ride that takes us along the city’s beautiful Han River.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winter on the slopes of Mont-Ventoux]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/winter-on-the-slopes-of-mont-ventoux/</id>
@@ -81,12 +88,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/"/>
         <updated>2022-01-06T04:31:37.775Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/" title="I Am Not A Number – #38"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/IANAN_Haffi_FeatureImage3-08-11-21.jpg" alt="I Am Not A Number – #38"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/i-am-not-a-number-38/" title="I Am Not A Number – #38">FILMS</a></h2><p><strong> I am not a number 38.</strong> As an Olympic sailor, Haffi understands the pressure that comes with competing at the highest level but for him, nothing compares to the intensity of racing on two wheels.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AW21: Serre Chevalier Lookbook]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/lookbook-aw21-arriere-pays/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-aw21-arriere-pays/"/>
-        <updated>2022-01-06T04:31:37.780Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-aw21-arriere-pays/" title="Lookbook AW21 Arrière-Pays"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/10/feature-image-01-30-09-2021.jpg" alt="Lookbook AW21 Arrière-Pays"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-aw21-arriere-pays/" title="Lookbook AW21 Arrière-Pays">COLLECTIONS</a></h2><p><strong> AW21: Serre Chevalier Lookbook</strong> Outdoors is out there. Before and after the bike, between and among the hills.  New Arrière-Pays pieces for AW21 inspired by the back country around Nice.</p>]]></content>
     </entry>
 </feed>
