@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-01-14T04:29:19.209Z</updated>
+    <updated>2022-01-14T05:22:04.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=6d88f333b8f7b7b0f4a561790423</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=708d4e0ecb378c2710fa545a8b74</icon>
     <entry>
         <title type="html"><![CDATA[OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA</id>
