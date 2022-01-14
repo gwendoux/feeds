@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-14T19:17:04.130Z</updated>
+    <updated>2022-01-14T20:24:11.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-01-14T19:16:46.893Z</updated>
+        <updated>2022-01-14T20:23:49.696Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/mycoplasme"><span style="padding:4px 0;">MYCOPLASME</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -263,6 +263,52 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/"/>
         <updated>2022-01-11T03:25:02.828Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/" title="Atelier Collection Lookbook"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/Lookbook-Atelier-Caussol-feature-image.jpg" alt="Atelier Collection Lookbook"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/" title="Atelier Collection Lookbook">COLLECTIONS</a></h2><p><strong>Atelier Lookbook AW21. </strong> Uniquely styled, the collection mirrors the freedom of the road within the design and development process itself. Fewer rules, less restriction, more freedom. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Open Invitation - Gravelstoke Development Team 2022 (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
+        <id>https://www.gravelstoke.com/gravel-cycling-gear-blog/2022-gravelstoke-development-team</id>
+        <link href="https://www.gravelstoke.com/gravel-cycling-gear-blog/2022-gravelstoke-development-team"/>
+        <updated>2022-01-14T20:24:10.531Z</updated>
+        <content type="html"><![CDATA[<div class="BlogList-item-image">
+          <a href="/gravel-cycling-gear-blog/2022-gravelstoke-development-team" class="BlogList-item-image-link" style="overflow: hidden;">
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1642127450804-SS9OMHUE0VGMCVB6OSMA/dev+team+fb+banner+2022.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1642127450804-SS9OMHUE0VGMCVB6OSMA/dev+team+fb+banner+2022.jpg" data-image-dimensions="1640x856" data-image-focal-point="0.5,0.5" data-load="false" data-parent-ratio="1.5" style="font-size: 0px; left: -33.6869px; top: 0px; width: 310.374px; height: 162px; position: relative;" alt="An Open Invitation - Gravelstoke Development Team 2022" class="" data-image-resolution="500w" src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1642127450804-SS9OMHUE0VGMCVB6OSMA/dev+team+fb+banner+2022.jpg?format=500w">
+          </a>
+        </div>
+      
+
+
+      <a href="/gravel-cycling-gear-blog/2022-gravelstoke-development-team" class="BlogList-item-title" data-content-field="title">An Open Invitation - Gravelstoke Development Team 2022</a>
+
+      
+        
+          <div class="BlogList-item-excerpt">
+            <p class="">Applications are now being accepted for 2022. If you desire to join a community of cyclists that seek adventure, friendship, and well-being, we invite you to join us.</p>
+            <a href="/gravel-cycling-gear-blog/2022-gravelstoke-development-team" class="BlogList-item-readmore">
+              <span>Read More</span>
+            </a>
+          </div>
+        
+      
+
+      <div class="Blog-meta BlogList-item-meta">
+        <!--
+
+        Categories
+
+        --><span class="Blog-meta-item Blog-meta-item--categories"><a href="/gravel-cycling-gear-blog/category/News" class="Blog-meta-item-category">News</a></span><!--
+
+        Author
+
+        --><a href="/gravel-cycling-gear-blog?author=52bef4e3e4b052e013556378" class="Blog-meta-item Blog-meta-item--author">Dave Malwitz</a><!--
+
+        Date
+
+        --><time class="Blog-meta-item Blog-meta-item--date" datetime="2022-01-14">January 14, 2022</time><!--
+
+        Tags
+
+        --><span class="Blog-meta-item Blog-meta-item--tags"><a href="/gravel-cycling-gear-blog/tag/gravelstoke+dev+team" class="Blog-meta-item-tag">gravelstoke dev team</a>, <a href="/gravel-cycling-gear-blog/tag/gravel+cycling+team" class="Blog-meta-item-tag">gravel cycling team</a>, <a href="/gravel-cycling-gear-blog/tag/membership" class="Blog-meta-item-tag">membership</a>, <a href="/gravel-cycling-gear-blog/tag/ambassador+program" class="Blog-meta-item-tag">ambassador program</a>, <a href="/gravel-cycling-gear-blog/tag/memberstory" class="Blog-meta-item-tag">memberstory</a></span>
+      </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[New Top Tube Bag For Gravel Gets Everything Right (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
@@ -1247,59 +1293,6 @@
 
         --><span class="Blog-meta-item Blog-meta-item--comments">
   <a href="https://www.gravelstoke.com/gravel-cycling-gear-blog/film-tears-of-joy-pachamama-at-unbound-gravel#disqus_thread" class="sqs-comment-link sqs-disqus-comment-link" data-id="617099c7a3873e5d53096d41">0 Comments</a>
-</span>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redshift Kitchen Sink Handlebar Long Term Review (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
-        <id>https://www.gravelstoke.com/gravel-cycling-gear-blog/redshift-kitchen-sink-bar-long-term-review</id>
-        <link href="https://www.gravelstoke.com/gravel-cycling-gear-blog/redshift-kitchen-sink-bar-long-term-review"/>
-        <updated>2021-11-16T11:56:29.638Z</updated>
-        <content type="html"><![CDATA[<div class="BlogList-item-image">
-          <a href="/gravel-cycling-gear-blog/redshift-kitchen-sink-bar-long-term-review" class="BlogList-item-image-link" style="overflow: hidden;">
-            <img data-src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1634614408519-LSOTW0P8VE7EFQT9SA4I/jasonrowland-redshift-review_gravelstoke_bridge.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1634614408519-LSOTW0P8VE7EFQT9SA4I/jasonrowland-redshift-review_gravelstoke_bridge.jpg" data-image-dimensions="2000x1333" data-image-focal-point="0.5,0.5" data-load="false" data-parent-ratio="1.5" style="font-size: 0px; left: -0.0303826px; top: 0px; width: 243.061px; height: 162px; position: relative;" alt="Redshift Kitchen Sink Handlebar Long Term Review" class="" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1634614408519-LSOTW0P8VE7EFQT9SA4I/jasonrowland-redshift-review_gravelstoke_bridge.jpg?format=300w">
-          </a>
-        </div>
-      
-
-
-      <a href="/gravel-cycling-gear-blog/redshift-kitchen-sink-bar-long-term-review" class="BlogList-item-title" data-content-field="title">Redshift Kitchen Sink Handlebar Long Term Review</a>
-
-      
-        
-          <div class="BlogList-item-excerpt">
-            <p class="">Jason Rowland shares his long-term impressions on the latest gravel cycling gear from Redshift Sports. This story includes a Redshift Kitchen Sink Handlebar Review, a Redshift Really Long Bar Tape Review, and a ShockStop Stem Review by Jason, who tested the equipment on his OTSO Waheela C gravel bike while exploring the most demanding North American terrain from Alaska to Kansas. </p>
-            <a href="/gravel-cycling-gear-blog/redshift-kitchen-sink-bar-long-term-review" class="BlogList-item-readmore">
-              <span>Read More</span>
-            </a>
-          </div>
-        
-      
-
-      <div class="Blog-meta BlogList-item-meta">
-        <!--
-
-        Categories
-
-        --><span class="Blog-meta-item Blog-meta-item--categories"><a href="/gravel-cycling-gear-blog/category/Reports" class="Blog-meta-item-category">Reports</a></span><!--
-
-        Author
-
-        --><a href="/gravel-cycling-gear-blog?author=6011d3cad83f741af76148e6" class="Blog-meta-item Blog-meta-item--author">Jason Rowland</a><!--
-
-        Date
-
-        --><time class="Blog-meta-item Blog-meta-item--date" datetime="2021-10-20">October 20, 2021</time><!--
-
-        Tags
-
-        --><span class="Blog-meta-item Blog-meta-item--tags"><a href="/gravel-cycling-gear-blog/tag/redshift" class="Blog-meta-item-tag">redshift</a>, <a href="/gravel-cycling-gear-blog/tag/review" class="Blog-meta-item-tag">review</a>, <a href="/gravel-cycling-gear-blog/tag/gravel+handlebar" class="Blog-meta-item-tag">gravel handlebar</a>, <a href="/gravel-cycling-gear-blog/tag/otso" class="Blog-meta-item-tag">otso</a>, <a href="/gravel-cycling-gear-blog/tag/memberstory" class="Blog-meta-item-tag">memberstory</a></span><!--
-
-        Comments
-
-
-        --><span class="Blog-meta-item Blog-meta-item--comments">
-  <a href="https://www.gravelstoke.com/gravel-cycling-gear-blog/redshift-kitchen-sink-bar-long-term-review#disqus_thread" class="sqs-comment-link sqs-disqus-comment-link" data-id="6165f229fb0c255fb9e27d4c">2 Comments</a>
 </span>
       </div>]]></content>
     </entry>
