@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2022-01-15T12:34:44.217Z</updated>
+    <updated>2022-02-03T09:02:30.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ride of the Month: January.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-january-2022/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-january-2022/"/>
+        <updated>2022-02-03T09:02:23.442Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-january-2022/" title="Ride of the Month January 2022"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/Duranus-19-25-01-22.jpg" alt="Ride of the Month January 2022"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-january-2022/" title="Ride of the Month January 2022">LA MAISON</a></h2><p><strong> Ride of the Month: January.</strong> Exiting Nice from the north side, this ride provides a healthy mélange of architectural and natural landmarks, with a side of local legend.  </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coins Cachés: Boulder, Colorado.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/"/>
+        <updated>2022-02-03T09:02:23.446Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/" title="Coins Cachés Boulder"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/featureimage-CC-boulder-17-01-22.jpg" alt="Coins Cachés Boulder"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/" title="Coins Cachés Boulder">ROULER</a></h2><p><strong>Coins Cachés: Boulder, Colorado.</strong> Nestled on the eastern aspect of the foothills of the Colorado Rockies, the city of Boulder (population ~100,000) is a unique and idyllic hub for outdoor recreation—including cycling.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nissa La Bella Through the Seasons: The Lookbook.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/nissa-la-bella-through-the-seasons/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/nissa-la-bella-through-the-seasons/"/>
+        <updated>2022-02-03T09:02:23.446Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/nissa-la-bella-through-the-seasons/" title="Nissa La Bella Through the Seasons"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/Lookbook-Riding-Nice-2022-feature-image-13-01-22.jpg" alt="Nissa La Bella Through the Seasons"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/nissa-la-bella-through-the-seasons/" title="Nissa La Bella Through the Seasons">LA MAISON</a></h2><p><strong> Nissa La Bella Through the Seasons: The Lookbook. </strong> A city by the sea but not only. A place in the sun but not just. Nice is a cycling paradise twelve months a year and always, always, worth a visit.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cycling & Creativity: Sandra Sommer.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-sandra-sommer/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-sandra-sommer/"/>
+        <updated>2022-02-03T09:02:23.446Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-sandra-sommer/" title="Cycling and Creativity Sandra Sommer"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/sandra_creativity-featureimage3-12-01-22.jpg" alt="Cycling and Creativity Sandra Sommer"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-sandra-sommer/" title="Cycling and Creativity Sandra Sommer">LA VIE</a></h2><p><strong> Cycling &amp; Creativity: Sandra Sommer.</strong> As an artist, Sandra knows that inspiration can strike when you least expect it. Her most recent project came to her while exploring the mountains around Salzburg as that is when her mind is most free.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Audax Lookbook: Light and Long.]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/audax-lookbook-light-long/</id>
@@ -60,33 +88,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/"/>
         <updated>2022-01-11T03:25:02.820Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/" title="Cycling &amp; Creativity"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/ride_create_FeatureImage3-02-12-21.jpg" alt="Cycling &amp; Creativity"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/" title="Cycling &amp; Creativity">LA VIE</a></h2><p><strong>Cycling &amp; Creativity.</strong> Exploring how cycling can unlock creative thinking. With Stanford University's &amp; University Côte d’Azur's research, pedal power has a whole new meaning.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ride of the Month: November.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/rotm-november/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-november/"/>
-        <updated>2022-01-11T03:25:02.823Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-november/" title="ROTM November"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/ROTM_Nov2021_FeatureImage1-26-11-21.jpg" alt="ROTM November"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-november/" title="ROTM November">LA MAISON</a></h2><p><strong>Ride of the Month: November.</strong> A ride that goes further than the normal nourishing experience, climbing the iconic Col d’Eze en route to Monaco in search of a model turned urban gardener. The principality isn’t classicly urban and certainly not suburban but it is on the rooftops of Monaco that Jessica grows her organic produce.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Norway on Film AW21]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/norway-film-lookbook/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/norway-film-lookbook/"/>
-        <updated>2022-01-11T03:25:02.826Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/norway-film-lookbook/" title="Norway Film Lookbook"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/Lookbook-Norvege-Film-feature-image.jpg" alt="Norway Film Lookbook"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/norway-film-lookbook/" title="Norway Film Lookbook">COLLECTIONS</a></h2><p><strong> Norway on Film AW21</strong> The road may be long, the terrain may be tough but the results are spectacular. Shot the old fashioned way for a place where time stands still.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Mont-Blanc Gravel Tour with Etienne Hubert.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/etienne-hubert-mont-blanc/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/etienne-hubert-mont-blanc/"/>
-        <updated>2022-01-11T03:25:02.827Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/etienne-hubert-mont-blanc/" title="Etienne Hubert – Mont Blanc"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/11/EtienneTMB_FeatureImage4-19-10-21.jpg" alt="Etienne Hubert – Mont Blanc"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/etienne-hubert-mont-blanc/" title="Etienne Hubert – Mont Blanc">LA MAISON</a></h2><p><strong>A Mont-Blanc Gravel Tour with Etienne Hubert.</strong> After the last few months of training and the Olympics in Japan, I find myself constantly craving nature. I’ve thought about doing a Gravel tour of Mont Blanc for so long, so this seemed like the perfect time.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atelier Lookbook AW21.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/"/>
-        <updated>2022-01-11T03:25:02.828Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/" title="Atelier Collection Lookbook"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/11/Lookbook-Atelier-Caussol-feature-image.jpg" alt="Atelier Collection Lookbook"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/atelier-collection-lookbook/" title="Atelier Collection Lookbook">COLLECTIONS</a></h2><p><strong>Atelier Lookbook AW21. </strong> Uniquely styled, the collection mirrors the freedom of the road within the design and development process itself. Fewer rules, less restriction, more freedom. </p>]]></content>
     </entry>
 </feed>
