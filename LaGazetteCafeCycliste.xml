@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2022-02-03T09:02:30.572Z</updated>
+    <updated>2022-02-03T10:02:55.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Best Aligot in the World.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/the-best-aligot-in-the-world/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-aligot-in-the-world/"/>
+        <updated>2022-02-03T10:02:49.167Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-aligot-in-the-world/" title="The Best Aligot in the World"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/02/BITW_aligot_FeatureImage3-02-02-22.jpg" alt="The Best Aligot in the World"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-aligot-in-the-world/" title="The Best Aligot in the World">LA VIE</a></h2><p><strong>The Best Aligot in the World.</strong> Aligot must be worked for a long time to obtain its very elastic texture. It is served with a sausage from pigs raised in the surrounding farmland of the Massif Central. </p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ride of the Month: January.]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-january-2022/</id>
@@ -81,12 +88,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/"/>
         <updated>2022-01-11T03:25:02.819Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/" title="Sarah Bacher Tackling Kühtai"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/gazette-mont-kuhtai-161221.jpg" alt="Sarah Bacher Tackling Kühtai"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/" title="Sarah Bacher Tackling Kühtai">LA MAISON</a></h2><p><strong>Sarah Bacher: Tackling Kühtai, a Tyrolian wonder.</strong> Snow has just started to whiten the top of Kühtai - a mountain which holds a special place in my heart and the perfect location for a pre-ski season climb.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cycling & Creativity.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/"/>
-        <updated>2022-01-11T03:25:02.820Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/" title="Cycling &amp; Creativity"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/ride_create_FeatureImage3-02-12-21.jpg" alt="Cycling &amp; Creativity"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/" title="Cycling &amp; Creativity">LA VIE</a></h2><p><strong>Cycling &amp; Creativity.</strong> Exploring how cycling can unlock creative thinking. With Stanford University's &amp; University Côte d’Azur's research, pedal power has a whole new meaning.</p>]]></content>
     </entry>
 </feed>

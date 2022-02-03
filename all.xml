@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-03T09:02:30.742Z</updated>
+    <updated>2022-02-03T10:02:55.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Genotypic and phenotypic dataset for Grain yield in an indica rice diversity panel (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -116,7 +116,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-02-03T09:02:13.854Z</updated>
+        <updated>2022-02-03T10:02:38.434Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/mycoplasme"><span style="padding:4px 0;">MYCOPLASME</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -179,6 +179,13 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">LENTSCHAT, Martin, 2022, "TRANSMAT n-Ary relations", <a href="https://doi.org/10.18167/DVN1/1BBJBQ" target="_blank">https://doi.org/10.18167/DVN1/1BBJBQ</a>, CIRAD Dataverse, V1, UNF:6:xTM1cMCmnS2wfmB5Fr5slg== [fileUNF]
                         </div>This dataset presents a Gold Standard of data annotated on documents from the Science Direct website. The relations are related to permeability n-Ary relations, as defined in the TRANSMAT Ontology (https://ico.iate.inra.fr/atWeb/, https://doi.org/10.15454/NK24ID, http://agroporta...</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Aligot in the World. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/the-best-aligot-in-the-world/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-aligot-in-the-world/"/>
+        <updated>2022-02-03T10:02:49.167Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-aligot-in-the-world/" title="The Best Aligot in the World"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/02/BITW_aligot_FeatureImage3-02-02-22.jpg" alt="The Best Aligot in the World"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-aligot-in-the-world/" title="The Best Aligot in the World">LA VIE</a></h2><p><strong>The Best Aligot in the World.</strong> Aligot must be worked for a long time to obtain its very elastic texture. It is served with a sausage from pigs raised in the surrounding farmland of the Massif Central. </p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ride of the Month: January. (La Gazette de café du cycliste)]]></title>
@@ -256,13 +263,6 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/"/>
         <updated>2022-01-11T03:25:02.819Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/" title="Sarah Bacher Tackling Kühtai"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/gazette-mont-kuhtai-161221.jpg" alt="Sarah Bacher Tackling Kühtai"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/" title="Sarah Bacher Tackling Kühtai">LA MAISON</a></h2><p><strong>Sarah Bacher: Tackling Kühtai, a Tyrolian wonder.</strong> Snow has just started to whiten the top of Kühtai - a mountain which holds a special place in my heart and the perfect location for a pre-ski season climb.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cycling & Creativity. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/"/>
-        <updated>2022-01-11T03:25:02.820Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/" title="Cycling &amp; Creativity"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/ride_create_FeatureImage3-02-12-21.jpg" alt="Cycling &amp; Creativity"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-creativity/" title="Cycling &amp; Creativity">LA VIE</a></h2><p><strong>Cycling &amp; Creativity.</strong> Exploring how cycling can unlock creative thinking. With Stanford University's &amp; University Côte d’Azur's research, pedal power has a whole new meaning.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Obed GVR Gravel Bike (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
