@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-02-06T15:02:07.687Z</updated>
+    <updated>2022-02-06T16:02:37.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=f8e3149c67d67a11ce161580296d</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=fc57e54e21a320709904373f42dc</icon>
     <entry>
         <title type="html"><![CDATA[Genotypic and phenotypic dataset for Grain yield in an indica rice diversity panel]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1ATYE</id>
@@ -117,7 +117,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-02-06T15:01:53.136Z</updated>
+        <updated>2022-02-06T16:02:17.048Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/mycoplasme"><span style="padding:4px 0;">MYCOPLASME</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
