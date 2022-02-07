@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2022-02-07T09:03:55.057Z</updated>
+    <updated>2022-02-07T10:02:09.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cycling and Creativity: Rémi Clermont.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-remi-clermont/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-remi-clermont/"/>
+        <updated>2022-02-07T10:02:03.115Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-remi-clermont/" title="Cycling and Creativity: Rémi Clermont"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/02/RideCreate_Remi-FeatureImage2-04-02-22.jpg" alt="Cycling and Creativity: Rémi Clermont"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-remi-clermont/" title="Cycling and Creativity: Rémi Clermont">LA VIE</a></h2><p><strong>Cycling and Creativity: Rémi Clermont.</strong> Rémi Clermont is creative director of Café du Cycliste. Here he speaks about creativity, and the vital role his own cycling plays in the process.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Aligot in the World.]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/the-best-aligot-in-the-world/</id>
@@ -81,12 +88,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/"/>
         <updated>2022-01-11T03:25:02.819Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/" title="Sophie Gateau: Exploring the Morvan"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2020/12/CDC_MORVAN_GATEAU_slider4-21-12-21.jpg" alt="Sophie Gateau: Exploring the Morvan"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/" title="Sophie Gateau: Exploring the Morvan">ROULER</a></h2><p><strong>Exploring the Morvan.</strong> The Morvan isn’t easily explained. A mountainous massif lying in the centre of the undulating Burgandy region. Travelling here is like taking a step back in time, and for those who love cycling, it’s a rich treasure trove waiting to be discovered. </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sarah Bacher: Tackling Kühtai, a Tyrolian wonder.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/"/>
-        <updated>2022-01-11T03:25:02.819Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/" title="Sarah Bacher Tackling Kühtai"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/gazette-mont-kuhtai-161221.jpg" alt="Sarah Bacher Tackling Kühtai"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/sarah-bacher-tackling-kuhtai/" title="Sarah Bacher Tackling Kühtai">LA MAISON</a></h2><p><strong>Sarah Bacher: Tackling Kühtai, a Tyrolian wonder.</strong> Snow has just started to whiten the top of Kühtai - a mountain which holds a special place in my heart and the perfect location for a pre-ski season climb.</p>]]></content>
     </entry>
 </feed>
