@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2022-02-07T15:02:34.486Z</updated>
+    <updated>2022-02-07T16:03:14.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[The Camargue – Between Sky and Sea.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/the-camargue-between-sky-and-sea/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/the-camargue-between-sky-and-sea/"/>
-        <updated>2022-02-07T14:02:03.981Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/the-camargue-between-sky-and-sea/" title="The Camargue – Between Sky and Sea"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/02/Camargues-FeatureImage1-07-02-22.jpg" alt="The Camargue – Between Sky and Sea"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/the-camargue-between-sky-and-sea/" title="The Camargue – Between Sky and Sea">ROULER</a></h2><p><strong>The Camargue – Between Sky and Sea. </strong> There are places in the world that are sanctuaries for nature, where wildlife is untouched by modern life. The Camargue is one of those special places.</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Cycling and Creativity: Rémi Clermont.]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-remi-clermont/</id>
@@ -88,5 +81,12 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-alba-de-silvestro/"/>
         <updated>2022-01-11T03:25:02.818Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-alba-de-silvestro/" title="Caravan Alba de Silvestro"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2021/12/alba-de-silvestro-athlete-page-22-12-21.jpg" alt="Caravan Alba de Silvestro"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/caravan-alba-de-silvestro/" title="Caravan Alba de Silvestro">LA MAISON</a></h2><p><strong> Caravan: Alba de Silvestro</strong> For me there’s only one difference between cycling and skimo, it’s just the season. One is for winter and the other is for summer. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exploring the Morvan.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/"/>
+        <updated>2022-02-07T16:03:07.186Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/" title="Sophie Gateau: Exploring the Morvan"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2020/12/CDC_MORVAN_GATEAU_slider4-21-12-21.jpg" alt="Sophie Gateau: Exploring the Morvan"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/sophie-gateau-exploring-the-morvan/" title="Sophie Gateau: Exploring the Morvan">ROULER</a></h2><p><strong>Exploring the Morvan.</strong> The Morvan isn’t easily explained. A mountainous massif lying in the centre of the undulating Burgandy region. Travelling here is like taking a step back in time, and for those who love cycling, it’s a rich treasure trove waiting to be discovered. </p>]]></content>
     </entry>
 </feed>
