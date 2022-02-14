@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-02-14T14:02:16.097Z</updated>
+    <updated>2022-02-14T15:02:30.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=88a3d84dd88fc604f878c52e8018</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=8c169385f7cbe9affa64020cd3e1</icon>
+    <entry>
+        <title type="html"><![CDATA[A global database of land management, land-use change and climate change effects on soil organic carbon]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KKPLR8</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KKPLR8"/>
+        <updated>2022-02-14T15:02:15.223Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KKPLR8"><span style="padding:4px 0;">A global database of land management, land-use change and climate change effects on soil organic carbon</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/KKPLR8"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Feb 14, 2022</span><span class="text-muted"> - </span><a href="/dataverse/Meta-synthesis_Soil_carbon">Meta-analysis_Soil_carbon</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Beillouin, Damien; Demenois, Julien; Cardinael, Rémi; Berre, David; Corbeels, Marc; Fallot, Abigaïl; Boyer, Annie; Feder, Frédéric, 2021, "A global database of land management, land-use change and climate change effects on soil organic carbon", <a href="https://doi.org/10.18167/DVN1/KKPLR8" target="_blank">https://doi.org/10.18167/DVN1/KKPLR8</a>, CIRAD Dataverse, V2
+                        </div>This dataset comprises data from a systematic review done after a comprehensive literature search using Scopus, Web of Science, Ovid publisher and Google Scholar for peer-reviewed meta-analyses and systematic reviews up to early 2020 that reported on soil organic carbon. This glo...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Genotypic and phenotypic dataset for Grain yield in an indica rice diversity panel]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1ATYE</id>
@@ -114,10 +132,10 @@
                         </div>Enquête réalisée en zone rurale du Centre-est de la Tunisie auprès des femmes, des chefs de ménages et des exploitations agricole.</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-02-14T14:02:00.139Z</updated>
+        <updated>2022-02-14T15:02:15.148Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/mycoplasme"><span style="padding:4px 0;">MYCOPLASME</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -162,23 +180,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Joannès Guillemot, 2022, "Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology", <a href="https://doi.org/10.18167/DVN1/HLBVJG" target="_blank">https://doi.org/10.18167/DVN1/HLBVJG</a>, CIRAD Dataverse, V1
                         </div>This dataset contains measurements of ten functional traits describing drought resistance, the fast-slow and stature-recruitment trade-off axes in 601 tropical woody species. Data were obtained from a screening of the literature, conducted in March 2021. The functional traits des...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRANSMAT n-Ary relations]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/1BBJBQ</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/1BBJBQ"/>
-        <updated>2022-01-03T11:18:15.888Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/1BBJBQ"><span style="padding:4px 0;">TRANSMAT n-Ary relations</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/1BBJBQ"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Jan 3, 2022</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">LENTSCHAT, Martin, 2022, "TRANSMAT n-Ary relations", <a href="https://doi.org/10.18167/DVN1/1BBJBQ" target="_blank">https://doi.org/10.18167/DVN1/1BBJBQ</a>, CIRAD Dataverse, V1, UNF:6:xTM1cMCmnS2wfmB5Fr5slg== [fileUNF]
-                        </div>This dataset presents a Gold Standard of data annotated on documents from the Science Direct website. The relations are related to permeability n-Ary relations, as defined in the TRANSMAT Ontology (https://ico.iate.inra.fr/atWeb/, https://doi.org/10.15454/NK24ID, http://agroporta...</div>]]></content>
     </entry>
 </feed>
