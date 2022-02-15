@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-02-15T15:02:25.024Z</updated>
+    <updated>2022-02-15T16:02:57.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=de7abaaea2677e1c9473d55a728b</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=e1f1fc7feb01996a0fedfd664056</icon>
+    <entry>
+        <title type="html"><![CDATA[Jeu de données sur des systèmes agroforestiers à palmier à huile capitalisés en 2020 dans le monde.]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD"/>
+        <updated>2022-02-15T16:02:42.950Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD"><span style="padding:4px 0;">Jeu de données sur des systèmes agroforestiers à palmier à huile capitalisés en 2020 dans le monde.</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Feb 15, 2022</span><span class="text-muted"> - </span><a href="/dataverse/innov">UMR Innovation</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Masure, Alix; Lacan, Xavier; Rafflegeau, Sylvain, 2022, "Jeu de données sur des systèmes agroforestiers à palmier à huile capitalisés en 2020 dans le monde.", <a href="https://doi.org/10.18167/DVN1/NQ7WJD" target="_blank">https://doi.org/10.18167/DVN1/NQ7WJD</a>, CIRAD Dataverse, V1
+                        </div>Ce jeu de données décrit 39 systèmes agroforestiers à base de palmier à huile identifiés dans le monde en 2020 par traque aux innovations. Une typologie de systèmes agroforestiers est présentée dans un article lié à ce jeu de données. Le jeu de données du fichier Excel présente :...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A global database of land management, land-use change and climate change effects on soil organic carbon]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KKPLR8</id>
@@ -132,10 +150,10 @@
                         </div>Enquête réalisée en zone rurale du Centre-est de la Tunisie auprès des femmes, des chefs de ménages et des exploitations agricole.</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[8]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-02-15T15:02:09.507Z</updated>
+        <updated>2022-02-15T16:02:42.879Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/mycoplasme"><span style="padding:4px 0;">MYCOPLASME</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -162,23 +180,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Kalboussi, Nesrine, 2021, "OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results", <a href="https://doi.org/10.18167/DVN1/YLP1BA" target="_blank">https://doi.org/10.18167/DVN1/YLP1BA</a>, CIRAD Dataverse, V3
                         </div>This decision support tool was designed to evaluate the environment efficiency of wastewater reuse for agriculture irrigation among other options. The aim of this decision support tool is to guide the interpretation of LCA results by reducing, gradually, the non-discriminant impa...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/HLBVJG</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/HLBVJG"/>
-        <updated>2022-01-06T17:30:19.204Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/HLBVJG"><span style="padding:4px 0;">Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/HLBVJG"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Jan 6, 2022</span><span class="text-muted"> - </span><a href="/dataverse/eco-sols">UMR Eco&amp;Sols</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Joannès Guillemot, 2022, "Dataset of Guillemot et al. (2022) Small and slow is safe: on the drought tolerance of tropical tree species, Global Change Biology", <a href="https://doi.org/10.18167/DVN1/HLBVJG" target="_blank">https://doi.org/10.18167/DVN1/HLBVJG</a>, CIRAD Dataverse, V1
-                        </div>This dataset contains measurements of ten functional traits describing drought resistance, the fast-slow and stature-recruitment trade-off axes in 601 tropical woody species. Data were obtained from a screening of the literature, conducted in March 2021. The functional traits des...</div>]]></content>
     </entry>
 </feed>
