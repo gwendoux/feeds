@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-16T21:02:09.942Z</updated>
+    <updated>2022-02-16T22:02:29.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Jeu de données sur l'abondance des invertébrés du sol en fonction des pratiques agricoles dans les bananeraies de Martinique (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/FBZYCT</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/FBZYCT"/>
+        <updated>2022-02-16T22:02:11.733Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/FBZYCT"><span style="padding:4px 0;">Jeu de données sur l'abondance des invertébrés du sol en fonction des pratiques agricoles dans les bananeraies de Martinique</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/FBZYCT"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Feb 16, 2022</span><span class="text-muted"> - </span><a href="/dataverse/geco">UPR GECO</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">El Jaouhari, Meryem; Coulis, Mathieu, 2022, "Jeu de données sur l'abondance des invertébrés du sol en fonction des pratiques agricoles dans les bananeraies de Martinique", <a href="https://doi.org/10.18167/DVN1/FBZYCT" target="_blank">https://doi.org/10.18167/DVN1/FBZYCT</a>, CIRAD Dataverse, V1, UNF:6:4ZfUCPdUHjpM4MGgv3VJeg== [fileUNF]
+                        </div>[FR]Jeu de données sur l'abondance des invertébrés du sol collectés entre le 24/03/2018 et le 21/06/2018 dans des bananeraies, des forêts et des jachères enherbées de Martinique. 250 prélèvements ont été réalisés dans 25 parcelles à l'aide de quadrats de 25 x 25 cm. La litière ai...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Profitability assessment of the Coffee agroforestry business driven clusters (CaFC) (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX</id>
@@ -26,7 +44,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-02-16T21:01:54.839Z</updated>
+        <updated>2022-02-16T22:02:11.644Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/diade"><span style="padding:4px 0;">UMR DIADE</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD, IRD, Université de Montpellier)</span>
@@ -161,24 +179,6 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Rumiano, Florent; Miguel, Eve; Caron, Alexandre; Dupuy, Stephane; Tran, Annelise, 2022, "Land cover map, Malipati site, Gonarezhou National Park, Zimbabwe", <a href="https://doi.org/10.18167/DVN1/2SFOA5" target="_blank">https://doi.org/10.18167/DVN1/2SFOA5</a>, CIRAD Dataverse, V1
                         </div>Land cover map of Malipati study site derived from Sentinel-2 images (2018).</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploration des liens entre agriculture et sécurité alimentaire : Une enquête auprès des femmes du gouvernorat de Sidi-Bouzid, en Tunisie centrale (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/LWT7BG</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/LWT7BG"/>
-        <updated>2022-02-03T09:02:13.957Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/LWT7BG"><span style="padding:4px 0;">Exploration des liens entre agriculture et sécurité alimentaire : Une enquête auprès des femmes du gouvernorat de Sidi-Bouzid, en Tunisie centrale</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/LWT7BG"><img src="data:image/png;base64,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" alt="Exploration des liens entre agriculture et sécurité alimentaire : Une enquête auprès des femmes du gouvernorat de Sidi-Bouzid, en Tunisie centrale">
-                            </a>
-                        </div><span class="text-muted">Jan 20, 2022</span><span class="text-muted"> - </span><a href="/dataverse/moisa">UMR MOISA</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Gaillard, Cédric; Dury,Sandrine; Bosc, Pierre-Marie, 2017, "Exploration des liens entre agriculture et sécurité alimentaire : Une enquête auprès des femmes du gouvernorat de Sidi-Bouzid, en Tunisie centrale", <a href="https://doi.org/10.18167/DVN1/LWT7BG" target="_blank">https://doi.org/10.18167/DVN1/LWT7BG</a>, CIRAD Dataverse, V5, UNF:6:QTEAhX9VYA6sVpBTKBlOew== [fileUNF]
-                        </div>Enquête réalisée en zone rurale du Centre-est de la Tunisie auprès des femmes, des chefs de ménages et des exploitations agricole.</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Camargue – Between Sky and Sea. (La Gazette de café du cycliste)]]></title>
