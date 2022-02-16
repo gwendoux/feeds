@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-02-16T13:09:11.374Z</updated>
+    <updated>2022-02-16T14:02:39.154Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=2a64d6e6b2bb02878b63a7ca4755</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=2d7552d5d9e409785e88390ecfaa</icon>
+    <entry>
+        <title type="html"><![CDATA[Profitability assessment of the Coffee agroforestry business driven clusters (CaFC)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX"/>
+        <updated>2022-02-16T14:02:24.366Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX"><span style="padding:4px 0;">Profitability assessment of the Coffee agroforestry business driven clusters (CaFC)</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Feb 16, 2022</span><span class="text-muted"> - </span><a href="/dataverse/diade">UMR DIADE</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Meter, Andrew; Penot, Eric; Vaast, Philippe; Etienne, Hervé; Ponçon, Eric; Bertrand, Benoit, 2022, "Profitability assessment of the Coffee agroforestry business driven clusters (CaFC)", <a href="https://doi.org/10.18167/DVN1/8RKHFX" target="_blank">https://doi.org/10.18167/DVN1/8RKHFX</a>, CIRAD Dataverse, V1, UNF:6:zZXzMKjevYvClZiNBmTKHg== [fileUNF]
+                        </div>The profitability assessment is based on data on costs and yields per hectare for the F1 hyrbid variety 'Starmaya' and a local variety.</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
+        <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
+        <updated>2022-02-16T14:02:24.291Z</updated>
+        <content type="html"><![CDATA[<div class="dataverseResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/diade"><span style="padding:4px 0;">UMR DIADE</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD, IRD, Université de Montpellier)</span>
+                        </div>
+                        <div class="card-preview-icon-block text-center"><a href="/dataverse/diade"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAhCAYAAACfiCi5AAADxElEQVR42u1YX0gUQRjfvfPuRA1BRB9KLyPwQiMpsJf+cFdgUEhQUREUElTQH7jqoA5v7aEgKiKIM6KDejOU3gq0d18LiyBKiIighyJIDvT0mnZ2nZ1vZmd2do/1QeiDwZtxZvb3+33fzHwzmha+rdVWsSFt9CgKOiY3vjvwmNHHXSh8+Bh8QALGVAYZU+kgYyIzH7oRLisDPgCBggncJpDxPYaAD5NAGwPeJqCafIAoDzygGrMMPAUJoPBUB0W/fwipQoYWu779oDSmoyxwSiCZrK+JwHmh4u42aC9Yxa2QYQgI1sE3GC5EcUGbb/soVFwEnhKoEMCwmO1lFjyzDqq80stAe0Re8AN8zAH1yAWyXgQ+1t6M3MAdlXW+Df9ubE5w6rIg2XZKRBnjxLI3riNYLxiGUHk+LKDK9hqg7c5chYJLcVLndx6/HnAAEbusINDZ0ypQ3P7d3NqAPzTG/48lwCocT0TwmM9uYrR0dCSQcmehBPK4819RzLtVZ+K6TBesXfD+jwGIPWCFxVdN1zivpFwkzX5z0pDhLZ8f/i7yAAa0uLTA9DUmqboQuMygB0T2TuIFT/B4UmiWByAB8/9EdWKlUskqDBkBeMMkz9cxoHK5PCv7vmgRQ/g7Jj5NO51JaMRvDioIUGAjxohFaP/FXhSPxwGBDBPvT5+ddKmN58JhButEdZZASq1+pVKxgDac3cVM6iZgMATwR/v2djgHlMwDUEk+hLwMhpmu697hAw8ouo26PVCABPCaAKerzAMwhtkQSvkk4N77LWBnXj+kBMBuJPMA/igEViwWHbDF6dMeHkgJQwgSeFIacvrMfjnlve9Hbg26tkxse8avMfWshAAE92f+J5qb/6VcxHy4kEXM91lc+u3U38z0ImVG2bh1PTNJtVqVHmSEgHU7Gi2y7ga7DPGKV4yrtlG83vxfRMy/XQ+G0M5755AsXebyeCdFLtzOIePlgDCNIADfvt+EruRyP+Tpgb1NPp84gu7czfnLd6wcPqKjSF1UCpolQC8hsURMCBiexpAAHnMpm5ScsN38iazONuvy+xj1vUq8pcnqN/wqzamfESRwdqmLRZmETJ6c1X7TuqAk4J5wkhJIy3IgfszCsqqdsrCp+Yq4ZkO77FaFPJ9QrH2fVV41JhqNiC4r1XBfFXy+LMBYP5zfgvy9KtBwOX6iPcSnEbKVHusP+CySRhu3tQV8FkmF8KIQ2qNUJtAYUSYZHoGAFvBFzfHAijxqNh3oCzxxcnNLLWBWhoBpV2sY06/9t/Bs3WoE/Q/XjqGn+x/AzgAAAABJRU5ErkJggg==" alt="UMR DIADE logo"></a>
+                        </div><span class="text-muted" style="margin-right:.5em;">Feb 16, 2022</span>
+
+                        <hr style="margin:.5em;border:0;">DIversity - Adaptation - plant DEvelopment The DIADE Research Unit aims to understand the diversification of tropical plants, one of the main original reservoirs of biodiversity, and for which conservation, management and exploitation are an important issue for Sustainable Develo...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jeu de données sur des systèmes agroforestiers à palmier à huile capitalisés en 2020 dans le monde.]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD</id>
@@ -148,37 +180,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Gaillard, Cédric; Dury,Sandrine; Bosc, Pierre-Marie, 2017, "Exploration des liens entre agriculture et sécurité alimentaire : Une enquête auprès des femmes du gouvernorat de Sidi-Bouzid, en Tunisie centrale", <a href="https://doi.org/10.18167/DVN1/LWT7BG" target="_blank">https://doi.org/10.18167/DVN1/LWT7BG</a>, CIRAD Dataverse, V5, UNF:6:QTEAhX9VYA6sVpBTKBlOew== [fileUNF]
                         </div>Enquête réalisée en zone rurale du Centre-est de la Tunisie auprès des femmes, des chefs de ménages et des exploitations agricole.</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8]]></title>
-        <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
-        <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-02-16T13:08:56.255Z</updated>
-        <content type="html"><![CDATA[<div class="dataverseResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/mycoplasme"><span style="padding:4px 0;">MYCOPLASME</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
-                        </div>
-                        <div class="card-preview-icon-block text-center"><a href="/dataverse/mycoplasme"><span class="icon-dataverse text-brand"></span></a>
-                        </div><span class="text-muted" style="margin-right:.5em;">Jan 14, 2022</span><a href="/dataverse/astre">UMR ASTRE</a>
-
-                        <hr style="margin:.5em;border:0;">Équipe mycoplasme.</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA"/>
-        <updated>2021-12-15T14:19:55.431Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA"><span style="padding:4px 0;">OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Jan 11, 2022</span><span class="text-muted"> - </span><a href="/dataverse/hortsys">UPR HORTSYS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Kalboussi, Nesrine, 2021, "OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results", <a href="https://doi.org/10.18167/DVN1/YLP1BA" target="_blank">https://doi.org/10.18167/DVN1/YLP1BA</a>, CIRAD Dataverse, V3
-                        </div>This decision support tool was designed to evaluate the environment efficiency of wastewater reuse for agriculture irrigation among other options. The aim of this decision support tool is to guide the interpretation of LCA results by reducing, gradually, the non-discriminant impa...</div>]]></content>
     </entry>
 </feed>
