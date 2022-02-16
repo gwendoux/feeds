@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-02-16T06:03:14.564Z</updated>
+    <updated>2022-02-16T07:01:56.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=1206d611f3c32c55220d61451d55</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=15633e76c5845e2a3d104a7b77d4</icon>
     <entry>
         <title type="html"><![CDATA[Jeu de données sur des systèmes agroforestiers à palmier à huile capitalisés en 2020 dans le monde.]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD</id>
@@ -153,7 +153,7 @@
         <title type="html"><![CDATA[8]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-02-16T06:02:59.407Z</updated>
+        <updated>2022-02-16T07:01:43.677Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/mycoplasme"><span style="padding:4px 0;">MYCOPLASME</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
