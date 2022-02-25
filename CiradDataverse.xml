@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-02-25T09:02:16.373Z</updated>
+    <updated>2022-02-25T10:01:41.283Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=01d7ea5c956b98701162c809d147</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=053ea7748c952e7a92c478bfa9a3</icon>
     <entry>
         <title type="html"><![CDATA[Breeding phenology in the parsley frog, Pelodytes punctatus]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/2TOXXV</id>
@@ -27,7 +27,7 @@
         <title type="html"><![CDATA[1]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-02-25T09:01:57.982Z</updated>
+        <updated>2022-02-25T10:01:25.224Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -77,7 +77,7 @@
         <title type="html"><![CDATA[4]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-02-25T09:01:57.987Z</updated>
+        <updated>2022-02-25T10:01:25.226Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/diade"><span style="padding:4px 0;">UMR DIADE</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD, IRD, Université de Montpellier)</span>
