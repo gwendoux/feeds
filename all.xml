@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-28T16:02:01.500Z</updated>
+    <updated>2022-02-28T17:03:46.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[DATA4C+ - A thesaurus to define land management practices in agriculture and forestry for soil carbon storage (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/HMCPMF</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/HMCPMF"/>
+        <updated>2022-02-28T17:03:32.633Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/HMCPMF"><span style="padding:4px 0;">DATA4C+ - A thesaurus to define land management practices in agriculture and forestry for soil carbon storage</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/HMCPMF"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Feb 28, 2022</span><span class="text-muted"> - </span><a href="/dataverse/aida">AIDA</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Demenois, Julien; Fujisaki, Kenji; Chevallier, Tiphaine; Bispo, Antonio; Laurent, Jean-Baptiste; Thévenin, François; Chapuis-Lardy, Lydie; Cardinael, Rémi; Freycon, Vincent; Bénédet, Fabrice; Le Bas, Christine; Tella, Marie; Blanfort, Vincent; Brossard, Michel, 2022, "DATA4C+ - A thesaurus to define land management practices in agriculture and forestry for soil carbon storage", <a href="https://doi.org/10.18167/DVN1/HMCPMF" target="_blank">https://doi.org/10.18167/DVN1/HMCPMF</a>, CIRAD Dataverse, V1
+                        </div>DATA4C+ is a thesaurus classifying and defining land management practices in agriculture and forestry for soil carbon storage. DATA4C+ thesaurus is focussed on land management practices identified in the scientific literature as drivers of soil organic carbon (SOC) changes. DATA4...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breeding phenology in the parsley frog, Pelodytes punctatus (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/2TOXXV</id>
@@ -26,7 +44,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-02-28T16:01:47.279Z</updated>
+        <updated>2022-02-28T17:03:32.555Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -76,7 +94,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-02-28T16:01:47.279Z</updated>
+        <updated>2022-02-28T17:03:32.556Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/diade"><span style="padding:4px 0;">UMR DIADE</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD, IRD, Université de Montpellier)</span>
@@ -157,24 +175,6 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Rumiano, Florent; Miguel, Eve; Caron, Alexandre; Dupuy, Stéphane; Tran, Annelise, 2022, "Land cover map, Pesvi site, Kruger National Park, Zimbabwe", <a href="https://doi.org/10.18167/DVN1/ZLIQIL" target="_blank">https://doi.org/10.18167/DVN1/ZLIQIL</a>, CIRAD Dataverse, V1
                         </div>Land cover map of Pesvi study site derived from Sentinel-2 images (2018)</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monthly surface water maps, North Kruger National Park, 2018 (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/DAVZUY</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/DAVZUY"/>
-        <updated>2022-02-03T09:02:13.952Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/DAVZUY"><span style="padding:4px 0;">Monthly surface water maps, North Kruger National Park, 2018</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/DAVZUY"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Jan 26, 2022</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Rumiano, Florent; Miguel, Eve; Caron, Alexandre; Dupuy, Stéphane; Tran, Annelise, 2022, "Monthly surface water maps, North Kruger National Park, 2018", <a href="https://doi.org/10.18167/DVN1/DAVZUY" target="_blank">https://doi.org/10.18167/DVN1/DAVZUY</a>, CIRAD Dataverse, V1
-                        </div>Monthly surface water maps, North Kruger National Park, Zimbabwe, derived from Sentinel-2 images (2018)</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ride of the Month: February. (La Gazette de café du cycliste)]]></title>
