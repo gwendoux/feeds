@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-01T13:05:54.712Z</updated>
+    <updated>2022-03-01T14:05:30.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DATA4C+ - A thesaurus to define land management practices in agriculture and forestry for soil carbon storage (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -44,7 +44,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-03-01T13:05:40.235Z</updated>
+        <updated>2022-03-01T14:05:11.544Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -94,7 +94,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-03-01T13:05:40.235Z</updated>
+        <updated>2022-03-01T14:05:11.556Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/diade"><span style="padding:4px 0;">UMR DIADE</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD, IRD, Université de Montpellier)</span>
@@ -181,7 +181,7 @@
         <id>https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/</id>
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/"/>
         <updated>2022-03-01T11:01:35.250Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/" title="Coins Cachés Lake Como"><img src="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/02/Bellagio-a-Brunate-03-Varenna-1-25-02-22.jpg" alt="Coins Cachés Lake Como" style="display: inline-block;"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/" title="Coins Cachés Lake Como">ROULER</a></h2><p><strong>Coins Cachés: Lago di Como.</strong> At the convergence of the Lombardian flatlands and Italian alps lies Lago di Como. Beyond the glamourous waterside, there are roads leading to hundreds of wonderful divergences.</p>]]></content>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/" title="Coins Cachés Lake Como"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/02/Bellagio-a-Brunate-03-Varenna-1-25-02-22.jpg" alt="Coins Cachés Lake Como"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/" title="Coins Cachés Lake Como">ROULER</a></h2><p><strong>Coins Cachés: Lago di Como.</strong> At the convergence of the Lombardian flatlands and Italian alps lies Lago di Como. Beyond the glamourous waterside, there are roads leading to hundreds of wonderful divergences.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ride of the Month: February. (La Gazette de café du cycliste)]]></title>
@@ -260,6 +260,59 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/autumn-colours-of-seoul/"/>
         <updated>2022-01-11T03:25:02.816Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/autumn-colours-of-seoul/" title="Autumn colours of Seoul"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/Seoul_ImageFeature1-08-01-22.jpg" alt="Autumn colours of Seoul"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/autumn-colours-of-seoul/" title="Autumn colours of Seoul">ROULER</a></h2><p><strong>Autumn Colours of Seoul. </strong>Seoul is quite a unique city. It also contains no less than five UNESCO World Heritage sites and, with the popularity of road cycling in Asia on the rise, numerous pro-cycling events take place here. But on the menu today is a scenic ride that takes us along the city’s beautiful Han River.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gravel Adventure Field Guide for Patagonia AZ (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
+        <id>https://www.gravelstoke.com/gravel-cycling-gear-blog/gravel-adventure-field-guide-patagonia-az</id>
+        <link href="https://www.gravelstoke.com/gravel-cycling-gear-blog/gravel-adventure-field-guide-patagonia-az"/>
+        <updated>2022-03-01T14:05:29.900Z</updated>
+        <content type="html"><![CDATA[<div class="BlogList-item-image">
+          <a href="/gravel-cycling-gear-blog/gravel-adventure-field-guide-patagonia-az" class="BlogList-item-image-link" style="overflow: hidden;">
+            <img data-src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1646110146294-2K3AVN1SMKSNPQ9NZQ80/patagonia+az+gravel+adventure+field+guide+cactus_gravelstoke.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1646110146294-2K3AVN1SMKSNPQ9NZQ80/patagonia+az+gravel+adventure+field+guide+cactus_gravelstoke.jpg" data-image-dimensions="2000x1333" data-image-focal-point="0.5,0.5" data-load="false" data-parent-ratio="1.5" style="font-size: 0px; left: -0.0303826px; top: 0px; width: 243.061px; height: 162px; position: relative;" alt="Gravel Adventure Field Guide for Patagonia AZ" class="" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1646110146294-2K3AVN1SMKSNPQ9NZQ80/patagonia+az+gravel+adventure+field+guide+cactus_gravelstoke.jpg?format=300w">
+          </a>
+        </div>
+      
+
+
+      <a href="/gravel-cycling-gear-blog/gravel-adventure-field-guide-patagonia-az" class="BlogList-item-title" data-content-field="title">Gravel Adventure Field Guide for Patagonia AZ</a>
+
+      
+        
+          <div class="BlogList-item-excerpt">
+            <p class="">The Patagonia Arizona Gravel Adventure Field Guide is a pocket-sized route, travel, and story book with the adventure cyclist in mind. Here’s the scoop on the 2nd guide from the team that brought you the first guide book on Trinidad, CO gravel.</p>
+            <a href="/gravel-cycling-gear-blog/gravel-adventure-field-guide-patagonia-az" class="BlogList-item-readmore">
+              <span>Read More</span>
+            </a>
+          </div>
+        
+      
+
+      <div class="Blog-meta BlogList-item-meta">
+        <!--
+
+        Categories
+
+        --><span class="Blog-meta-item Blog-meta-item--categories"><a href="/gravel-cycling-gear-blog/category/Reports" class="Blog-meta-item-category">Reports</a></span><!--
+
+        Author
+
+        --><a href="/gravel-cycling-gear-blog?author=52bef4e3e4b052e013556378" class="Blog-meta-item Blog-meta-item--author">Dave Malwitz</a><!--
+
+        Date
+
+        --><time class="Blog-meta-item Blog-meta-item--date" datetime="2022-03-01">March 1, 2022</time><!--
+
+        Tags
+
+        --><span class="Blog-meta-item Blog-meta-item--tags"><a href="/gravel-cycling-gear-blog/tag/gravel+adventure+field+guide" class="Blog-meta-item-tag">gravel adventure field guide</a>, <a href="/gravel-cycling-gear-blog/tag/gravel+routes" class="Blog-meta-item-tag">gravel routes</a>, <a href="/gravel-cycling-gear-blog/tag/arizona+gravel" class="Blog-meta-item-tag">arizona gravel</a>, <a href="/gravel-cycling-gear-blog/tag/arizona" class="Blog-meta-item-tag">arizona</a>, <a href="/gravel-cycling-gear-blog/tag/patagonia+az" class="Blog-meta-item-tag">patagonia az</a></span><!--
+
+        Comments
+
+
+        --><span class="Blog-meta-item Blog-meta-item--comments">
+  <a href="https://www.gravelstoke.com/gravel-cycling-gear-blog/gravel-adventure-field-guide-patagonia-az#disqus_thread" class="sqs-comment-link sqs-disqus-comment-link" data-id="621da54ed9fbb70eb8e00053">Comments</a>
+</span>
+      </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022 Gravelstoke Kit Presale (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
@@ -1241,59 +1294,6 @@
         Tags
 
         --><span class="Blog-meta-item Blog-meta-item--tags"><a href="/gravel-cycling-gear-blog/tag/top+5+gifts+for+the+gravel+cyclist" class="Blog-meta-item-tag">top 5 gifts for the gravel cyclist</a>, <a href="/gravel-cycling-gear-blog/tag/best+cycling+gifts" class="Blog-meta-item-tag">best cycling gifts</a>, <a href="/gravel-cycling-gear-blog/tag/holiday+gift+guide" class="Blog-meta-item-tag">holiday gift guide</a>, <a href="/gravel-cycling-gear-blog/tag/best+cycling+gear" class="Blog-meta-item-tag">best cycling gear</a>, <a href="/gravel-cycling-gear-blog/tag/enve+handlebar+tape+review" class="Blog-meta-item-tag">enve handlebar tape review</a>, <a href="/gravel-cycling-gear-blog/tag/velocio+trail+glove+review" class="Blog-meta-item-tag">velocio trail glove review</a>, <a href="/gravel-cycling-gear-blog/tag/velocio+trail+gloves" class="Blog-meta-item-tag">velocio trail gloves</a>, <a href="/gravel-cycling-gear-blog/tag/hiplock+z+lock+review" class="Blog-meta-item-tag">hiplock z lock review</a>, <a href="/gravel-cycling-gear-blog/tag/untapped+nutrition+review" class="Blog-meta-item-tag">untapped nutrition review</a>, <a href="/gravel-cycling-gear-blog/tag/untapped+mapleaid" class="Blog-meta-item-tag">untapped mapleaid</a>, <a href="/gravel-cycling-gear-blog/tag/best+gifts+for+cyclists" class="Blog-meta-item-tag">best gifts for cyclists</a>, <a href="/gravel-cycling-gear-blog/tag/cyclist+gift+guide" class="Blog-meta-item-tag">cyclist gift guide</a>, <a href="/gravel-cycling-gear-blog/tag/top+gravel+cycling+products" class="Blog-meta-item-tag">top gravel cycling products</a>, <a href="/gravel-cycling-gear-blog/tag/list" class="Blog-meta-item-tag">list</a>, <a href="/gravel-cycling-gear-blog/tag/k-edge" class="Blog-meta-item-tag">k-edge</a>, <a href="/gravel-cycling-gear-blog/tag/orucase" class="Blog-meta-item-tag">orucase</a>, <a href="/gravel-cycling-gear-blog/tag/finish+line" class="Blog-meta-item-tag">finish line</a>, <a href="/gravel-cycling-gear-blog/tag/topeak" class="Blog-meta-item-tag">topeak</a>, <a href="/gravel-cycling-gear-blog/tag/bivo" class="Blog-meta-item-tag">bivo</a></span>
-      </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Dev Team Raffle Winners (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
-        <id>https://www.gravelstoke.com/gravel-cycling-gear-blog/2021-dev-team-raffle-winners</id>
-        <link href="https://www.gravelstoke.com/gravel-cycling-gear-blog/2021-dev-team-raffle-winners"/>
-        <updated>2021-12-08T02:37:42.144Z</updated>
-        <content type="html"><![CDATA[<div class="BlogList-item-image">
-          <a href="/gravel-cycling-gear-blog/2021-dev-team-raffle-winners" class="BlogList-item-image-link" style="overflow: hidden;">
-            <img data-src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1638419531155-ICD92LCPA35GLWSEX42C/gravelstoke-dev-team-raffle-2021_KENDA.JPG" data-image="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1638419531155-ICD92LCPA35GLWSEX42C/gravelstoke-dev-team-raffle-2021_KENDA.JPG" data-image-dimensions="2000x1333" data-image-focal-point="0.5,0.5" data-load="false" data-parent-ratio="1.5" style="font-size: 0px; left: -0.0303826px; top: 0px; width: 243.061px; height: 162px; position: relative;" alt="2021 Dev Team Raffle Winners" class="" data-image-resolution="300w" src="https://images.squarespace-cdn.com/content/v1/5a4a74508dd0413edd3548e0/1638419531155-ICD92LCPA35GLWSEX42C/gravelstoke-dev-team-raffle-2021_KENDA.JPG?format=300w">
-          </a>
-        </div>
-      
-
-
-      <a href="/gravel-cycling-gear-blog/2021-dev-team-raffle-winners" class="BlogList-item-title" data-content-field="title">2021 Dev Team Raffle Winners</a>
-
-      
-        
-          <div class="BlogList-item-excerpt">
-            <p class="">Last week we announced all 8 prizes in our very first Gravelstoke Dev Team Raffle. Today we are excited to share Dev Team member names who will be receiving each prize.</p>
-            <a href="/gravel-cycling-gear-blog/2021-dev-team-raffle-winners" class="BlogList-item-readmore">
-              <span>Read More</span>
-            </a>
-          </div>
-        
-      
-
-      <div class="Blog-meta BlogList-item-meta">
-        <!--
-
-        Categories
-
-        --><span class="Blog-meta-item Blog-meta-item--categories"><a href="/gravel-cycling-gear-blog/category/News" class="Blog-meta-item-category">News</a></span><!--
-
-        Author
-
-        --><a href="/gravel-cycling-gear-blog?author=52bef4e3e4b052e013556378" class="Blog-meta-item Blog-meta-item--author">Dave Malwitz</a><!--
-
-        Date
-
-        --><time class="Blog-meta-item Blog-meta-item--date" datetime="2021-12-07">December 7, 2021</time><!--
-
-        Tags
-
-        --><span class="Blog-meta-item Blog-meta-item--tags"><a href="/gravel-cycling-gear-blog/tag/raffle" class="Blog-meta-item-tag">raffle</a>, <a href="/gravel-cycling-gear-blog/tag/gravelstoke+giveaway" class="Blog-meta-item-tag">gravelstoke giveaway</a>, <a href="/gravel-cycling-gear-blog/tag/giveaway" class="Blog-meta-item-tag">giveaway</a>, <a href="/gravel-cycling-gear-blog/tag/gravelstoke+dev+team" class="Blog-meta-item-tag">gravelstoke dev team</a>, <a href="/gravel-cycling-gear-blog/tag/memberstory" class="Blog-meta-item-tag">memberstory</a></span><!--
-
-        Comments
-
-
-        --><span class="Blog-meta-item Blog-meta-item--comments">
-  <a href="https://www.gravelstoke.com/gravel-cycling-gear-blog/2021-dev-team-raffle-winners#disqus_thread" class="sqs-comment-link sqs-disqus-comment-link" data-id="61a84485303ae90453bb9c2e">1 Comment</a>
-</span>
       </div>]]></content>
     </entry>
 </feed>
