@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-03-16T13:05:59.063Z</updated>
+    <updated>2022-03-16T14:01:46.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=2d5863c07fd12501fc9471c6355c</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=3089bc2459b94113c6f646520d41</icon>
+    <entry>
+        <title type="html"><![CDATA[An agent-based model to simulate the boosted Sterile Insect Technique for fruit fly management]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/5WELPP</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/5WELPP"/>
+        <updated>2022-03-16T14:01:32.481Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/5WELPP"><span style="padding:4px 0;">An agent-based model to simulate the boosted Sterile Insect Technique for fruit fly management</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/5WELPP"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Mar 16, 2022</span><span class="text-muted"> - </span><a href="/dataverse/cbgp">UMR CBGP</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">DIOUF, Esther; PIOU, Cyril, 2022, "An agent-based model to simulate the boosted Sterile Insect Technique for fruit fly management", <a href="https://doi.org/10.18167/DVN1/5WELPP" target="_blank">https://doi.org/10.18167/DVN1/5WELPP</a>, CIRAD Dataverse, V1
+                        </div>Multi-agent model BOOSTIT source code for NetLogo (v. 6.1.1)</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Annotation of epidemiological information in animal disease-related news articles: guidelines and manually labelled corpus]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YGAKNB</id>
@@ -60,10 +78,10 @@
                         </div>This dataset contains all data collected during a 3 year-survey around Montpellier to study the breeding phenology and breeding success of the anuran Pelodytes punctatus.</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[4]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-03-16T13:05:44.966Z</updated>
+        <updated>2022-03-16T14:01:32.415Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -110,10 +128,10 @@
                         </div>The profitability assessment is based on data on costs and yields per hectare for the F1 hyrbid variety 'Starmaya' and a local variety.</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[7]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-03-16T13:05:44.970Z</updated>
+        <updated>2022-03-16T14:01:32.419Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/diade"><span style="padding:4px 0;">UMR DIADE</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD, IRD, Université de Montpellier)</span>
@@ -158,23 +176,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Beillouin, Damien; Demenois, Julien; Cardinael, Rémi; Berre, David; Corbeels, Marc; Fallot, Abigaïl; Boyer, Annie; Feder, Frédéric, 2021, "A global database of land management, land-use change and climate change effects on soil organic carbon", <a href="https://doi.org/10.18167/DVN1/KKPLR8" target="_blank">https://doi.org/10.18167/DVN1/KKPLR8</a>, CIRAD Dataverse, V2
                         </div>This dataset comprises data from a systematic review done after a comprehensive literature search using Scopus, Web of Science, Ovid publisher and Google Scholar for peer-reviewed meta-analyses and systematic reviews up to early 2020 that reported on soil organic carbon. This glo...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genotypic and phenotypic dataset for Grain yield in an indica rice diversity panel]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1ATYE</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1ATYE"/>
-        <updated>2022-02-03T09:02:13.950Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1ATYE"><span style="padding:4px 0;">Genotypic and phenotypic dataset for Grain yield in an indica rice diversity panel</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/Z1ATYE"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Jan 28, 2022</span><span class="text-muted"> - </span><a href="/dataverse/agap">UMR AGAP</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">DJERRAB Doâa; DINGKUHN Michael; GRENIER Cecile; FROUIN julien; Julie Mae Criste Pasuquin; REBOLLEDO Maria-Camila, 2022, "Genotypic and phenotypic dataset for Grain yield in an indica rice diversity panel", <a href="https://doi.org/10.18167/DVN1/Z1ATYE" target="_blank">https://doi.org/10.18167/DVN1/Z1ATYE</a>, CIRAD Dataverse, V1, UNF:6:gfiklsdOzEjPuBMqUpXnMw== [fileUNF]
-                        </div>Genotyping and phenotypic dataset for GWAS analysis of Phenomics of Rice Adaptation and Yield (PRAY) project conducted in China, Colombia, India, Phillipines, Senegal from 2011 to 2016. Genotyping matrix contains 208 631 SNPs x 281 accessions of PRAY project. Phenotypic data are...</div>]]></content>
     </entry>
 </feed>
