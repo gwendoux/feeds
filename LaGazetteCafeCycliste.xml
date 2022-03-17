@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2022-03-17T13:06:58.521Z</updated>
+    <updated>2022-03-17T16:01:38.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Best Brasucade in the World.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/"/>
+        <updated>2022-03-17T16:01:32.054Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/" title="The Best Brasucade in the World"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/03/feature_image_2-17-03-22.jpg" alt="The Best Brasucade in the World"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/" title="The Best Brasucade in the World">LA VIE</a></h2><p><strong>The Best Brasucade in the World. </strong> A meal at the end of exploring the Camargue, home to flamboyant flamingoes and brooding bulls. Fresh Mediterranean mussels from the local fishing port, with a sauce made of olive oil, herbs and Pastis.</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cycling and Creativity: Pierre Léopold.]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-pierre-leopold/</id>
@@ -82,12 +89,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/"/>
         <updated>2022-02-03T09:02:23.446Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/" title="Coins Cachés Boulder"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/featureimage-CC-boulder-17-01-22.jpg" alt="Coins Cachés Boulder"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/" title="Coins Cachés Boulder">ROULER</a></h2><p><strong>Coins Cachés: Boulder, Colorado.</strong> Nestled on the eastern aspect of the foothills of the Colorado Rockies, the city of Boulder (population ~100,000) is a unique and idyllic hub for outdoor recreation—including cycling.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nissa La Bella Through the Seasons: The Lookbook.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/nissa-la-bella-through-the-seasons/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/nissa-la-bella-through-the-seasons/"/>
-        <updated>2022-02-03T09:02:23.446Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/nissa-la-bella-through-the-seasons/" title="Nissa La Bella Through the Seasons"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/Lookbook-Riding-Nice-2022-feature-image-13-01-22.jpg" alt="Nissa La Bella Through the Seasons"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/nissa-la-bella-through-the-seasons/" title="Nissa La Bella Through the Seasons">LA MAISON</a></h2><p><strong> Nissa La Bella Through the Seasons: The Lookbook. </strong> A city by the sea but not only. A place in the sun but not just. Nice is a cycling paradise twelve months a year and always, always, worth a visit.</p>]]></content>
     </entry>
 </feed>
