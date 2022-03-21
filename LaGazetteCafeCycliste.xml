@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2022-03-21T11:02:14.175Z</updated>
+    <updated>2022-03-21T12:05:12.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Jebel Jais – A Mountain in the Desert.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/jebel-jais-a-mountain-in-the-desert/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/jebel-jais-a-mountain-in-the-desert/"/>
-        <updated>2022-03-21T11:02:06.903Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/jebel-jais-a-mountain-in-the-desert/" title="Jebel Jais – A Mountain in the Desert"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/03/UAEPass_Feature-Image1-16-03-22.jpg" alt="Jebel Jais – A Mountain in the Desert"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/jebel-jais-a-mountain-in-the-desert/" title="Jebel Jais – A Mountain in the Desert">ROULER</a></h2><p><strong>Jebel Jais – A Mountain in the Desert. </strong>What might you expect from a bike ride in the desert? Sand in your face, crosswinds dragging at your wheels, and an unbearable heat? Not quite. The United Arab Emirates is a burgeoning cycling scene in a place you might not expect.</p>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Brasucade in the World.]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/</id>
@@ -89,5 +82,12 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-january-2022/"/>
         <updated>2022-02-03T09:02:23.442Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-january-2022/" title="Ride of the Month January 2022"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/Duranus-19-25-01-22.jpg" alt="Ride of the Month January 2022"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/ride-of-the-month-january-2022/" title="Ride of the Month January 2022">LA MAISON</a></h2><p><strong> Ride of the Month: January.</strong> Exiting Nice from the north side, this ride provides a healthy mélange of architectural and natural landmarks, with a side of local legend.  </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coins Cachés: Boulder, Colorado.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/"/>
+        <updated>2022-03-21T12:05:06.409Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/" title="Coins Cachés Boulder"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/01/featureimage-CC-boulder-17-01-22.jpg" alt="Coins Cachés Boulder"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-boulder/" title="Coins Cachés Boulder">ROULER</a></h2><p><strong>Coins Cachés: Boulder, Colorado.</strong> Nestled on the eastern aspect of the foothills of the Colorado Rockies, the city of Boulder (population ~100,000) is a unique and idyllic hub for outdoor recreation—including cycling.</p>]]></content>
     </entry>
 </feed>
