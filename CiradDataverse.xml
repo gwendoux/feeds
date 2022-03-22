@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-03-22T11:16:31.643Z</updated>
+    <updated>2022-03-22T12:01:47.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=15773b2fcd46806736e8a99a8151</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=180e7f36d120ad085b41825203b7</icon>
+    <entry>
+        <title type="html"><![CDATA[Landscape matrix map at 2.2 5km2 scale of a 84 km2 part of the Vavatenina District, Analanjirofo Region, Madagascar, 2019]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/WDIJ8S</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/WDIJ8S"/>
+        <updated>2022-03-22T12:01:32.259Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/WDIJ8S"><span style="padding:4px 0;">Landscape matrix map at 2.2 5km2 scale of a 84 km2 part of the Vavatenina District, Analanjirofo Region, Madagascar, 2019</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/WDIJ8S"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAArCAYAAAA+EwvfAAAFPElEQVR42tWZ208cVRzH+Rc0MSKtl2oiVi62ifpgNPFSmwqlRBub+O5LI43GaDS60N0FmtauEdMuhdLKXmd2B5QijZcnE231oYmk0bbALnujkoYg7MzO7AVYfp6ZZWd3dubMzuwuy/rwDTDMnvP9nN+5/M5v60Kuk5AVy3l1KTpng5UUBcy1AchvB+Jj6KdR+D3i6oaQu1vy/3ztff0BeLrtIayKeagrByBfEcIktBEkPkd/k1jDhbpHnsGaj9LO4gCeC10QZUYhlvRIDX1vBr/DANySRxMAt0QJhpJxry6AkKcXP/ookkUBfpkwSB6k49/B8s2L0k5+/1ITRDzhBYahYGOR0g6AhAPYe/QJCBFGdQCas0se4Drh4vhIJGIoAnFKUztKan7zEUWAJ9vrt/rOtV3oo67QDK4TlqWwAOC/KIpj3LB6Z1gXwHVvHzYK2XfW6Sn423ESwm4jJJLjsIqmNj/9RYBojIAE54GQvUexk6TKfMwH4OW3f6wLQG0aKb0bJs2CeQFgaPQdaHojt5W1HnlY8UNBW7d2ALT4KwWw4JYP6Jj1gxyA0oduDX+k2ln459Nbxkdk5nkFndJO59z90NKO5nRbA7bNZ9p3KQIcPNooe/cv6gt1gKZDaPF4jQDzl5FGZYZCV8yw6RtWNM8rNHFK0eS8s1v3dvpUW73sXZe1Cw/Q1Pko1hgER2AzYJU8o68Pwr0fLQURMOmeQsI03Roo/uezr9VDU3uDfPCQsuZlAI0ojFjzCrrtNogdSiJQgnk9wkZg/+E9ugD4QybbaMBhhDDRs+3mxShY35MD/Dv9tS4ACKL1Yf+saqYLdc1mkAKAf0gfAC/f6I4B8KqbufQJ/Gk3w4zLABuzF3QD7KR5AWCDHYMY64JN7iqk/ToBAjUAsMo6gEuNA4MSJgj+v0ZfAHh14K1cSuC7pNk8P91qAoBmCGxOU+ujLwC8fP4YJBIT2woQIfpQGmyqqPEFlJGKAC9aOoEa+hCYmyOazK+h97R0wq+rFO0BmiWB48bE58sJT1nm96GkMLv1CwBZUehkq0QEFij5FTTJERBn8p+5IWwzAk2P4dtBd5M9KIttyTNcKBHglXNvg/+3sxoPr8uqALMTZ2DG3iuDiLHK11Jc2SXo7VctucgikJ7TugbsmkLto8xispefVWaNh4lTYjlGSTe+MUnMth7ZDS0du/EA879qiwB3Y6TsRQjcFPjd6je3wkJBVlgAzbnQLWfZAImVqeK7l9OsCNB8uKFMgCqdA3fGLYoA+w7cJwd4afBYzR1k4StfKQKsca4cwLfW98E7dALSQXvNAbBx5doov5uJAPytJj2Hpk5oEWBhoeZSifmfLEAn5YuZiTozAPzoJ/0+ZD4iaPPuP8jgQFGAsKM6AAFXZvtNRaWFtdbOxzMAWeOF4k/K9SVHJkeaHYZoioIkkzmI0kvuqidtihXx5KQKgEotVG/xthLaoKeUq9M4gLXlP3KLJu6FFY6EtcVRiLNeCNqqYzr4w2nwey3q5XUcAJMgpfeE2dwZUenUGLuNTp4t/gUHDoBXLEEpFnHnHZ/u6NzXBLDpz5QQUzFSXrx19FYNIEAaS48Adhudrd4uFCZN2wBQ4YMsQPbAtK0Ppsk+aD5UD88j8Xv8c52PwV1XyQCTWPO4b0503WnH++H4uy+oXla0rAMsAGk9AextG7p9od0n4hKMr88MQmPH/ULjgauWks37CANMOkxFb1v8u4tEiWvAff64WMJ2nOuCpoO7hBuR+MVDR0NJ5vcfeLCo8XyAdGpCFeA/QmucK1Ez7yMAAAAASUVORK5CYII=" alt="Landscape matrix map at 2.2 5km2 scale of a 84 km2 part of the Vavatenina District, Analanjirofo Region, Madagascar, 2019">
+                            </a>
+                        </div><span class="text-muted">Mar 22, 2022</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Lelong, Camille; Herimandimby, Hasina, 2022, "Landscape matrix map at 2.2 5km2 scale of a 84 km2 part of the Vavatenina District, Analanjirofo Region, Madagascar, 2019", <a href="https://doi.org/10.18167/DVN1/WDIJ8S" target="_blank">https://doi.org/10.18167/DVN1/WDIJ8S</a>, CIRAD Dataverse, V1
+                        </div>This map gives the spatial distribution of the major land use in a cell of 1500km x 1500 km=2.25 km2, also called the landscape matrix, over an area of study of landscape dynamics in Madagascar. It consists of an area of 84 square kilometers located at the West of Vavatenina town...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Very high spatial resolution land use / land cover map of a 84km2 part of the Vavatenina District, Analanjirofo Region, Madagascar, 2019]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KDNOV4</id>
@@ -96,10 +114,10 @@
                         </div>This dataset contains all data collected during a 3 year-survey around Montpellier to study the breeding phenology and breeding success of the anuran Pelodytes punctatus.</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
+        <title type="html"><![CDATA[6]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-03-22T11:16:16.546Z</updated>
+        <updated>2022-03-22T12:01:32.190Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -146,10 +164,10 @@
                         </div>The profitability assessment is based on data on costs and yields per hectare for the F1 hyrbid variety 'Starmaya' and a local variety.</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-03-22T11:16:16.548Z</updated>
+        <updated>2022-03-22T12:01:32.192Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/diade"><span style="padding:4px 0;">UMR DIADE</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD, IRD, Université de Montpellier)</span>
@@ -158,23 +176,5 @@
                         </div><span class="text-muted" style="margin-right:.5em;">Feb 16, 2022</span>
 
                         <hr style="margin:.5em;border:0;">DIversity - Adaptation - plant DEvelopment The DIADE Research Unit aims to understand the diversification of tropical plants, one of the main original reservoirs of biodiversity, and for which conservation, management and exploitation are an important issue for Sustainable Develo...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeu de données sur des systèmes agroforestiers à palmier à huile capitalisés en 2020 dans le monde.]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD"/>
-        <updated>2022-02-15T16:02:42.950Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD"><span style="padding:4px 0;">Jeu de données sur des systèmes agroforestiers à palmier à huile capitalisés en 2020 dans le monde.</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/NQ7WJD"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Feb 15, 2022</span><span class="text-muted"> - </span><a href="/dataverse/innov">UMR Innovation</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Masure, Alix; Lacan, Xavier; Rafflegeau, Sylvain, 2022, "Jeu de données sur des systèmes agroforestiers à palmier à huile capitalisés en 2020 dans le monde.", <a href="https://doi.org/10.18167/DVN1/NQ7WJD" target="_blank">https://doi.org/10.18167/DVN1/NQ7WJD</a>, CIRAD Dataverse, V1
-                        </div>Ce jeu de données décrit 39 systèmes agroforestiers à base de palmier à huile identifiés dans le monde en 2020 par traque aux innovations. Une typologie de systèmes agroforestiers est présentée dans un article lié à ce jeu de données. Le jeu de données du fichier Excel présente :...</div>]]></content>
     </entry>
 </feed>
