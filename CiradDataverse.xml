@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-03-24T09:01:31.649Z</updated>
+    <updated>2022-03-24T10:01:48.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=b289c0b01bb97fcca7c740a28193</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=b5fc7d577c95d5cc6283eaa166fb</icon>
     <entry>
         <title type="html"><![CDATA[Landscape matrix map at 2.2 5km2 scale of a 84 km2 part of the Vavatenina District, Analanjirofo Region, Madagascar, 2019]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/WDIJ8S</id>
@@ -117,7 +117,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-03-24T09:01:17.864Z</updated>
+        <updated>2022-03-24T10:01:33.522Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -167,7 +167,7 @@
         <title type="html"><![CDATA[9]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-03-24T09:01:17.865Z</updated>
+        <updated>2022-03-24T10:01:33.523Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/diade"><span style="padding:4px 0;">UMR DIADE</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD, IRD, Université de Montpellier)</span>
