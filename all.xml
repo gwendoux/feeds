@@ -2,8 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T11:01:39.542Z</updated>
+    <updated>2022-03-31T12:01:51.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results (Newly published Datasets from Cirad Dataverse)]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA"/>
+        <updated>2022-03-31T12:01:38.921Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA"><span style="padding:4px 0;">OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Mar 31, 2022</span><span class="text-muted"> - </span><a href="/dataverse/hortsys">UPR HORTSYS</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Biard, Yannick; Kalboussi, Nesrine, 2021, "OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results", <a href="https://doi.org/10.18167/DVN1/YLP1BA" target="_blank">https://doi.org/10.18167/DVN1/YLP1BA</a>, CIRAD Dataverse, V4, UNF:6:GdahnlvAM+8Z+h24Gnd2kQ== [fileUNF]
+                        </div>This decision support tool was designed to evaluate the environment efficiency of wastewater reuse for agriculture irrigation among other options. The aim of this decision support tool is to guide the interpretation of LCA results by reducing, gradually, the non-discriminant impa...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code for: Forest refuge areas and carbon emissions from tropical deforestation in the 21st century (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/7N2BTU</id>
@@ -134,7 +152,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-03-31T11:01:25.813Z</updated>
+        <updated>2022-03-31T12:01:38.861Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -161,24 +179,6 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">El Jaouhari, Meryem; Coulis, Mathieu, 2022, "Jeu de données sur l'abondance des invertébrés du sol en fonction des pratiques agricoles dans les bananeraies de Martinique", <a href="https://doi.org/10.18167/DVN1/FBZYCT" target="_blank">https://doi.org/10.18167/DVN1/FBZYCT</a>, CIRAD Dataverse, V1, UNF:6:4ZfUCPdUHjpM4MGgv3VJeg== [fileUNF]
                         </div>[FR]Jeu de données sur l'abondance des invertébrés du sol collectés entre le 24/03/2018 et le 21/06/2018 dans des bananeraies, des forêts et des jachères enherbées de Martinique. 250 prélèvements ont été réalisés dans 25 parcelles à l'aide de quadrats de 25 x 25 cm. La litière ai...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Profitability assessment of the Coffee agroforestry business driven clusters (CaFC) (Newly published Datasets from Cirad Dataverse)]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX"/>
-        <updated>2022-02-16T14:02:24.366Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX"><span style="padding:4px 0;">Profitability assessment of the Coffee agroforestry business driven clusters (CaFC)</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Feb 16, 2022</span><span class="text-muted"> - </span><a href="/dataverse/diade">UMR DIADE</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Meter, Andrew; Penot, Eric; Vaast, Philippe; Etienne, Hervé; Ponçon, Eric; Bertrand, Benoit, 2022, "Profitability assessment of the Coffee agroforestry business driven clusters (CaFC)", <a href="https://doi.org/10.18167/DVN1/8RKHFX" target="_blank">https://doi.org/10.18167/DVN1/8RKHFX</a>, CIRAD Dataverse, V1, UNF:6:zZXzMKjevYvClZiNBmTKHg== [fileUNF]
-                        </div>The profitability assessment is based on data on costs and yields per hectare for the F1 hyrbid variety 'Starmaya' and a local variety.</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Guillaume Néry: Diving in at the Café. (La Gazette de café du cycliste)]]></title>
