@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-09T16:01:31.009Z</updated>
+    <updated>2022-04-09T17:03:10.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -152,7 +152,7 @@
         <title type="html"><![CDATA[undefined (Newly published Datasets from Cirad Dataverse)]]></title>
         <id>https://gwendoux.github.io/feeds/all.xml</id>
         <link href="https://gwendoux.github.io/feeds/all.xml"/>
-        <updated>2022-04-09T16:01:18.121Z</updated>
+        <updated>2022-04-09T17:02:59.251Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -181,89 +181,88 @@
                         </div>[FR]Jeu de données sur l'abondance des invertébrés du sol collectés entre le 24/03/2018 et le 21/06/2018 dans des bananeraies, des forêts et des jachères enherbées de Martinique. 250 prélèvements ont été réalisés dans 25 parcelles à l'aide de quadrats de 25 x 25 cm. La litière ai...</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing CDC GT. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/cdc_gt/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/cdc_gt/"/>
-        <updated>2022-04-08T11:01:19.767Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/cdc_gt/" title="CDC_GT"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/04/feature-image-CDCGT-06-04-22.jpg" alt="CDC_GT"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/cdc_gt/" title="CDC_GT">ROULER</a></h2><p><strong>Introducing CDC GT. </strong>Café du Cycliste’s first official racing team. Bringing together three dedicated riders, all hungry for big adventure on mixed terrain, the project will take them across the globe to experience the best of the world’s gravel competition.</p>]]></content>
+        <title type="html"><![CDATA[Présentation de CDC GT. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/cdc_gt/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/cdc_gt/"/>
+        <updated>2022-04-09T17:03:05.122Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/cdc_gt/" title="CDC_GT"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2010/04/feature-image-CDCGT-06-04-22.jpg" alt="CDC_GT"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/cdc_gt/" title="CDC_GT">ROULER</a></h2><p><strong>Présentation de CDC GT. </strong>La première équipe officielle de course de Café du Cycliste. Rassemblant trois cyclistes passionnées, avides de grandes aventures sur terrain mixte, le projet les emmènera au travers du globe pour se frotter aux meilleures compétitions gravel du monde.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[#WHATISGRAVEL - The Film. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/whatisgravel-the-film/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/whatisgravel-the-film/"/>
-        <updated>2022-04-08T11:01:19.767Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/whatisgravel-the-film/" title="#whatisgravel – The Film"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/04/WIG-feature-image-06-04-22.jpg" alt="#whatisgravel – The Film"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/whatisgravel-the-film/" title="#whatisgravel – The Film">FILMS</a></h2><p><strong>#WHATISGRAVEL - The Film.</strong> Gravel is a playground with infinite possibilities. Gravel is being able to ride anywhere, any time. Gravel is a dizzying feeling. Gravel is constantly renewed wonder.</p>]]></content>
+        <title type="html"><![CDATA[#WHATISGRAVEL - Le Film. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/whatisgravel-the-film/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/whatisgravel-the-film/"/>
+        <updated>2022-04-09T17:03:05.124Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/whatisgravel-the-film/" title="#whatisgravel – The Film"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2010/04/WIG-feature-image-06-04-22.jpg" alt="#whatisgravel – The Film"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/whatisgravel-the-film/" title="#whatisgravel – The Film">FILMS</a></h2><p><strong>#WHATISGRAVEL - Le Film.</strong> Le gravel est un terrain de jeu qui offre un nombre infini de possibilités. Le gravel, c'est être capable de rouler n'importe où, n'importe quand. Le gravel, c'est un sentiment vertigineux. Le gravel, c'est un émerveillement permanent.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Centifolia Lookbook SS22. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/lookbook-centifolia-ss22/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-centifolia-ss22/"/>
-        <updated>2022-04-08T11:01:19.773Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-centifolia-ss22/" title="Lookbook Centifolia SS22"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/03/Lookbook-Centifolia-2022-feature-image-31-03-22.jpg" alt="Lookbook Centifolia SS22"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/lookbook-centifolia-ss22/" title="Lookbook Centifolia SS22">COLLECTIONS</a></h2><p><strong>Centifolia Lookbook SS22. </strong> Created with local inspiration from Grasse, Provence’s perfume capital, Café du Cycliste’s new Centifolia collection is blooming with cultivated colour. Ride into summer smelling the flowers, and magically transport yourself to perfumed Provence.</p>]]></content>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/lookbook-centifolia-ss22/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/lookbook-centifolia-ss22/"/>
+        <updated>2022-04-09T17:03:05.137Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/lookbook-centifolia-ss22/" title="Lookbook Centifolia SS22"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2010/03/Lookbook-Centifolia-2022-feature-image-31-03-22.jpg" alt="Lookbook Centifolia SS22"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/lookbook-centifolia-ss22/" title="Lookbook Centifolia SS22">COLLECTIONS</a></h2><p><strong>Centifolia Lookbook SS22. </strong> Inspirée par la proximité de Grasse, capitale du parfum de la Provence, la collection Centifolia de Café du Cycliste met à l'honneur les fleurs de la région. Emportez ces fleurs aromatiques dans vos sorties d'été et laissez-vous transporter comme par magie sur les coteaux parfumés de la Provence.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Rose by Any Other Name. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/absolute-rose-2022/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/absolute-rose-2022/"/>
-        <updated>2022-04-08T11:01:19.777Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/absolute-rose-2022/" title="Absolute Rose 2022"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/03/featureimage-31-03-22.jpg" alt="Absolute Rose 2022"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/absolute-rose-2022/" title="Absolute Rose 2022">COLLECTIONS</a></h2><p><strong>A Rose by Any Other Name.</strong> A stone’s throw from the birthplace of Café du Cycliste, Grasse is the French capital of perfume and rose cultivation. The Centifolia is known as the Provence Rose, and is a gift from the land of the region. </p>]]></content>
+        <title type="html"><![CDATA[Une Rose aux multiples noms. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/absolute-rose-2022/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/absolute-rose-2022/"/>
+        <updated>2022-04-09T17:03:05.142Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/absolute-rose-2022/" title="Absolute Rose 2022"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2010/03/featureimage-31-03-22.jpg" alt="Absolute Rose 2022"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/absolute-rose-2022/" title="Absolute Rose 2022">COLLECTIONS</a></h2><p><strong>Une Rose aux multiples noms. </strong>Située à deux pas du berceau de Café du Cycliste, Grasse est la capitale française du parfum et de la roseraie. La Centifolia est connue comme la Rose de Provence; et est un véritable cadeau du sol de la région.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guillaume Néry: Diving in at the Café. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-at-the-cafe/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-at-the-cafe/"/>
-        <updated>2022-04-08T11:01:19.810Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-at-the-cafe/" title="Guillaume Néry at the Café"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/03/Guillaume_FeatureImage3-28-03-22.jpg" alt="Guillaume Néry at the Café"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/guillaume-nery-at-the-cafe/" title="Guillaume Néry at the Café">LA MAISON</a></h2><p><strong>Guillaume Néry: Diving in at the Café.</strong> It took five magical minutes to understand the dimension of free-diving champion and Caravan member, Guillaume Néry.  To watch him sit and hold his breath for five minutes was a drop in the ocean on the way to understanding what’s required in this super-human sport.</p>]]></content>
+        <title type="html"><![CDATA[Guillaume Néry: Plonger au Café. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/guillaume-nery-at-the-cafe/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/guillaume-nery-at-the-cafe/"/>
+        <updated>2022-04-09T17:03:05.143Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/guillaume-nery-at-the-cafe/" title="Guillaume Néry at the Café"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2022/03/Guillaume_FeatureImage3-28-03-22.jpg" alt="Guillaume Néry at the Café"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/guillaume-nery-at-the-cafe/" title="Guillaume Néry at the Café">CARAVAN</a></h2><p><strong>Guillaume Néry: Plonger au Café.</strong> Il n’aura fallut que cinq magiques minutes pour se rendre compte de la dimension de Guillaume Néry, Champion d’apnée et membre Caravan. Cinq minutes assis, à retenir son souffle. Ce moment ne fût qu’une goutte d’eau dans la mer pour comprendre ce sport surhumain.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anton Krupicka: Farwell to Winter. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/anton-krupicka-farewell-to-winter/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/anton-krupicka-farewell-to-winter/"/>
-        <updated>2022-04-08T11:01:19.810Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/anton-krupicka-farewell-to-winter/" title="Anton Krupicka: Farewell to Winter"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/03/feature-image-krupicka-220322.jpg" alt="Anton Krupicka: Farewell to Winter"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/anton-krupicka-farewell-to-winter/" title="Anton Krupicka: Farewell to Winter">LA MAISON</a></h2><p><strong> Anton Krupicka: Farwell to Winter.</strong> It is said that the ride should be about the journey, not the destination. However, for Anton Krupicka and Hailey Moore, a recent trip in the Colorado mountains proved it’s about both.</p>]]></content>
+        <title type="html"><![CDATA[Anton Krupicka : Adieu l'hiver. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/anton-krupicka-farewell-to-winter/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/anton-krupicka-farewell-to-winter/"/>
+        <updated>2022-04-09T17:03:05.143Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/anton-krupicka-farewell-to-winter/" title="Anton Krupicka: Farewell to Winter"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2022/03/feature-image-krupicka-220322.jpg" alt="Anton Krupicka: Farewell to Winter"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/anton-krupicka-farewell-to-winter/" title="Anton Krupicka: Farewell to Winter">CARAVAN</a></h2><p><strong>Anton Krupicka : Adieu l'hiver. </strong> On dit souvent que ce qui compte, c'est le chemin, pas la destination. Mais pour Anton Krupicka et Hailey Moore, un récent séjour dans les montagnes du Colorado a prouvé que ce sont les deux.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Best Brasucade in the World. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/"/>
-        <updated>2022-04-08T11:01:19.810Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/" title="The Best Brasucade in the World"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/03/feature_image_2-17-03-22.jpg" alt="The Best Brasucade in the World"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/" title="The Best Brasucade in the World">LA VIE</a></h2><p><strong>The Best Brasucade in the World. </strong> A meal at the end of exploring the Camargue, home to flamboyant flamingoes and brooding bulls. Fresh Mediterranean mussels from the local fishing port, with a sauce made of olive oil, herbs and Pastis.</p>]]></content>
+        <title type="html"><![CDATA[La meilleure Brasucade du Monde. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/the-best-brasucade-in-the-world/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/the-best-brasucade-in-the-world/"/>
+        <updated>2022-04-09T17:03:05.144Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/the-best-brasucade-in-the-world/" title="The Best Brasucade in the World"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2022/03/feature_image_2-17-03-22.jpg" alt="The Best Brasucade in the World"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/the-best-brasucade-in-the-world/" title="The Best Brasucade in the World">LA VIE</a></h2><p><strong>La meilleure Brasucade du Monde. </strong>Un met qui clôt à la perfection un ride d’exploration entre potes au milieu des taureaux et des grands oiseaux de Camargue. Les moules méditerranéennes fraichement sorties du port, composées d'une sauce à base d'huile d'olive, d'herbes et de Pastis.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ride & Create: Pierre Léopold. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-pierre-leopold/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-pierre-leopold/"/>
-        <updated>2022-04-08T11:01:19.813Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-pierre-leopold/" title="Cycling and Creativity: Pierre Léopold"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/03/Pierre_creativity-featureImage3-04-03-22.jpg" alt="Cycling and Creativity: Pierre Léopold"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/cycling-and-creativity-pierre-leopold/" title="Cycling and Creativity: Pierre Léopold">LA VIE</a></h2><p><strong>Ride &amp; Create: Pierre Léopold.</strong> Pierre is a specialist in Drosophila, the fruit fly that is used to understand genetics. Outside the laboratory, cycling is for Pierre essential, and he explains to us that riding and research form a complementary whole.</p>]]></content>
+        <title type="html"><![CDATA[Cyclisme et Créativité : Pierre Léopold. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/cycling-and-creativity-pierre-leopold/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/cycling-and-creativity-pierre-leopold/"/>
+        <updated>2022-04-09T17:03:05.149Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/cycling-and-creativity-pierre-leopold/" title="Cycling and Creativity: Pierre Léopold"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2022/03/Pierre_creativity-featureImage3-04-03-22.jpg" alt="Cycling and Creativity: Pierre Léopold"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/cycling-and-creativity-pierre-leopold/" title="Cycling and Creativity: Pierre Léopold">LA VIE</a></h2><p><strong>Cyclisme et Créativité : Pierre Léopold.</strong> Pierre est spécialiste de la drosophile, la mouche à fruit utilisée pour comprendre la génétique. En dehors de son laboratoire, le cyclisme occupe une place essentielle dans la vie de Pierre, qui nous explique que faire de la recherche et rouler sont complémentaires.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Lozère: Hellhound on the Trail. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/the-lozere-hellhound-on-the-trail/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/the-lozere-hellhound-on-the-trail/"/>
-        <updated>2022-04-08T11:01:19.813Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/the-lozere-hellhound-on-the-trail/" title="The Lozère: Hellhound on the Trail"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/03/Bete-090322.jpg" alt="The Lozère: Hellhound on the Trail"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/the-lozere-hellhound-on-the-trail/" title="The Lozère: Hellhound on the Trail">ROULER</a></h2><p><strong>The Lozère: Hellhound on the Trail. </strong>Lozère in the Massif Central is typical of France Profonde. Connected by quiet and winding roads, there is very little traffic, a cyclist’s dream.  One question, why is it so deserted?</p>]]></content>
+        <title type="html"><![CDATA[Lozère : Sur Les Traces de la Bête. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/the-lozere-hellhound-on-the-trail/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/the-lozere-hellhound-on-the-trail/"/>
+        <updated>2022-04-09T17:03:05.174Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/the-lozere-hellhound-on-the-trail/" title="The Lozère: Hellhound on the Trail"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2010/03/Bete-090322.jpg" alt="The Lozère: Hellhound on the Trail"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/the-lozere-hellhound-on-the-trail/" title="The Lozère: Hellhound on the Trail">ROULER</a></h2><p><strong>Lozère : Sur Les Traces de la Bête. </strong>La Lozère, dans le Massif Central, un lieu typique de la France profonde. traversée par des routes tranquilles et sinueuses peu fréquentées, la Lozère est un rêve de cyclistes.  </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ride of the Month: March. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/rotm-march-2022/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-march-2022/"/>
-        <updated>2022-04-08T11:01:19.899Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-march-2022/" title="ROTM March 2022"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/03/featureimage-rotm_march-040322.jpg" alt="ROTM March 2022"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-march-2022/" title="ROTM March 2022">LA MAISON</a></h2><p><strong> Ride of the Month: March. </strong>In the world of cycle racing, Milan–San Remo is one of the most prestigious events of the season. To win this trophy is to have your name chiseled into history. But only if you’re a man. </p>]]></content>
+        <title type="html"><![CDATA[La sortie du mois: Mars. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/rotm-march-2022/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/rotm-march-2022/"/>
+        <updated>2022-04-09T17:03:05.175Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/rotm-march-2022/" title="ROTM March 2022"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2022/03/featureimage-rotm_march-040322.jpg" alt="ROTM March 2022"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/rotm-march-2022/" title="ROTM March 2022">LA MAISON</a></h2><p><strong> La sortie du mois: Mars. </strong> Dans le monde du cyclisme, Milan-San Remo est l’une des courses les plus prestigieuse de la saison. Gagner ce trophée signifie marquer l’histoire du cyclisme. Mais seulement pour les hommes. </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coins Cachés: Lago di Como. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/"/>
-        <updated>2022-04-08T11:01:19.900Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/" title="Coins Cachés Lake Como"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2010/02/Bellagio-a-Brunate-03-Varenna-1-25-02-22.jpg" alt="Coins Cachés Lake Como"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/coins-caches-lake-como/" title="Coins Cachés Lake Como">ROULER</a></h2><p><strong>Coins Cachés: Lago di Como.</strong> At the convergence of the Lombardian flatlands and Italian alps lies Lago di Como. Beyond the glamourous waterside, there are roads leading to hundreds of wonderful divergences.</p>]]></content>
+        <title type="html"><![CDATA[Coins Cachés: Lac de Côme. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/coins-caches-lake-como/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/coins-caches-lake-como/"/>
+        <updated>2022-04-09T17:03:05.176Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/coins-caches-lake-como/" title="Coins Cachés Lake Como"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2010/02/Bellagio-a-Brunate-03-Varenna-1-25-02-22.jpg" alt="Coins Cachés Lake Como"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/coins-caches-lake-como/" title="Coins Cachés Lake Como">ROULER</a></h2><p><strong>Coins Cachés: Lac de Côme.</strong> Le Lac de Côme se trouve à l'endroit même où la plaine Lombarde et les montagnes Alpines convergent. De nombreuses routes viennent ravir les cyclistes - que ce soit,  des pentes raides dans les montées à proximité, des plaines et des petits villages italiens cachés.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ride of the Month: February. (La Gazette de café du cycliste)]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/rotm-feb-2022/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-feb-2022/"/>
-        <updated>2022-04-08T11:01:19.901Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-feb-2022/" title="ROTM FEB 2022"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/02/AM5A9704-Modifier-20-02-22-2.jpg" alt="ROTM FEB 2022"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/rotm-feb-2022/" title="ROTM FEB 2022">LA MAISON</a></h2><p><strong>Ride of the Month: February.</strong> The Tour des Alpes Maritimes is an early test for hill racers. But we ourselves are not here to race. We’re here to discover what the Riviera has to offer the amateur cyclist.
-</p>]]></content>
+        <title type="html"><![CDATA[La Sortie du Mois : Février. (La Gazette de café du cycliste)]]></title>
+        <id>https://www.cafeducycliste.com/fr_fr/la-gazette/rotm-feb-2022/</id>
+        <link href="https://www.cafeducycliste.com/fr_fr/la-gazette/rotm-feb-2022/"/>
+        <updated>2022-04-09T17:03:05.176Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/fr_fr/la-gazette/rotm-feb-2022/" title="ROTM FEB 2022"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/wp-content/uploads/2010/02/AM5A9704-Modifier-20-02-22-2.jpg" alt="ROTM FEB 2022"></a> </div><h2><a href="https://www.cafeducycliste.com/fr_fr/la-gazette/rotm-feb-2022/" title="ROTM FEB 2022">LA MAISON</a></h2><p><strong>La Sortie du Mois : Février.</strong> Le Tour des Alpes Maritimes est un test de début de saison pour les grimpeurs. Mais nous ne sommes pas venus pour faire la course. Nous profitons de l’évènement et du tracé pour découvrir ce que la Côte d’Azur a à offrir aux cyclistes amateurs.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GS Dev Team Patch Photo Contest (Gravel Cycling Gear Blog — Gravelstoke)]]></title>
