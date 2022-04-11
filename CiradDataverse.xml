@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-04-11T10:01:41.080Z</updated>
+    <updated>2022-04-11T11:01:48.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=812297c83e3114277cc1b1420519</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=8493b4b409de87929de9d39c1276</icon>
+    <entry>
+        <title type="html"><![CDATA[Zoneamento participativo da agricultura familiar em um contexto de expansão do agronegócio com representantes comunitários do Planalto Santareno]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/ZKGA1I</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/ZKGA1I"/>
+        <updated>2022-04-11T11:01:36.999Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/ZKGA1I"><span style="padding:4px 0;">Zoneamento participativo da agricultura familiar em um contexto de expansão do agronegócio com representantes comunitários do Planalto Santareno</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/ZKGA1I"><img src="data:image/png;base64,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" alt="Zoneamento participativo da agricultura familiar em um contexto de expansão do agronegócio com representantes comunitários do Planalto Santareno">
+                            </a>
+                        </div><span class="text-muted">Apr 11, 2022</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Soares de Cortes, João Paulo; Coudel, Émilie; Piraux, Marc; Piva da Silva, Mariana; Abreu dos Santos, Beatriz; Folhes, Ricardo; Nasuti, Stéphanie; Gomes Pereira da Silva, Romero; Bonnal, Vincent, 2022, "Zoneamento participativo da agricultura familiar em um contexto de expansão do agronegócio com representantes comunitários do Planalto Santareno", <a href="https://doi.org/10.18167/DVN1/ZKGA1I" target="_blank">https://doi.org/10.18167/DVN1/ZKGA1I</a>, CIRAD Dataverse, V1
+                        </div>O Planalto Santareno inclui parte dos municípios de Santarém, Belterra e Mojuí dos Campos e se configura em uma fronteira recente de expansão de monoculturas na Amazônia Brasileira. Esta expansão está associada com a instalação de um conjunto de infraestruturas para exportação de...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OptiReUse, a decision support tool for wastewater reuse in agriculture irrigation based on Life Cycle Assessment results]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YLP1BA</id>
@@ -150,10 +168,10 @@
                         </div>This dataset contains all data collected during a 3 year-survey around Montpellier to study the breeding phenology and breeding success of the anuran Pelodytes punctatus.</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[9]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-04-11T10:01:29.088Z</updated>
+        <updated>2022-04-11T11:01:36.910Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
@@ -162,23 +180,5 @@
                         </div><span class="text-muted" style="margin-right:.5em;">Feb 21, 2022</span><a href="/dataverse/astre">UMR ASTRE</a>
 
                         <hr style="margin:.5em;border:0;"></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeu de données sur l'abondance des invertébrés du sol en fonction des pratiques agricoles dans les bananeraies de Martinique]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/FBZYCT</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/FBZYCT"/>
-        <updated>2022-02-16T22:02:11.733Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/FBZYCT"><span style="padding:4px 0;">Jeu de données sur l'abondance des invertébrés du sol en fonction des pratiques agricoles dans les bananeraies de Martinique</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/FBZYCT"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Feb 16, 2022</span><span class="text-muted"> - </span><a href="/dataverse/geco">UPR GECO</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">El Jaouhari, Meryem; Coulis, Mathieu, 2022, "Jeu de données sur l'abondance des invertébrés du sol en fonction des pratiques agricoles dans les bananeraies de Martinique", <a href="https://doi.org/10.18167/DVN1/FBZYCT" target="_blank">https://doi.org/10.18167/DVN1/FBZYCT</a>, CIRAD Dataverse, V1, UNF:6:4ZfUCPdUHjpM4MGgv3VJeg== [fileUNF]
-                        </div>[FR]Jeu de données sur l'abondance des invertébrés du sol collectés entre le 24/03/2018 et le 21/06/2018 dans des bananeraies, des forêts et des jachères enherbées de Martinique. 250 prélèvements ont été réalisés dans 25 parcelles à l'aide de quadrats de 25 x 25 cm. La litière ai...</div>]]></content>
     </entry>
 </feed>
