@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-04-15T12:01:36.366Z</updated>
+    <updated>2022-04-15T13:07:19.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=d1968ce99b3a79268728db760b8b</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=d558f7c99b0488390eeeb57b0e94</icon>
+    <entry>
+        <title type="html"><![CDATA[Code for: Mapping 33 years of sugarcane evolution in São Paulo state, Brazil, using Landsat imagery and generalized space-time classifiers]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/DQXFZG</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/DQXFZG"/>
+        <updated>2022-04-15T13:07:06.702Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/DQXFZG"><span style="padding:4px 0;">Code for: Mapping 33 years of sugarcane evolution in São Paulo state, Brazil, using Landsat imagery and generalized space-time classifiers</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/DQXFZG"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Apr 15, 2022</span><span class="text-muted"> - </span><a href="/dataverse/eco-sols">UMR Eco&amp;Sols</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">le Maire, Guerric; dos Santos Luciano, Ana Cláudia; Gama Campagnuci, Bruna Cristina, 2022, "Code for: Mapping 33 years of sugarcane evolution in São Paulo state, Brazil, using Landsat imagery and generalized space-time classifiers", <a href="https://doi.org/10.18167/DVN1/DQXFZG" target="_blank">https://doi.org/10.18167/DVN1/DQXFZG</a>, CIRAD Dataverse, V1
+                        </div>This dataset includes the Google Earth Engine (GEE) code used to produce the results of the following scientific article: Luciano, A.C.S, Campagnuci, B.C.G., le Maire, G., Mapping 33 years of sugarcane evolution in São Paulo state, Brazil, using Landsat imagery and generalized sp...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zoneamento participativo da agricultura familiar em um contexto de expansão do agronegócio com representantes comunitários do Planalto Santareno]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/ZKGA1I</id>
@@ -166,19 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Jourdan, Hélène, 2022, "Breeding phenology in the parsley frog, Pelodytes punctatus", <a href="https://doi.org/10.18167/DVN1/2TOXXV" target="_blank">https://doi.org/10.18167/DVN1/2TOXXV</a>, CIRAD Dataverse, V1
                         </div>This dataset contains all data collected during a 3 year-survey around Montpellier to study the breeding phenology and breeding success of the anuran Pelodytes punctatus.</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9]]></title>
-        <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
-        <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-04-15T12:01:25.304Z</updated>
-        <content type="html"><![CDATA[<div class="dataverseResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/scobim"><span style="padding:4px 0;">SCOBIM</span></a><span class="text-muted" style="margin-left: .5em;">(CIRAD)</span>
-                        </div>
-                        <div class="card-preview-icon-block text-center"><a href="/dataverse/scobim"><span class="icon-dataverse text-brand"></span></a>
-                        </div><span class="text-muted" style="margin-right:.5em;">Feb 21, 2022</span><a href="/dataverse/astre">UMR ASTRE</a>
-
-                        <hr style="margin:.5em;border:0;"></div>]]></content>
     </entry>
 </feed>
