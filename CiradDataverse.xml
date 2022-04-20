@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-04-20T01:33:11.254Z</updated>
+    <updated>2022-04-20T02:43:58.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=499d05966253e2d0960c44f6d16d</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=4daa3afbe83302158fc3d07f2c30</icon>
     <entry>
         <title type="html"><![CDATA[Code for: Mapping 33 years of sugarcane evolution in São Paulo state, Brazil, using Landsat imagery and generalized space-time classifiers]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/DQXFZG</id>
