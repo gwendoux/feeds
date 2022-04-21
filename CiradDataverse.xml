@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-04-21T09:01:50.849Z</updated>
+    <updated>2022-04-21T10:01:45.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=b5aed7445f491aad3f6c9d9ee4c3</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=b91ce54b8c1729c4a71ca29d3d71</icon>
     <entry>
         <title type="html"><![CDATA[Profitability assessment of the Coffee agroforestry business driven clusters (CaFC)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX</id>
