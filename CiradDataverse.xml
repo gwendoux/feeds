@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-04-21T14:03:42.601Z</updated>
+    <updated>2022-04-21T15:01:33.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=c6f52ca10c9a54cc0b5a260713d9</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=ca44134767c5f8272c359a0a5efa</icon>
+    <entry>
+        <title type="html"><![CDATA[Compositional analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YRMQ52</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YRMQ52"/>
+        <updated>2022-04-21T15:01:17.780Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YRMQ52"><span style="padding:4px 0;">Compositional analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YRMQ52"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Apr 21, 2022</span><span class="text-muted"> - </span><a href="/dataverse/recyclage-risque">UPR Recyclage et Risque</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Thuriès, Laurent; Rabetokotany-Rarivoson, Nantenaina, 2022, "Compositional analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar", <a href="https://doi.org/10.18167/DVN1/YRMQ52" target="_blank">https://doi.org/10.18167/DVN1/YRMQ52</a>, CIRAD Dataverse, V1, UNF:6:Fc+vhwLzmLCdn8FTT9UOaA== [fileUNF]
+                        </div>This dataset is a compilation of chemical analysis of 1.000 organic wastes, so called organic resources (OR) collected during different studies in Madagascar (2009-2012). The samples were divided into four groups according to their origin: animal, agroindustrial, urban or others....</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Profitability assessment of the Coffee agroforestry business driven clusters (CaFC)]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/8RKHFX</id>
@@ -166,23 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">Valentin Sarah; De Waele Valérie; Vilain Aline; Arsevska Elena; Lancelot Renaud; Roche Mathieu, 2019, "Annotation of epidemiological information in animal disease-related news articles: guidelines and manually labelled corpus", <a href="https://doi.org/10.18167/DVN1/YGAKNB" target="_blank">https://doi.org/10.18167/DVN1/YGAKNB</a>, CIRAD Dataverse, V2, UNF:6:H+qzG30RSQ4fWYYA2UBwEQ== [fileUNF]
                         </div>This dataset contains two files: (i) An annotated corpus ("epi_info_corpus.xlsx") containing 486 manually annotated sentences extracted from 32 animal disease-related news articles. These news articles were obtained from the database of an event-based biosurveillance system dedic...</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DATA4C+ - A thesaurus to define land management practices in agriculture and forestry for soil carbon storage]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/HMCPMF</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/HMCPMF"/>
-        <updated>2022-02-28T17:03:32.633Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/HMCPMF"><span style="padding:4px 0;">DATA4C+ - A thesaurus to define land management practices in agriculture and forestry for soil carbon storage</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/HMCPMF"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Feb 28, 2022</span><span class="text-muted"> - </span><a href="/dataverse/aida">AIDA</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Demenois, Julien; Fujisaki, Kenji; Chevallier, Tiphaine; Bispo, Antonio; Laurent, Jean-Baptiste; Thévenin, François; Chapuis-Lardy, Lydie; Cardinael, Rémi; Freycon, Vincent; Bénédet, Fabrice; Le Bas, Christine; Tella, Marie; Blanfort, Vincent; Brossard, Michel, 2022, "DATA4C+ - A thesaurus to define land management practices in agriculture and forestry for soil carbon storage", <a href="https://doi.org/10.18167/DVN1/HMCPMF" target="_blank">https://doi.org/10.18167/DVN1/HMCPMF</a>, CIRAD Dataverse, V1
-                        </div>DATA4C+ is a thesaurus classifying and defining land management practices in agriculture and forestry for soil carbon storage. DATA4C+ thesaurus is focussed on land management practices identified in the scientific literature as drivers of soil organic carbon (SOC) changes. DATA4...</div>]]></content>
     </entry>
 </feed>
