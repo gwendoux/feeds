@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-04-22T08:01:54.635Z</updated>
+    <updated>2022-04-22T09:01:33.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=04a6f5a48bc7ee65b32029d5291c</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=08109a21790fb0bea761f46479cf</icon>
+    <entry>
+        <title type="html"><![CDATA[Spectroscopic (VIS-NIR) analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar]]></title>
+        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/SZSTBD</id>
+        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/SZSTBD"/>
+        <updated>2022-04-22T09:01:18.994Z</updated>
+        <content type="html"><![CDATA[<div class="datasetResult clearfix">
+                        <div class="card-title-icon-block">
+                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/SZSTBD"><span style="padding:4px 0;">Spectroscopic (VIS-NIR) analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar</span></a>
+                        </div>
+                        <div class="card-preview-icon-block text-center">
+                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/SZSTBD"><span class="icon-dataset"></span>
+                            </a>
+                        </div><span class="text-muted">Apr 22, 2022</span><span class="text-muted"> - </span><a href="/dataverse/recyclage-risque">UPR Recyclage et Risque</a>
+
+                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">RABETOKOTANY RARIVOSON Nantenaina; THURIES Laurent; RAMAHEFARISON Heriniaina; RAZAFIMBELO Tantely, 2022, "Spectroscopic (VIS-NIR) analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar", <a href="https://doi.org/10.18167/DVN1/SZSTBD" target="_blank">https://doi.org/10.18167/DVN1/SZSTBD</a>, CIRAD Dataverse, V1
+                        </div>VIS-NIR spectra of organic resources collected in Madagascar from livestock, urban or agrobusiness origins. The data on organic resources include the origin (animal, agro-industrial, and urban); nature (manure, agro-industrial waste, and compost); farm type (smallholder and agric...</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Compositional analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YRMQ52</id>
@@ -166,23 +184,5 @@
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">DIOUF, Esther; PIOU, Cyril, 2022, "An agent-based model to simulate the boosted Sterile Insect Technique for fruit fly management", <a href="https://doi.org/10.18167/DVN1/5WELPP" target="_blank">https://doi.org/10.18167/DVN1/5WELPP</a>, CIRAD Dataverse, V1
                         </div>Multi-agent model BOOSTIT source code for NetLogo (v. 6.1.1)</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Annotation of epidemiological information in animal disease-related news articles: guidelines and manually labelled corpus]]></title>
-        <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YGAKNB</id>
-        <link href="https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YGAKNB"/>
-        <updated>2022-03-07T17:04:23.076Z</updated>
-        <content type="html"><![CDATA[<div class="datasetResult clearfix">
-                        <div class="card-title-icon-block">
-                            <span class="icon-dataset text-info pull-right" title="Dataset"></span>
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YGAKNB"><span style="padding:4px 0;">Annotation of epidemiological information in animal disease-related news articles: guidelines and manually labelled corpus</span></a>
-                        </div>
-                        <div class="card-preview-icon-block text-center">
-                            <a href="/dataset.xhtml?persistentId=doi:10.18167/DVN1/YGAKNB"><span class="icon-dataset"></span>
-                            </a>
-                        </div><span class="text-muted">Mar 7, 2022</span><span class="text-muted"> - </span><a href="/dataverse/tetis">UMR TETIS</a>
-
-                        <div class="resultDatasetCitationBlock alert alert-info bg-citation">Valentin Sarah; De Waele Valérie; Vilain Aline; Arsevska Elena; Lancelot Renaud; Roche Mathieu, 2019, "Annotation of epidemiological information in animal disease-related news articles: guidelines and manually labelled corpus", <a href="https://doi.org/10.18167/DVN1/YGAKNB" target="_blank">https://doi.org/10.18167/DVN1/YGAKNB</a>, CIRAD Dataverse, V2, UNF:6:H+qzG30RSQ4fWYYA2UBwEQ== [fileUNF]
-                        </div>This dataset contains two files: (i) An annotated corpus ("epi_info_corpus.xlsx") containing 486 manually annotated sentences extracted from 32 animal disease-related news articles. These news articles were obtained from the database of an event-based biosurveillance system dedic...</div>]]></content>
     </entry>
 </feed>
