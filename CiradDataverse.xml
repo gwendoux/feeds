@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-04-22T04:18:12.837Z</updated>
+    <updated>2022-04-22T05:14:02.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=f7d9ef6f452998ebabf01d84a449</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=fb0ba13bc5ba0005c781917f313b</icon>
     <entry>
         <title type="html"><![CDATA[Compositional analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/YRMQ52</id>
