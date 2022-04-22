@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gwendoux.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-22T10:01:23.972Z</updated>
+    <updated>2022-04-22T11:01:43.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Spectroscopic (VIS-NIR) analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar (Newly published Datasets from Cirad Dataverse)]]></title>
@@ -20,7 +20,7 @@
                         </div><span class="text-muted">Apr 22, 2022</span><span class="text-muted"> - </span><a href="/dataverse/recyclage-risque">UPR Recyclage et Risque</a>
 
                         <div class="resultDatasetCitationBlock alert alert-info bg-citation">RABETOKOTANY RARIVOSON Nantenaina; THURIES Laurent; RAMAHEFARISON Heriniaina; RAZAFIMBELO Tantely, 2022, "Spectroscopic (VIS-NIR) analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar", <a href="https://doi.org/10.18167/DVN1/SZSTBD" target="_blank">https://doi.org/10.18167/DVN1/SZSTBD</a>, CIRAD Dataverse, V1
-                        </div>VIS-NIR spectra of organic resources collected in Madagascar from livestock, urban or agrobusiness origins. The data on organic resources include the origin (animal, agro-industrial, and urban); nature (manure, agro-industrial waste, and compost); farm type (smallholder and agric...</div>]]></content>
+                        </div>VIS-NIR spectra of organic resources collected in Madagascar from livestock, urban or agrobusiness origins. Detailed description of origin, animal species, by-products types, and compositional analysis are at https://doi.org/10.18167/DVN1/YRMQ52</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Compositional analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar (Newly published Datasets from Cirad Dataverse)]]></title>
