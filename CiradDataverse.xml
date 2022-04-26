@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-04-26T08:01:46.734Z</updated>
+    <updated>2022-04-26T09:01:29.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=4e3c1814c6e6a5202939815b3594</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=51a6d1c8ce7aca3d6c9d6faf1665</icon>
     <entry>
         <title type="html"><![CDATA[Spectroscopic (VIS-NIR) analysis of organic resources with animal, agro-industrial, and urban origins collected from different regions of Madagascar]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/SZSTBD</id>
