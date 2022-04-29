@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-04-29T20:01:31.057Z</updated>
+    <updated>2022-04-29T21:02:00.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=6e9bbd969ee864df3e35e350bddb</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=72125f4199085613f19fb7b4552a</icon>
     <entry>
         <title type="html"><![CDATA[La Réunion - occupation du sol - carte 2021 (Spot6/7) - 1.5m]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/MR4YT9</id>
