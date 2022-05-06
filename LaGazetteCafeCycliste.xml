@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cafeducycliste.com/la-gazette/</id>
     <title>La Gazette de café du cycliste</title>
-    <updated>2022-05-06T02:30:58.010Z</updated>
+    <updated>2022-05-06T03:18:28.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://d6ea5r7lgkrij.cloudfront.net/media/favicon/stores/7/favicon-CDC.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Night Rider: Escaping the Heat.]]></title>
+        <id>https://www.cafeducycliste.com/en_us/la-gazette/night-rider/</id>
+        <link href="https://www.cafeducycliste.com/en_us/la-gazette/night-rider/"/>
+        <updated>2022-05-06T03:18:22.959Z</updated>
+        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/night-rider/" title="Night Rider"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/04/DubaiNight_FeatureImage1-29-04-22.jpg" alt="Night Rider"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/night-rider/" title="Night Rider">ROULER</a></h2><p><strong> The Night Rider: Escaping the Heat.</strong> In the Middle East, from June to September, riding a bicycle means using the home trainer and the air conditioning, unless, you choose to ride at night. It’s a fascinating notion, ​​pedalling through under the stars when a good part of the city is sleeping. </p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jebel Jais – A Mountain in the Desert.]]></title>
         <id>https://www.cafeducycliste.com/en_us/la-gazette/jebel-jais-a-mountain-in-the-desert/</id>
@@ -81,12 +88,5 @@
         <link href="https://www.cafeducycliste.com/en_us/la-gazette/anton-krupicka-farewell-to-winter/"/>
         <updated>2022-04-19T06:02:07.291Z</updated>
         <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/anton-krupicka-farewell-to-winter/" title="Anton Krupicka: Farewell to Winter"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/03/feature-image-krupicka-220322.jpg" alt="Anton Krupicka: Farewell to Winter"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/anton-krupicka-farewell-to-winter/" title="Anton Krupicka: Farewell to Winter">LA MAISON</a></h2><p><strong> Anton Krupicka: Farwell to Winter.</strong> It is said that the ride should be about the journey, not the destination. However, for Anton Krupicka and Hailey Moore, a recent trip in the Colorado mountains proved it’s about both.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Brasucade in the World.]]></title>
-        <id>https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/</id>
-        <link href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/"/>
-        <updated>2022-04-19T06:02:07.293Z</updated>
-        <content type="html"><![CDATA[<div class="img-thumb"> <a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/" title="The Best Brasucade in the World"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=" data-amsrc="https://www.cafeducycliste.com/wp/en-us/wp-content/uploads/sites/7/2022/03/feature_image_2-17-03-22.jpg" alt="The Best Brasucade in the World"></a> </div><h2><a href="https://www.cafeducycliste.com/en_us/la-gazette/the-best-brasucade-in-the-world/" title="The Best Brasucade in the World">LA VIE</a></h2><p><strong>The Best Brasucade in the World. </strong> A meal at the end of exploring the Camargue, home to flamboyant flamingoes and brooding bulls. Fresh Mediterranean mussels from the local fishing port, with a sauce made of olive oil, herbs and Pastis.</p>]]></content>
     </entry>
 </feed>
