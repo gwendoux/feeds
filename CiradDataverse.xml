@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-05-07T20:01:51.614Z</updated>
+    <updated>2022-05-07T21:01:54.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=01cf10945a7db915bf5d9da8f2dd</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=053f1fbc3b95dff1d6c8a8c04899</icon>
     <entry>
         <title type="html"><![CDATA[A global database of land management, land-use change and climate change effects on soil organic carbon]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/KKPLR8</id>
