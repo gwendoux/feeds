@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
     <title>Newly published Datasets from Cirad Dataverse</title>
-    <updated>2022-05-12T06:01:36.890Z</updated>
+    <updated>2022-05-12T07:16:14.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=6db80b110d56e1950c3010dd1cb8</icon>
+    <icon>https://dataverse.cirad.fr/javax.faces.resource/images/fav/favicon-16x16.png.xhtml;jsessionid=71fd0bf173ca1fea353c3a6ef2a2</icon>
     <entry>
         <title type="html"><![CDATA[Ants from S.Groc (PhD) and S.Durou (MasterII) works]]></title>
         <id>https://dataverse.cirad.fr/dataset.xhtml?persistentId=doi:10.18167/DVN1/A8DVPJ</id>
@@ -27,7 +27,7 @@
         <title type="html"><![CDATA[1]]></title>
         <id>https://dataverse.cirad.fr/dataverse/CIRAD</id>
         <link href="https://dataverse.cirad.fr/dataverse/CIRAD"/>
-        <updated>2022-05-12T06:01:22.875Z</updated>
+        <updated>2022-05-12T07:16:00.470Z</updated>
         <content type="html"><![CDATA[<div class="dataverseResult clearfix">
                         <div class="card-title-icon-block">
                             <span class="icon-dataverse text-brand pull-right" title="Dataverse"></span><a href="/dataverse/arthroecofog"><span style="padding:4px 0;">ArthroEcoFoG</span></a><span class="text-muted" style="margin-left: .5em;">(UMR EcoFoG, AgroParisTech CIRAD CNRS INRAE Univ Antilles Univ Guyane)</span>
